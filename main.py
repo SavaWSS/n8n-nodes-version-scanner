@@ -91,6 +91,13 @@ class N8nNodeScanner:
 
         return None
 
+    def extract_name(self, content: str) -> str:
+        """Extrait le nom du node du contenu"""
+        name_match = re.search(r'name:\s*[\'"](.+)[\'"]', content)
+        if name_match:
+            return name_match.group(1)
+        return ''
+
     def get_file_content(self, file_path: str, branch: str = 'master') -> str:
         """Récupère le contenu d'un fichier"""
         url = f'{self.base_url}/contents/{file_path}?ref={branch}'
@@ -130,6 +137,7 @@ class N8nNodeScanner:
             file_path = file['path']
             content = self.get_file_content(file_path, branch)
             version = self.extract_version(content)
+            name = self.extract_name(content)
 
             if version is not None:
                 # Extraire le nom du node du chemin
@@ -137,11 +145,13 @@ class N8nNodeScanner:
 
                 results[node_name] = {
                     'path': file_path,
+                    'name': name,
                     'version_info': self.format_version_info(version)
                 }
 
                 print(f"Node traité: {node_name}")
                 print(f"  Chemin: {file_path}")
+                print(f"  Nom: {name}")
                 print(f"  Version: {version}")
                 print("---")
 
