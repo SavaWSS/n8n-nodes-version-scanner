@@ -1,0 +1,4783 @@
+{
+  "ActionNetwork": {
+    "path": "packages/nodes-base/nodes/ActionNetwork/ActionNetwork.node.ts",
+    "version_info": {
+      "version": 1.0,
+      "is_multi_version": false,
+      "last_updated": "2024-11-13T10:33:29.884996"
+    }
+  },
+  "ActiveCampaign": {
+    "path": "packages/nodes-base/nodes/ActiveCampaign/ActiveCampaign.node.ts",
+    "version_info": {
+      "version": 1.0,
+      "is_multi_version": false,
+      "last_updated": "2024-11-13T10:33:30.430412"
+    }
+  },
+  "ActiveCampaignTrigger": {
+    "path": "packages/nodes-base/nodes/ActiveCampaign/ActiveCampaignTrigger.node.ts",
+    "version_info": {
+      "version": 1.0,
+      "is_multi_version": false,
+      "last_updated": "2024-11-13T10:33:30.922724"
+    }
+  },
+  "AcuitySchedulingTrigger": {
+    "path": "packages/nodes-base/nodes/AcuityScheduling/AcuitySchedulingTrigger.node.ts",
+    "version_info": {
+      "version": 1.0,
+      "is_multi_version": false,
+      "last_updated": "2024-11-13T10:33:31.336981"
+    }
+  },
+  "Adalo": {
+    "path": "packages/nodes-base/nodes/Adalo/Adalo.node.ts",
+    "version_info": {
+      "version": 1.0,
+      "is_multi_version": false,
+      "last_updated": "2024-11-13T10:33:31.735645"
+    }
+  },
+  "Affinity": {
+    "path": "packages/nodes-base/nodes/Affinity/Affinity.node.ts",
+    "version_info": {
+      "version": 1.0,
+      "is_multi_version": false,
+      "last_updated": "2024-11-13T10:33:32.133088"
+    }
+  },
+  "AffinityTrigger": {
+    "path": "packages/nodes-base/nodes/Affinity/AffinityTrigger.node.ts",
+    "version_info": {
+      "version": 1.0,
+      "is_multi_version": false,
+      "last_updated": "2024-11-13T10:33:33.049248"
+    }
+  },
+  "AgileCrm": {
+    "path": "packages/nodes-base/nodes/AgileCrm/AgileCrm.node.ts",
+    "version_info": {
+      "version": 1.0,
+      "is_multi_version": false,
+      "last_updated": "2024-11-13T10:33:33.460228"
+    }
+  },
+  "AiTransform": {
+    "path": "packages/nodes-base/nodes/AiTransform/AiTransform.node.ts",
+    "version_info": {
+      "version": 1.0,
+      "is_multi_version": false,
+      "last_updated": "2024-11-13T10:33:33.965754"
+    }
+  },
+  "Airtable": {
+    "path": "packages/nodes-base/nodes/Airtable/Airtable.node.ts",
+    "version_info": {
+      "version": 2.1,
+      "is_multi_version": false,
+      "last_updated": "2024-11-13T10:33:34.386786"
+    }
+  },
+  "AirtableTrigger": {
+    "path": "packages/nodes-base/nodes/Airtable/AirtableTrigger.node.ts",
+    "version_info": {
+      "version": 1.0,
+      "is_multi_version": false,
+      "last_updated": "2024-11-13T10:33:34.802042"
+    }
+  },
+  "AirtableV1": {
+    "path": "packages/nodes-base/nodes/Airtable/v1/AirtableV1.node.ts",
+    "version_info": {
+      "version": 1.0,
+      "is_multi_version": false,
+      "last_updated": "2024-11-13T10:33:35.245043"
+    }
+  },
+  "Amqp": {
+    "path": "packages/nodes-base/nodes/Amqp/Amqp.node.ts",
+    "version_info": {
+      "version": 1.0,
+      "is_multi_version": false,
+      "last_updated": "2024-11-13T10:33:36.090143"
+    }
+  },
+  "AmqpTrigger": {
+    "path": "packages/nodes-base/nodes/Amqp/AmqpTrigger.node.ts",
+    "version_info": {
+      "version": 1.0,
+      "is_multi_version": false,
+      "last_updated": "2024-11-13T10:33:36.530847"
+    }
+  },
+  "ApiTemplateIo": {
+    "path": "packages/nodes-base/nodes/ApiTemplateIo/ApiTemplateIo.node.ts",
+    "version_info": {
+      "version": 1.0,
+      "is_multi_version": false,
+      "last_updated": "2024-11-13T10:33:36.984382"
+    }
+  },
+  "Asana": {
+    "path": "packages/nodes-base/nodes/Asana/Asana.node.ts",
+    "version_info": {
+      "version": 1.0,
+      "is_multi_version": false,
+      "last_updated": "2024-11-13T10:33:37.429946"
+    }
+  },
+  "AsanaTrigger": {
+    "path": "packages/nodes-base/nodes/Asana/AsanaTrigger.node.ts",
+    "version_info": {
+      "version": 1.0,
+      "is_multi_version": false,
+      "last_updated": "2024-11-13T10:33:37.965565"
+    }
+  },
+  "Automizy": {
+    "path": "packages/nodes-base/nodes/Automizy/Automizy.node.ts",
+    "version_info": {
+      "version": 1.0,
+      "is_multi_version": false,
+      "last_updated": "2024-11-13T10:33:38.409277"
+    }
+  },
+  "Autopilot": {
+    "path": "packages/nodes-base/nodes/Autopilot/Autopilot.node.ts",
+    "version_info": {
+      "version": 1.0,
+      "is_multi_version": false,
+      "last_updated": "2024-11-13T10:33:38.993555"
+    }
+  },
+  "AutopilotTrigger": {
+    "path": "packages/nodes-base/nodes/Autopilot/AutopilotTrigger.node.ts",
+    "version_info": {
+      "version": 1.0,
+      "is_multi_version": false,
+      "last_updated": "2024-11-13T10:33:39.382649"
+    }
+  },
+  "AwsLambda": {
+    "path": "packages/nodes-base/nodes/Aws/AwsLambda.node.ts",
+    "version_info": {
+      "version": 1.0,
+      "is_multi_version": false,
+      "last_updated": "2024-11-13T10:33:39.823425"
+    }
+  },
+  "AwsSns": {
+    "path": "packages/nodes-base/nodes/Aws/AwsSns.node.ts",
+    "version_info": {
+      "version": 1.0,
+      "is_multi_version": false,
+      "last_updated": "2024-11-13T10:33:40.251494"
+    }
+  },
+  "AwsSnsTrigger": {
+    "path": "packages/nodes-base/nodes/Aws/AwsSnsTrigger.node.ts",
+    "version_info": {
+      "version": 1.0,
+      "is_multi_version": false,
+      "last_updated": "2024-11-13T10:33:40.693468"
+    }
+  },
+  "AwsCertificateManager": {
+    "path": "packages/nodes-base/nodes/Aws/CertificateManager/AwsCertificateManager.node.ts",
+    "version_info": {
+      "version": 1.0,
+      "is_multi_version": false,
+      "last_updated": "2024-11-13T10:33:41.084366"
+    }
+  },
+  "AwsComprehend": {
+    "path": "packages/nodes-base/nodes/Aws/Comprehend/AwsComprehend.node.ts",
+    "version_info": {
+      "version": 1.0,
+      "is_multi_version": false,
+      "last_updated": "2024-11-13T10:33:41.499504"
+    }
+  },
+  "AwsDynamoDB": {
+    "path": "packages/nodes-base/nodes/Aws/DynamoDB/AwsDynamoDB.node.ts",
+    "version_info": {
+      "version": 1.0,
+      "is_multi_version": false,
+      "last_updated": "2024-11-13T10:33:41.897184"
+    }
+  },
+  "AwsElb": {
+    "path": "packages/nodes-base/nodes/Aws/ELB/AwsElb.node.ts",
+    "version_info": {
+      "version": 1.0,
+      "is_multi_version": false,
+      "last_updated": "2024-11-13T10:33:42.322243"
+    }
+  },
+  "AwsRekognition": {
+    "path": "packages/nodes-base/nodes/Aws/Rekognition/AwsRekognition.node.ts",
+    "version_info": {
+      "version": 1.0,
+      "is_multi_version": false,
+      "last_updated": "2024-11-13T10:33:42.725406"
+    }
+  },
+  "AwsS3": {
+    "path": "packages/nodes-base/nodes/Aws/S3/AwsS3.node.ts",
+    "version_info": {
+      "version": 2.0,
+      "is_multi_version": false,
+      "last_updated": "2024-11-13T10:33:43.139394"
+    }
+  },
+  "AwsS3V1": {
+    "path": "packages/nodes-base/nodes/Aws/S3/V1/AwsS3V1.node.ts",
+    "version_info": {
+      "version": 1.0,
+      "is_multi_version": false,
+      "last_updated": "2024-11-13T10:33:43.687401"
+    }
+  },
+  "AwsS3V2": {
+    "path": "packages/nodes-base/nodes/Aws/S3/V2/AwsS3V2.node.ts",
+    "version_info": {
+      "version": 2.0,
+      "is_multi_version": false,
+      "last_updated": "2024-11-13T10:33:44.112732"
+    }
+  },
+  "AwsSes": {
+    "path": "packages/nodes-base/nodes/Aws/SES/AwsSes.node.ts",
+    "version_info": {
+      "version": 1.0,
+      "is_multi_version": false,
+      "last_updated": "2024-11-13T10:33:44.621123"
+    }
+  },
+  "AwsSqs": {
+    "path": "packages/nodes-base/nodes/Aws/SQS/AwsSqs.node.ts",
+    "version_info": {
+      "version": 1.0,
+      "is_multi_version": false,
+      "last_updated": "2024-11-13T10:33:45.025735"
+    }
+  },
+  "AwsTextract": {
+    "path": "packages/nodes-base/nodes/Aws/Textract/AwsTextract.node.ts",
+    "version_info": {
+      "version": 1.0,
+      "is_multi_version": false,
+      "last_updated": "2024-11-13T10:33:45.488768"
+    }
+  },
+  "AwsTranscribe": {
+    "path": "packages/nodes-base/nodes/Aws/Transcribe/AwsTranscribe.node.ts",
+    "version_info": {
+      "version": 1.0,
+      "is_multi_version": false,
+      "last_updated": "2024-11-13T10:33:45.907710"
+    }
+  },
+  "Bannerbear": {
+    "path": "packages/nodes-base/nodes/Bannerbear/Bannerbear.node.ts",
+    "version_info": {
+      "version": 1.0,
+      "is_multi_version": false,
+      "last_updated": "2024-11-13T10:33:46.798953"
+    }
+  },
+  "Baserow": {
+    "path": "packages/nodes-base/nodes/Baserow/Baserow.node.ts",
+    "version_info": {
+      "version": 1.0,
+      "is_multi_version": false,
+      "last_updated": "2024-11-13T10:33:47.221419"
+    }
+  },
+  "Beeminder": {
+    "path": "packages/nodes-base/nodes/Beeminder/Beeminder.node.ts",
+    "version_info": {
+      "version": 1.0,
+      "is_multi_version": false,
+      "last_updated": "2024-11-13T10:33:47.634996"
+    }
+  },
+  "BitbucketTrigger": {
+    "path": "packages/nodes-base/nodes/Bitbucket/BitbucketTrigger.node.ts",
+    "version_info": {
+      "version": 1.0,
+      "is_multi_version": false,
+      "last_updated": "2024-11-13T10:33:48.033044"
+    }
+  },
+  "Bitly": {
+    "path": "packages/nodes-base/nodes/Bitly/Bitly.node.ts",
+    "version_info": {
+      "version": 1.0,
+      "is_multi_version": false,
+      "last_updated": "2024-11-13T10:33:48.448902"
+    }
+  },
+  "Bitwarden": {
+    "path": "packages/nodes-base/nodes/Bitwarden/Bitwarden.node.ts",
+    "version_info": {
+      "version": 1.0,
+      "is_multi_version": false,
+      "last_updated": "2024-11-13T10:33:48.853300"
+    }
+  },
+  "Box": {
+    "path": "packages/nodes-base/nodes/Box/Box.node.ts",
+    "version_info": {
+      "version": 1.0,
+      "is_multi_version": false,
+      "last_updated": "2024-11-13T10:33:49.291409"
+    }
+  },
+  "BoxTrigger": {
+    "path": "packages/nodes-base/nodes/Box/BoxTrigger.node.ts",
+    "version_info": {
+      "version": 1.0,
+      "is_multi_version": false,
+      "last_updated": "2024-11-13T10:33:49.721457"
+    }
+  },
+  "Brandfetch": {
+    "path": "packages/nodes-base/nodes/Brandfetch/Brandfetch.node.ts",
+    "version_info": {
+      "version": 1.0,
+      "is_multi_version": false,
+      "last_updated": "2024-11-13T10:33:50.139960"
+    }
+  },
+  "Brevo": {
+    "path": "packages/nodes-base/nodes/Brevo/Brevo.node.ts",
+    "version_info": {
+      "version": 1.0,
+      "is_multi_version": false,
+      "last_updated": "2024-11-13T10:33:50.577045"
+    }
+  },
+  "BrevoTrigger": {
+    "path": "packages/nodes-base/nodes/Brevo/BrevoTrigger.node.ts",
+    "version_info": {
+      "version": 1.0,
+      "is_multi_version": false,
+      "last_updated": "2024-11-13T10:33:51.005985"
+    }
+  },
+  "Bubble": {
+    "path": "packages/nodes-base/nodes/Bubble/Bubble.node.ts",
+    "version_info": {
+      "version": 1.0,
+      "is_multi_version": false,
+      "last_updated": "2024-11-13T10:33:51.418033"
+    }
+  },
+  "CalTrigger": {
+    "path": "packages/nodes-base/nodes/Cal/CalTrigger.node.ts",
+    "version_info": {
+      "latest_version": 2.0,
+      "all_versions": [
+        1.0,
+        2.0
+      ],
+      "is_multi_version": true,
+      "last_updated": "2024-11-13T10:33:51.825513"
+    }
+  },
+  "CalendlyTrigger": {
+    "path": "packages/nodes-base/nodes/Calendly/CalendlyTrigger.node.ts",
+    "version_info": {
+      "version": 1.0,
+      "is_multi_version": false,
+      "last_updated": "2024-11-13T10:33:52.232923"
+    }
+  },
+  "Chargebee": {
+    "path": "packages/nodes-base/nodes/Chargebee/Chargebee.node.ts",
+    "version_info": {
+      "version": 1.0,
+      "is_multi_version": false,
+      "last_updated": "2024-11-13T10:33:52.669799"
+    }
+  },
+  "ChargebeeTrigger": {
+    "path": "packages/nodes-base/nodes/Chargebee/ChargebeeTrigger.node.ts",
+    "version_info": {
+      "version": 1.0,
+      "is_multi_version": false,
+      "last_updated": "2024-11-13T10:33:53.118697"
+    }
+  },
+  "CircleCi": {
+    "path": "packages/nodes-base/nodes/CircleCi/CircleCi.node.ts",
+    "version_info": {
+      "version": 1.0,
+      "is_multi_version": false,
+      "last_updated": "2024-11-13T10:33:53.535472"
+    }
+  },
+  "CiscoWebex": {
+    "path": "packages/nodes-base/nodes/Cisco/Webex/CiscoWebex.node.ts",
+    "version_info": {
+      "version": 1.0,
+      "is_multi_version": false,
+      "last_updated": "2024-11-13T10:33:53.940307"
+    }
+  },
+  "CiscoWebexTrigger": {
+    "path": "packages/nodes-base/nodes/Cisco/Webex/CiscoWebexTrigger.node.ts",
+    "version_info": {
+      "version": 1.0,
+      "is_multi_version": false,
+      "last_updated": "2024-11-13T10:33:54.379599"
+    }
+  },
+  "Clearbit": {
+    "path": "packages/nodes-base/nodes/Clearbit/Clearbit.node.ts",
+    "version_info": {
+      "version": 1.0,
+      "is_multi_version": false,
+      "last_updated": "2024-11-13T10:33:54.819421"
+    }
+  },
+  "ClickUp": {
+    "path": "packages/nodes-base/nodes/ClickUp/ClickUp.node.ts",
+    "version_info": {
+      "version": 1.0,
+      "is_multi_version": false,
+      "last_updated": "2024-11-13T10:33:55.306540"
+    }
+  },
+  "ClickUpTrigger": {
+    "path": "packages/nodes-base/nodes/ClickUp/ClickUpTrigger.node.ts",
+    "version_info": {
+      "version": 1.0,
+      "is_multi_version": false,
+      "last_updated": "2024-11-13T10:33:55.732142"
+    }
+  },
+  "Clockify": {
+    "path": "packages/nodes-base/nodes/Clockify/Clockify.node.ts",
+    "version_info": {
+      "version": 1.0,
+      "is_multi_version": false,
+      "last_updated": "2024-11-13T10:33:56.188052"
+    }
+  },
+  "ClockifyTrigger": {
+    "path": "packages/nodes-base/nodes/Clockify/ClockifyTrigger.node.ts",
+    "version_info": {
+      "version": 1.0,
+      "is_multi_version": false,
+      "last_updated": "2024-11-13T10:33:56.594132"
+    }
+  },
+  "Cloudflare": {
+    "path": "packages/nodes-base/nodes/Cloudflare/Cloudflare.node.ts",
+    "version_info": {
+      "version": 1.0,
+      "is_multi_version": false,
+      "last_updated": "2024-11-13T10:33:57.068649"
+    }
+  },
+  "Cockpit": {
+    "path": "packages/nodes-base/nodes/Cockpit/Cockpit.node.ts",
+    "version_info": {
+      "version": 1.0,
+      "is_multi_version": false,
+      "last_updated": "2024-11-13T10:33:57.513076"
+    }
+  },
+  "Coda": {
+    "path": "packages/nodes-base/nodes/Coda/Coda.node.ts",
+    "version_info": {
+      "latest_version": 1.1,
+      "all_versions": [
+        1.0,
+        1.1
+      ],
+      "is_multi_version": true,
+      "last_updated": "2024-11-13T10:33:57.968683"
+    }
+  },
+  "Code": {
+    "path": "packages/@n8n/nodes-langchain/nodes/code/Code.node.ts",
+    "version_info": {
+      "version": 1.0,
+      "is_multi_version": false,
+      "last_updated": "2024-11-13T10:37:22.393538"
+    }
+  },
+  "CoinGecko": {
+    "path": "packages/nodes-base/nodes/CoinGecko/CoinGecko.node.ts",
+    "version_info": {
+      "version": 1.0,
+      "is_multi_version": false,
+      "last_updated": "2024-11-13T10:33:58.879870"
+    }
+  },
+  "CompareDatasets": {
+    "path": "packages/nodes-base/nodes/CompareDatasets/CompareDatasets.node.ts",
+    "version_info": {
+      "latest_version": 2.3,
+      "all_versions": [
+        1.0,
+        2.0,
+        2.1,
+        2.2,
+        2.3
+      ],
+      "is_multi_version": true,
+      "last_updated": "2024-11-13T10:33:59.304182"
+    }
+  },
+  "Compression": {
+    "path": "packages/nodes-base/nodes/Compression/Compression.node.ts",
+    "version_info": {
+      "latest_version": 1.1,
+      "all_versions": [
+        1.0,
+        1.1
+      ],
+      "is_multi_version": true,
+      "last_updated": "2024-11-13T10:33:59.716842"
+    }
+  },
+  "Contentful": {
+    "path": "packages/nodes-base/nodes/Contentful/Contentful.node.ts",
+    "version_info": {
+      "version": 1.0,
+      "is_multi_version": false,
+      "last_updated": "2024-11-13T10:34:00.130129"
+    }
+  },
+  "ConvertKit": {
+    "path": "packages/nodes-base/nodes/ConvertKit/ConvertKit.node.ts",
+    "version_info": {
+      "version": 1.0,
+      "is_multi_version": false,
+      "last_updated": "2024-11-13T10:34:00.534686"
+    }
+  },
+  "ConvertKitTrigger": {
+    "path": "packages/nodes-base/nodes/ConvertKit/ConvertKitTrigger.node.ts",
+    "version_info": {
+      "version": 1.0,
+      "is_multi_version": false,
+      "last_updated": "2024-11-13T10:34:01.000994"
+    }
+  },
+  "Copper": {
+    "path": "packages/nodes-base/nodes/Copper/Copper.node.ts",
+    "version_info": {
+      "version": 1.0,
+      "is_multi_version": false,
+      "last_updated": "2024-11-13T10:34:01.423236"
+    }
+  },
+  "CopperTrigger": {
+    "path": "packages/nodes-base/nodes/Copper/CopperTrigger.node.ts",
+    "version_info": {
+      "version": 1.0,
+      "is_multi_version": false,
+      "last_updated": "2024-11-13T10:34:02.993689"
+    }
+  },
+  "Cortex": {
+    "path": "packages/nodes-base/nodes/Cortex/Cortex.node.ts",
+    "version_info": {
+      "version": 1.0,
+      "is_multi_version": false,
+      "last_updated": "2024-11-13T10:34:03.387362"
+    }
+  },
+  "CrateDb": {
+    "path": "packages/nodes-base/nodes/CrateDb/CrateDb.node.ts",
+    "version_info": {
+      "version": 1.0,
+      "is_multi_version": false,
+      "last_updated": "2024-11-13T10:34:03.793772"
+    }
+  },
+  "Cron": {
+    "path": "packages/nodes-base/nodes/Cron/Cron.node.ts",
+    "version_info": {
+      "version": 1.0,
+      "is_multi_version": false,
+      "last_updated": "2024-11-13T10:34:04.406384"
+    }
+  },
+  "CrowdDev": {
+    "path": "packages/nodes-base/nodes/CrowdDev/CrowdDev.node.ts",
+    "version_info": {
+      "version": 1.0,
+      "is_multi_version": false,
+      "last_updated": "2024-11-13T10:34:04.835099"
+    }
+  },
+  "CrowdDevTrigger": {
+    "path": "packages/nodes-base/nodes/CrowdDev/CrowdDevTrigger.node.ts",
+    "version_info": {
+      "version": 1.0,
+      "is_multi_version": false,
+      "last_updated": "2024-11-13T10:34:05.296886"
+    }
+  },
+  "Crypto": {
+    "path": "packages/nodes-base/nodes/Crypto/Crypto.node.ts",
+    "version_info": {
+      "version": 1.0,
+      "is_multi_version": false,
+      "last_updated": "2024-11-13T10:34:05.751250"
+    }
+  },
+  "CustomerIo": {
+    "path": "packages/nodes-base/nodes/CustomerIo/CustomerIo.node.ts",
+    "version_info": {
+      "version": 1.0,
+      "is_multi_version": false,
+      "last_updated": "2024-11-13T10:34:06.174894"
+    }
+  },
+  "CustomerIoTrigger": {
+    "path": "packages/nodes-base/nodes/CustomerIo/CustomerIoTrigger.node.ts",
+    "version_info": {
+      "version": 1.0,
+      "is_multi_version": false,
+      "last_updated": "2024-11-13T10:34:06.590233"
+    }
+  },
+  "DateTime": {
+    "path": "packages/nodes-base/nodes/DateTime/DateTime.node.ts",
+    "version_info": {
+      "version": 2.0,
+      "is_multi_version": false,
+      "last_updated": "2024-11-13T10:34:07.028701"
+    }
+  },
+  "DateTimeV1": {
+    "path": "packages/nodes-base/nodes/DateTime/V1/DateTimeV1.node.ts",
+    "version_info": {
+      "version": 1.0,
+      "is_multi_version": false,
+      "last_updated": "2024-11-13T10:34:07.478267"
+    }
+  },
+  "DateTimeV2": {
+    "path": "packages/nodes-base/nodes/DateTime/V2/DateTimeV2.node.ts",
+    "version_info": {
+      "version": 2.0,
+      "is_multi_version": false,
+      "last_updated": "2024-11-13T10:34:07.881038"
+    }
+  },
+  "DebugHelper": {
+    "path": "packages/nodes-base/nodes/DebugHelper/DebugHelper.node.ts",
+    "version_info": {
+      "version": 1.0,
+      "is_multi_version": false,
+      "last_updated": "2024-11-13T10:34:08.321597"
+    }
+  },
+  "DeepL": {
+    "path": "packages/nodes-base/nodes/DeepL/DeepL.node.ts",
+    "version_info": {
+      "version": 1.0,
+      "is_multi_version": false,
+      "last_updated": "2024-11-13T10:34:08.739903"
+    }
+  },
+  "Demio": {
+    "path": "packages/nodes-base/nodes/Demio/Demio.node.ts",
+    "version_info": {
+      "version": 1.0,
+      "is_multi_version": false,
+      "last_updated": "2024-11-13T10:34:09.169373"
+    }
+  },
+  "Dhl": {
+    "path": "packages/nodes-base/nodes/Dhl/Dhl.node.ts",
+    "version_info": {
+      "version": 1.0,
+      "is_multi_version": false,
+      "last_updated": "2024-11-13T10:34:09.596527"
+    }
+  },
+  "Discord": {
+    "path": "packages/nodes-base/nodes/Discord/Discord.node.ts",
+    "version_info": {
+      "version": 2.0,
+      "is_multi_version": false,
+      "last_updated": "2024-11-13T10:34:10.016483"
+    }
+  },
+  "DiscordV1": {
+    "path": "packages/nodes-base/nodes/Discord/v1/DiscordV1.node.ts",
+    "version_info": {
+      "version": 1.0,
+      "is_multi_version": false,
+      "last_updated": "2024-11-13T10:34:10.458862"
+    }
+  },
+  "Discourse": {
+    "path": "packages/nodes-base/nodes/Discourse/Discourse.node.ts",
+    "version_info": {
+      "version": 1.0,
+      "is_multi_version": false,
+      "last_updated": "2024-11-13T10:34:11.249989"
+    }
+  },
+  "Disqus": {
+    "path": "packages/nodes-base/nodes/Disqus/Disqus.node.ts",
+    "version_info": {
+      "version": 1.0,
+      "is_multi_version": false,
+      "last_updated": "2024-11-13T10:34:11.656382"
+    }
+  },
+  "Drift": {
+    "path": "packages/nodes-base/nodes/Drift/Drift.node.ts",
+    "version_info": {
+      "version": 1.0,
+      "is_multi_version": false,
+      "last_updated": "2024-11-13T10:34:12.101566"
+    }
+  },
+  "Dropbox": {
+    "path": "packages/nodes-base/nodes/Dropbox/Dropbox.node.ts",
+    "version_info": {
+      "version": 1.0,
+      "is_multi_version": false,
+      "last_updated": "2024-11-13T10:34:12.517948"
+    }
+  },
+  "Dropcontact": {
+    "path": "packages/nodes-base/nodes/Dropcontact/Dropcontact.node.ts",
+    "version_info": {
+      "version": 1.0,
+      "is_multi_version": false,
+      "last_updated": "2024-11-13T10:34:12.934417"
+    }
+  },
+  "E2eTest": {
+    "path": "packages/nodes-base/nodes/E2eTest/E2eTest.node.ts",
+    "version_info": {
+      "version": 1.0,
+      "is_multi_version": false,
+      "last_updated": "2024-11-13T10:34:13.399468"
+    }
+  },
+  "ERPNext": {
+    "path": "packages/nodes-base/nodes/ERPNext/ERPNext.node.ts",
+    "version_info": {
+      "version": 1.0,
+      "is_multi_version": false,
+      "last_updated": "2024-11-13T10:34:13.845714"
+    }
+  },
+  "EditImage": {
+    "path": "packages/nodes-base/nodes/EditImage/EditImage.node.ts",
+    "version_info": {
+      "version": 1.0,
+      "is_multi_version": false,
+      "last_updated": "2024-11-13T10:34:14.319344"
+    }
+  },
+  "Egoi": {
+    "path": "packages/nodes-base/nodes/Egoi/Egoi.node.ts",
+    "version_info": {
+      "version": 1.0,
+      "is_multi_version": false,
+      "last_updated": "2024-11-13T10:34:14.720998"
+    }
+  },
+  "ElasticSecurity": {
+    "path": "packages/nodes-base/nodes/Elastic/ElasticSecurity/ElasticSecurity.node.ts",
+    "version_info": {
+      "version": 1.0,
+      "is_multi_version": false,
+      "last_updated": "2024-11-13T10:34:15.164632"
+    }
+  },
+  "Elasticsearch": {
+    "path": "packages/nodes-base/nodes/Elastic/Elasticsearch/Elasticsearch.node.ts",
+    "version_info": {
+      "version": 1.0,
+      "is_multi_version": false,
+      "last_updated": "2024-11-13T10:34:15.581466"
+    }
+  },
+  "EmailReadImap": {
+    "path": "packages/nodes-base/nodes/EmailReadImap/EmailReadImap.node.ts",
+    "version_info": {
+      "version": 2.0,
+      "is_multi_version": false,
+      "last_updated": "2024-11-13T10:34:16.017174"
+    }
+  },
+  "EmailReadImapV1": {
+    "path": "packages/nodes-base/nodes/EmailReadImap/v1/EmailReadImapV1.node.ts",
+    "version_info": {
+      "version": 1.0,
+      "is_multi_version": false,
+      "last_updated": "2024-11-13T10:34:16.444215"
+    }
+  },
+  "EmailReadImapV2": {
+    "path": "packages/nodes-base/nodes/EmailReadImap/v2/EmailReadImapV2.node.ts",
+    "version_info": {
+      "version": 2.0,
+      "is_multi_version": false,
+      "last_updated": "2024-11-13T10:34:16.851652"
+    }
+  },
+  "EmailSend": {
+    "path": "packages/nodes-base/nodes/EmailSend/EmailSend.node.ts",
+    "version_info": {
+      "version": 2.1,
+      "is_multi_version": false,
+      "last_updated": "2024-11-13T10:34:17.358352"
+    }
+  },
+  "EmailSendV1": {
+    "path": "packages/nodes-base/nodes/EmailSend/v1/EmailSendV1.node.ts",
+    "version_info": {
+      "version": 1.0,
+      "is_multi_version": false,
+      "last_updated": "2024-11-13T10:34:17.779211"
+    }
+  },
+  "EmailSendV2": {
+    "path": "packages/nodes-base/nodes/EmailSend/v2/EmailSendV2.node.ts",
+    "version_info": {
+      "latest_version": 2.1,
+      "all_versions": [
+        2.0,
+        2.1
+      ],
+      "is_multi_version": true,
+      "last_updated": "2024-11-13T10:34:18.452038"
+    }
+  },
+  "Emelia": {
+    "path": "packages/nodes-base/nodes/Emelia/Emelia.node.ts",
+    "version_info": {
+      "version": 1.0,
+      "is_multi_version": false,
+      "last_updated": "2024-11-13T10:34:18.876081"
+    }
+  },
+  "EmeliaTrigger": {
+    "path": "packages/nodes-base/nodes/Emelia/EmeliaTrigger.node.ts",
+    "version_info": {
+      "version": 1.0,
+      "is_multi_version": false,
+      "last_updated": "2024-11-13T10:34:19.425140"
+    }
+  },
+  "ErrorTrigger": {
+    "path": "packages/nodes-base/nodes/ErrorTrigger/ErrorTrigger.node.ts",
+    "version_info": {
+      "version": 1.0,
+      "is_multi_version": false,
+      "last_updated": "2024-11-13T10:34:19.846168"
+    }
+  },
+  "EventbriteTrigger": {
+    "path": "packages/nodes-base/nodes/Eventbrite/EventbriteTrigger.node.ts",
+    "version_info": {
+      "version": 1.0,
+      "is_multi_version": false,
+      "last_updated": "2024-11-13T10:34:20.259445"
+    }
+  },
+  "ExecuteCommand": {
+    "path": "packages/nodes-base/nodes/ExecuteCommand/ExecuteCommand.node.ts",
+    "version_info": {
+      "version": 1.0,
+      "is_multi_version": false,
+      "last_updated": "2024-11-13T10:34:20.709304"
+    }
+  },
+  "ExecuteWorkflow": {
+    "path": "packages/nodes-base/nodes/ExecuteWorkflow/ExecuteWorkflow.node.ts",
+    "version_info": {
+      "latest_version": 1.1,
+      "all_versions": [
+        1.0,
+        1.1
+      ],
+      "is_multi_version": true,
+      "last_updated": "2024-11-13T10:34:21.132319"
+    }
+  },
+  "ExecuteWorkflowTrigger": {
+    "path": "packages/nodes-base/nodes/ExecuteWorkflowTrigger/ExecuteWorkflowTrigger.node.ts",
+    "version_info": {
+      "version": 1.0,
+      "is_multi_version": false,
+      "last_updated": "2024-11-13T10:34:21.558854"
+    }
+  },
+  "ExecutionData": {
+    "path": "packages/nodes-base/nodes/ExecutionData/ExecutionData.node.ts",
+    "version_info": {
+      "version": 1.0,
+      "is_multi_version": false,
+      "last_updated": "2024-11-13T10:34:21.980077"
+    }
+  },
+  "FacebookGraphApi": {
+    "path": "packages/nodes-base/nodes/Facebook/FacebookGraphApi.node.ts",
+    "version_info": {
+      "version": 1.0,
+      "is_multi_version": false,
+      "last_updated": "2024-11-13T10:34:22.414781"
+    }
+  },
+  "FacebookTrigger": {
+    "path": "packages/nodes-base/nodes/Facebook/FacebookTrigger.node.ts",
+    "version_info": {
+      "version": 1.0,
+      "is_multi_version": false,
+      "last_updated": "2024-11-13T10:34:22.857274"
+    }
+  },
+  "FacebookLeadAdsTrigger": {
+    "path": "packages/nodes-base/nodes/FacebookLeadAds/FacebookLeadAdsTrigger.node.ts",
+    "version_info": {
+      "version": 1.0,
+      "is_multi_version": false,
+      "last_updated": "2024-11-13T10:34:23.266995"
+    }
+  },
+  "FigmaTrigger": {
+    "path": "packages/nodes-base/nodes/Figma/FigmaTrigger.node.ts",
+    "version_info": {
+      "version": 1.0,
+      "is_multi_version": false,
+      "last_updated": "2024-11-13T10:34:23.687221"
+    }
+  },
+  "FileMaker": {
+    "path": "packages/nodes-base/nodes/FileMaker/FileMaker.node.ts",
+    "version_info": {
+      "version": 1.0,
+      "is_multi_version": false,
+      "last_updated": "2024-11-13T10:34:24.097418"
+    }
+  },
+  "ConvertToFile": {
+    "path": "packages/nodes-base/nodes/Files/ConvertToFile/ConvertToFile.node.ts",
+    "version_info": {
+      "latest_version": 1.1,
+      "all_versions": [
+        1.0,
+        1.1
+      ],
+      "is_multi_version": true,
+      "last_updated": "2024-11-13T10:34:24.503370"
+    }
+  },
+  "ExtractFromFile": {
+    "path": "packages/nodes-base/nodes/Files/ExtractFromFile/ExtractFromFile.node.ts",
+    "version_info": {
+      "version": 1.0,
+      "is_multi_version": false,
+      "last_updated": "2024-11-13T10:34:24.913354"
+    }
+  },
+  "ReadWriteFile": {
+    "path": "packages/nodes-base/nodes/Files/ReadWriteFile/ReadWriteFile.node.ts",
+    "version_info": {
+      "version": 1.0,
+      "is_multi_version": false,
+      "last_updated": "2024-11-13T10:34:25.371478"
+    }
+  },
+  "Filter": {
+    "path": "packages/nodes-base/nodes/Filter/Filter.node.ts",
+    "version_info": {
+      "version": 2.2,
+      "is_multi_version": false,
+      "last_updated": "2024-11-13T10:34:25.790826"
+    }
+  },
+  "FilterV1": {
+    "path": "packages/nodes-base/nodes/Filter/V1/FilterV1.node.ts",
+    "version_info": {
+      "version": 1.0,
+      "is_multi_version": false,
+      "last_updated": "2024-11-13T10:34:26.189688"
+    }
+  },
+  "FilterV2": {
+    "path": "packages/nodes-base/nodes/Filter/V2/FilterV2.node.ts",
+    "version_info": {
+      "latest_version": 2.2,
+      "all_versions": [
+        2.0,
+        2.1,
+        2.2
+      ],
+      "is_multi_version": true,
+      "last_updated": "2024-11-13T10:34:26.611368"
+    }
+  },
+  "Flow": {
+    "path": "packages/nodes-base/nodes/Flow/Flow.node.ts",
+    "version_info": {
+      "version": 1.0,
+      "is_multi_version": false,
+      "last_updated": "2024-11-13T10:34:27.028984"
+    }
+  },
+  "FlowTrigger": {
+    "path": "packages/nodes-base/nodes/Flow/FlowTrigger.node.ts",
+    "version_info": {
+      "version": 1.0,
+      "is_multi_version": false,
+      "last_updated": "2024-11-13T10:34:27.489351"
+    }
+  },
+  "Form": {
+    "path": "packages/nodes-base/nodes/Form/Form.node.ts",
+    "version_info": {
+      "version": 1.0,
+      "is_multi_version": false,
+      "last_updated": "2024-11-13T10:34:27.874705"
+    }
+  },
+  "FormTrigger": {
+    "path": "packages/nodes-base/nodes/Form/FormTrigger.node.ts",
+    "version_info": {
+      "version": 2.2,
+      "is_multi_version": false,
+      "last_updated": "2024-11-13T10:34:28.371656"
+    }
+  },
+  "FormTriggerV1": {
+    "path": "packages/nodes-base/nodes/Form/v1/FormTriggerV1.node.ts",
+    "version_info": {
+      "version": 1.0,
+      "is_multi_version": false,
+      "last_updated": "2024-11-13T10:34:28.777183"
+    }
+  },
+  "FormTriggerV2": {
+    "path": "packages/nodes-base/nodes/Form/v2/FormTriggerV2.node.ts",
+    "version_info": {
+      "latest_version": 2.2,
+      "all_versions": [
+        2.0,
+        2.1,
+        2.2
+      ],
+      "is_multi_version": true,
+      "last_updated": "2024-11-13T10:34:29.181028"
+    }
+  },
+  "FormIoTrigger": {
+    "path": "packages/nodes-base/nodes/FormIo/FormIoTrigger.node.ts",
+    "version_info": {
+      "version": 1.0,
+      "is_multi_version": false,
+      "last_updated": "2024-11-13T10:34:29.615792"
+    }
+  },
+  "FormstackTrigger": {
+    "path": "packages/nodes-base/nodes/Formstack/FormstackTrigger.node.ts",
+    "version_info": {
+      "version": 1.0,
+      "is_multi_version": false,
+      "last_updated": "2024-11-13T10:34:30.070851"
+    }
+  },
+  "Freshdesk": {
+    "path": "packages/nodes-base/nodes/Freshdesk/Freshdesk.node.ts",
+    "version_info": {
+      "version": 1.0,
+      "is_multi_version": false,
+      "last_updated": "2024-11-13T10:34:30.523499"
+    }
+  },
+  "Freshservice": {
+    "path": "packages/nodes-base/nodes/Freshservice/Freshservice.node.ts",
+    "version_info": {
+      "version": 1.0,
+      "is_multi_version": false,
+      "last_updated": "2024-11-13T10:34:30.985186"
+    }
+  },
+  "FreshworksCrm": {
+    "path": "packages/nodes-base/nodes/FreshworksCrm/FreshworksCrm.node.ts",
+    "version_info": {
+      "version": 1.0,
+      "is_multi_version": false,
+      "last_updated": "2024-11-13T10:34:31.437217"
+    }
+  },
+  "Ftp": {
+    "path": "packages/nodes-base/nodes/Ftp/Ftp.node.ts",
+    "version_info": {
+      "version": 1.0,
+      "is_multi_version": false,
+      "last_updated": "2024-11-13T10:34:31.854159"
+    }
+  },
+  "Function": {
+    "path": "packages/nodes-base/nodes/Function/Function.node.ts",
+    "version_info": {
+      "version": 1.0,
+      "is_multi_version": false,
+      "last_updated": "2024-11-13T10:34:32.282985"
+    }
+  },
+  "FunctionItem": {
+    "path": "packages/nodes-base/nodes/FunctionItem/FunctionItem.node.ts",
+    "version_info": {
+      "version": 1.0,
+      "is_multi_version": false,
+      "last_updated": "2024-11-13T10:34:32.715215"
+    }
+  },
+  "GetResponse": {
+    "path": "packages/nodes-base/nodes/GetResponse/GetResponse.node.ts",
+    "version_info": {
+      "version": 1.0,
+      "is_multi_version": false,
+      "last_updated": "2024-11-13T10:34:33.150794"
+    }
+  },
+  "GetResponseTrigger": {
+    "path": "packages/nodes-base/nodes/GetResponse/GetResponseTrigger.node.ts",
+    "version_info": {
+      "version": 1.0,
+      "is_multi_version": false,
+      "last_updated": "2024-11-13T10:34:33.576921"
+    }
+  },
+  "Ghost": {
+    "path": "packages/nodes-base/nodes/Ghost/Ghost.node.ts",
+    "version_info": {
+      "version": 1.0,
+      "is_multi_version": false,
+      "last_updated": "2024-11-13T10:34:33.983026"
+    }
+  },
+  "Git": {
+    "path": "packages/nodes-base/nodes/Git/Git.node.ts",
+    "version_info": {
+      "version": 1.0,
+      "is_multi_version": false,
+      "last_updated": "2024-11-13T10:34:34.432709"
+    }
+  },
+  "Github": {
+    "path": "packages/nodes-base/nodes/Github/Github.node.ts",
+    "version_info": {
+      "version": 1.0,
+      "is_multi_version": false,
+      "last_updated": "2024-11-13T10:34:34.899330"
+    }
+  },
+  "GithubTrigger": {
+    "path": "packages/nodes-base/nodes/Github/GithubTrigger.node.ts",
+    "version_info": {
+      "version": 1.0,
+      "is_multi_version": false,
+      "last_updated": "2024-11-13T10:34:35.483546"
+    }
+  },
+  "Gitlab": {
+    "path": "packages/nodes-base/nodes/Gitlab/Gitlab.node.ts",
+    "version_info": {
+      "version": 1.0,
+      "is_multi_version": false,
+      "last_updated": "2024-11-13T10:34:35.943567"
+    }
+  },
+  "GitlabTrigger": {
+    "path": "packages/nodes-base/nodes/Gitlab/GitlabTrigger.node.ts",
+    "version_info": {
+      "version": 1.0,
+      "is_multi_version": false,
+      "last_updated": "2024-11-13T10:34:36.346534"
+    }
+  },
+  "GoToWebinar": {
+    "path": "packages/nodes-base/nodes/GoToWebinar/GoToWebinar.node.ts",
+    "version_info": {
+      "version": 1.0,
+      "is_multi_version": false,
+      "last_updated": "2024-11-13T10:34:36.754622"
+    }
+  },
+  "Gong": {
+    "path": "packages/nodes-base/nodes/Gong/Gong.node.ts",
+    "version_info": {
+      "version": 1.0,
+      "is_multi_version": false,
+      "last_updated": "2024-11-13T10:34:37.177408"
+    }
+  },
+  "GoogleAds": {
+    "path": "packages/nodes-base/nodes/Google/Ads/GoogleAds.node.ts",
+    "version_info": {
+      "version": 1.0,
+      "is_multi_version": false,
+      "last_updated": "2024-11-13T10:34:37.612361"
+    }
+  },
+  "GoogleAnalytics": {
+    "path": "packages/nodes-base/nodes/Google/Analytics/GoogleAnalytics.node.ts",
+    "version_info": {
+      "version": 2.0,
+      "is_multi_version": false,
+      "last_updated": "2024-11-13T10:34:38.040621"
+    }
+  },
+  "GoogleAnalyticsV1": {
+    "path": "packages/nodes-base/nodes/Google/Analytics/v1/GoogleAnalyticsV1.node.ts",
+    "version_info": {
+      "version": 1.0,
+      "is_multi_version": false,
+      "last_updated": "2024-11-13T10:34:38.444311"
+    }
+  },
+  "GoogleBigQuery": {
+    "path": "packages/nodes-base/nodes/Google/BigQuery/GoogleBigQuery.node.ts",
+    "version_info": {
+      "version": 2.1,
+      "is_multi_version": false,
+      "last_updated": "2024-11-13T10:34:39.283963"
+    }
+  },
+  "GoogleBigQueryV1": {
+    "path": "packages/nodes-base/nodes/Google/BigQuery/v1/GoogleBigQueryV1.node.ts",
+    "version_info": {
+      "version": 1.0,
+      "is_multi_version": false,
+      "last_updated": "2024-11-13T10:34:39.704022"
+    }
+  },
+  "GoogleBooks": {
+    "path": "packages/nodes-base/nodes/Google/Books/GoogleBooks.node.ts",
+    "version_info": {
+      "latest_version": 2.0,
+      "all_versions": [
+        1.0,
+        2.0
+      ],
+      "is_multi_version": true,
+      "last_updated": "2024-11-13T10:34:40.710817"
+    }
+  },
+  "GoogleBusinessProfile": {
+    "path": "packages/nodes-base/nodes/Google/BusinessProfile/GoogleBusinessProfile.node.ts",
+    "version_info": {
+      "version": 1.0,
+      "is_multi_version": false,
+      "last_updated": "2024-11-13T10:34:41.173433"
+    }
+  },
+  "GoogleBusinessProfileTrigger": {
+    "path": "packages/nodes-base/nodes/Google/BusinessProfile/GoogleBusinessProfileTrigger.node.ts",
+    "version_info": {
+      "version": 1.0,
+      "is_multi_version": false,
+      "last_updated": "2024-11-13T10:34:41.595936"
+    }
+  },
+  "GoogleCalendar": {
+    "path": "packages/nodes-base/nodes/Google/Calendar/GoogleCalendar.node.ts",
+    "version_info": {
+      "latest_version": 1.2,
+      "all_versions": [
+        1.0,
+        1.1,
+        1.2
+      ],
+      "is_multi_version": true,
+      "last_updated": "2024-11-13T10:34:42.015642"
+    }
+  },
+  "GoogleCalendarTrigger": {
+    "path": "packages/nodes-base/nodes/Google/Calendar/GoogleCalendarTrigger.node.ts",
+    "version_info": {
+      "version": 1.0,
+      "is_multi_version": false,
+      "last_updated": "2024-11-13T10:34:42.457965"
+    }
+  },
+  "GoogleChat": {
+    "path": "packages/nodes-base/nodes/Google/Chat/GoogleChat.node.ts",
+    "version_info": {
+      "version": 1.0,
+      "is_multi_version": false,
+      "last_updated": "2024-11-13T10:34:42.859115"
+    }
+  },
+  "GoogleCloudNaturalLanguage": {
+    "path": "packages/nodes-base/nodes/Google/CloudNaturalLanguage/GoogleCloudNaturalLanguage.node.ts",
+    "version_info": {
+      "version": 1.0,
+      "is_multi_version": false,
+      "last_updated": "2024-11-13T10:34:43.310693"
+    }
+  },
+  "GoogleCloudStorage": {
+    "path": "packages/nodes-base/nodes/Google/CloudStorage/GoogleCloudStorage.node.ts",
+    "version_info": {
+      "version": 1.0,
+      "is_multi_version": false,
+      "last_updated": "2024-11-13T10:34:43.792636"
+    }
+  },
+  "GoogleContacts": {
+    "path": "packages/nodes-base/nodes/Google/Contacts/GoogleContacts.node.ts",
+    "version_info": {
+      "version": 1.0,
+      "is_multi_version": false,
+      "last_updated": "2024-11-13T10:34:44.264844"
+    }
+  },
+  "GoogleDocs": {
+    "path": "packages/nodes-base/nodes/Google/Docs/GoogleDocs.node.ts",
+    "version_info": {
+      "latest_version": 2.0,
+      "all_versions": [
+        1.0,
+        2.0
+      ],
+      "is_multi_version": true,
+      "last_updated": "2024-11-13T10:34:44.692050"
+    }
+  },
+  "GoogleDrive": {
+    "path": "packages/nodes-base/nodes/Google/Drive/GoogleDrive.node.ts",
+    "version_info": {
+      "version": 3.0,
+      "is_multi_version": false,
+      "last_updated": "2024-11-13T10:34:45.130869"
+    }
+  },
+  "GoogleDriveTrigger": {
+    "path": "packages/nodes-base/nodes/Google/Drive/GoogleDriveTrigger.node.ts",
+    "version_info": {
+      "version": 1.0,
+      "is_multi_version": false,
+      "last_updated": "2024-11-13T10:34:45.582298"
+    }
+  },
+  "GoogleDriveV1": {
+    "path": "packages/nodes-base/nodes/Google/Drive/v1/GoogleDriveV1.node.ts",
+    "version_info": {
+      "latest_version": 2.0,
+      "all_versions": [
+        1.0,
+        2.0
+      ],
+      "is_multi_version": true,
+      "last_updated": "2024-11-13T10:34:46.037516"
+    }
+  },
+  "GoogleFirebaseCloudFirestore": {
+    "path": "packages/nodes-base/nodes/Google/Firebase/CloudFirestore/GoogleFirebaseCloudFirestore.node.ts",
+    "version_info": {
+      "latest_version": 1.1,
+      "all_versions": [
+        1.0,
+        1.1
+      ],
+      "is_multi_version": true,
+      "last_updated": "2024-11-13T10:34:46.937993"
+    }
+  },
+  "GoogleFirebaseRealtimeDatabase": {
+    "path": "packages/nodes-base/nodes/Google/Firebase/RealtimeDatabase/GoogleFirebaseRealtimeDatabase.node.ts",
+    "version_info": {
+      "version": 1.0,
+      "is_multi_version": false,
+      "last_updated": "2024-11-13T10:34:47.374589"
+    }
+  },
+  "GSuiteAdmin": {
+    "path": "packages/nodes-base/nodes/Google/GSuiteAdmin/GSuiteAdmin.node.ts",
+    "version_info": {
+      "version": 1.0,
+      "is_multi_version": false,
+      "last_updated": "2024-11-13T10:34:47.937792"
+    }
+  },
+  "Gmail": {
+    "path": "packages/nodes-base/nodes/Google/Gmail/Gmail.node.ts",
+    "version_info": {
+      "version": 2.1,
+      "is_multi_version": false,
+      "last_updated": "2024-11-13T10:34:48.447756"
+    }
+  },
+  "GmailTrigger": {
+    "path": "packages/nodes-base/nodes/Google/Gmail/GmailTrigger.node.ts",
+    "version_info": {
+      "latest_version": 1.2,
+      "all_versions": [
+        1.0,
+        1.1,
+        1.2
+      ],
+      "is_multi_version": true,
+      "last_updated": "2024-11-13T10:34:48.865464"
+    }
+  },
+  "GmailV1": {
+    "path": "packages/nodes-base/nodes/Google/Gmail/v1/GmailV1.node.ts",
+    "version_info": {
+      "version": 1.0,
+      "is_multi_version": false,
+      "last_updated": "2024-11-13T10:34:49.407977"
+    }
+  },
+  "GmailV2": {
+    "path": "packages/nodes-base/nodes/Google/Gmail/v2/GmailV2.node.ts",
+    "version_info": {
+      "latest_version": 2.1,
+      "all_versions": [
+        2.0,
+        2.1
+      ],
+      "is_multi_version": true,
+      "last_updated": "2024-11-13T10:34:49.840109"
+    }
+  },
+  "GooglePerspective": {
+    "path": "packages/nodes-base/nodes/Google/Perspective/GooglePerspective.node.ts",
+    "version_info": {
+      "version": 1.0,
+      "is_multi_version": false,
+      "last_updated": "2024-11-13T10:34:50.302556"
+    }
+  },
+  "GoogleSheets": {
+    "path": "packages/nodes-base/nodes/Google/Sheet/GoogleSheets.node.ts",
+    "version_info": {
+      "version": 4.5,
+      "is_multi_version": false,
+      "last_updated": "2024-11-13T10:34:50.732072"
+    }
+  },
+  "GoogleSheetsTrigger": {
+    "path": "packages/nodes-base/nodes/Google/Sheet/GoogleSheetsTrigger.node.ts",
+    "version_info": {
+      "version": 1.0,
+      "is_multi_version": false,
+      "last_updated": "2024-11-13T10:34:51.136781"
+    }
+  },
+  "GoogleSlides": {
+    "path": "packages/nodes-base/nodes/Google/Slides/GoogleSlides.node.ts",
+    "version_info": {
+      "latest_version": 2.0,
+      "all_versions": [
+        1.0,
+        2.0
+      ],
+      "is_multi_version": true,
+      "last_updated": "2024-11-13T10:34:52.390867"
+    }
+  },
+  "GoogleTasks": {
+    "path": "packages/nodes-base/nodes/Google/Task/GoogleTasks.node.ts",
+    "version_info": {
+      "version": 1.0,
+      "is_multi_version": false,
+      "last_updated": "2024-11-13T10:34:52.814889"
+    }
+  },
+  "GoogleTranslate": {
+    "path": "packages/nodes-base/nodes/Google/Translate/GoogleTranslate.node.ts",
+    "version_info": {
+      "latest_version": 2.0,
+      "all_versions": [
+        1.0,
+        2.0
+      ],
+      "is_multi_version": true,
+      "last_updated": "2024-11-13T10:34:53.228276"
+    }
+  },
+  "YouTube": {
+    "path": "packages/nodes-base/nodes/Google/YouTube/YouTube.node.ts",
+    "version_info": {
+      "version": 1.0,
+      "is_multi_version": false,
+      "last_updated": "2024-11-13T10:34:53.656356"
+    }
+  },
+  "Gotify": {
+    "path": "packages/nodes-base/nodes/Gotify/Gotify.node.ts",
+    "version_info": {
+      "version": 1.0,
+      "is_multi_version": false,
+      "last_updated": "2024-11-13T10:34:54.057633"
+    }
+  },
+  "Grafana": {
+    "path": "packages/nodes-base/nodes/Grafana/Grafana.node.ts",
+    "version_info": {
+      "version": 1.0,
+      "is_multi_version": false,
+      "last_updated": "2024-11-13T10:34:54.498135"
+    }
+  },
+  "GraphQL": {
+    "path": "packages/nodes-base/nodes/GraphQL/GraphQL.node.ts",
+    "version_info": {
+      "version": 1.0,
+      "is_multi_version": false,
+      "last_updated": "2024-11-13T10:34:54.925903"
+    }
+  },
+  "Grist": {
+    "path": "packages/nodes-base/nodes/Grist/Grist.node.ts",
+    "version_info": {
+      "version": 1.0,
+      "is_multi_version": false,
+      "last_updated": "2024-11-13T10:34:55.421170"
+    }
+  },
+  "GumroadTrigger": {
+    "path": "packages/nodes-base/nodes/Gumroad/GumroadTrigger.node.ts",
+    "version_info": {
+      "version": 1.0,
+      "is_multi_version": false,
+      "last_updated": "2024-11-13T10:34:55.870476"
+    }
+  },
+  "HackerNews": {
+    "path": "packages/nodes-base/nodes/HackerNews/HackerNews.node.ts",
+    "version_info": {
+      "version": 1.0,
+      "is_multi_version": false,
+      "last_updated": "2024-11-13T10:34:56.254562"
+    }
+  },
+  "HaloPSA": {
+    "path": "packages/nodes-base/nodes/HaloPSA/HaloPSA.node.ts",
+    "version_info": {
+      "version": 1.0,
+      "is_multi_version": false,
+      "last_updated": "2024-11-13T10:34:56.674958"
+    }
+  },
+  "Harvest": {
+    "path": "packages/nodes-base/nodes/Harvest/Harvest.node.ts",
+    "version_info": {
+      "version": 1.0,
+      "is_multi_version": false,
+      "last_updated": "2024-11-13T10:34:58.147893"
+    }
+  },
+  "HelpScout": {
+    "path": "packages/nodes-base/nodes/HelpScout/HelpScout.node.ts",
+    "version_info": {
+      "version": 1.0,
+      "is_multi_version": false,
+      "last_updated": "2024-11-13T10:34:58.585531"
+    }
+  },
+  "HelpScoutTrigger": {
+    "path": "packages/nodes-base/nodes/HelpScout/HelpScoutTrigger.node.ts",
+    "version_info": {
+      "version": 1.0,
+      "is_multi_version": false,
+      "last_updated": "2024-11-13T10:34:59.119457"
+    }
+  },
+  "HighLevel": {
+    "path": "packages/nodes-base/nodes/HighLevel/HighLevel.node.ts",
+    "version_info": {
+      "version": 2.0,
+      "is_multi_version": false,
+      "last_updated": "2024-11-13T10:34:59.523553"
+    }
+  },
+  "HighLevelV1": {
+    "path": "packages/nodes-base/nodes/HighLevel/v1/HighLevelV1.node.ts",
+    "version_info": {
+      "version": 1.0,
+      "is_multi_version": false,
+      "last_updated": "2024-11-13T10:34:59.942728"
+    }
+  },
+  "HighLevelV2": {
+    "path": "packages/nodes-base/nodes/HighLevel/v2/HighLevelV2.node.ts",
+    "version_info": {
+      "version": 2.0,
+      "is_multi_version": false,
+      "last_updated": "2024-11-13T10:35:00.376726"
+    }
+  },
+  "HomeAssistant": {
+    "path": "packages/nodes-base/nodes/HomeAssistant/HomeAssistant.node.ts",
+    "version_info": {
+      "version": 1.0,
+      "is_multi_version": false,
+      "last_updated": "2024-11-13T10:35:00.799453"
+    }
+  },
+  "Html": {
+    "path": "packages/nodes-base/nodes/Html/Html.node.ts",
+    "version_info": {
+      "latest_version": 1.2,
+      "all_versions": [
+        1.0,
+        1.1,
+        1.2
+      ],
+      "is_multi_version": true,
+      "last_updated": "2024-11-13T10:35:01.192888"
+    }
+  },
+  "HtmlExtract": {
+    "path": "packages/nodes-base/nodes/HtmlExtract/HtmlExtract.node.ts",
+    "version_info": {
+      "version": 1.0,
+      "is_multi_version": false,
+      "last_updated": "2024-11-13T10:35:01.640773"
+    }
+  },
+  "HttpRequest": {
+    "path": "packages/nodes-base/nodes/HttpRequest/HttpRequest.node.ts",
+    "version_info": {
+      "version": 4.2,
+      "is_multi_version": false,
+      "last_updated": "2024-11-13T10:35:02.075181"
+    }
+  },
+  "HttpRequestV1": {
+    "path": "packages/nodes-base/nodes/HttpRequest/V1/HttpRequestV1.node.ts",
+    "version_info": {
+      "version": 1.0,
+      "is_multi_version": false,
+      "last_updated": "2024-11-13T10:35:02.544215"
+    }
+  },
+  "HttpRequestV2": {
+    "path": "packages/nodes-base/nodes/HttpRequest/V2/HttpRequestV2.node.ts",
+    "version_info": {
+      "version": 2.0,
+      "is_multi_version": false,
+      "last_updated": "2024-11-13T10:35:03.004108"
+    }
+  },
+  "HttpRequestV3": {
+    "path": "packages/nodes-base/nodes/HttpRequest/V3/HttpRequestV3.node.ts",
+    "version_info": {
+      "latest_version": 4.2,
+      "all_versions": [
+        3.0,
+        4.0,
+        4.1,
+        4.2
+      ],
+      "is_multi_version": true,
+      "last_updated": "2024-11-13T10:35:03.537908"
+    }
+  },
+  "Hubspot": {
+    "path": "packages/nodes-base/nodes/Hubspot/Hubspot.node.ts",
+    "version_info": {
+      "version": 2.1,
+      "is_multi_version": false,
+      "last_updated": "2024-11-13T10:35:03.954165"
+    }
+  },
+  "HubspotTrigger": {
+    "path": "packages/nodes-base/nodes/Hubspot/HubspotTrigger.node.ts",
+    "version_info": {
+      "version": 1.0,
+      "is_multi_version": false,
+      "last_updated": "2024-11-13T10:35:04.412803"
+    }
+  },
+  "HubspotV1": {
+    "path": "packages/nodes-base/nodes/Hubspot/V1/HubspotV1.node.ts",
+    "version_info": {
+      "version": 1.0,
+      "is_multi_version": false,
+      "last_updated": "2024-11-13T10:35:04.907880"
+    }
+  },
+  "HubspotV2": {
+    "path": "packages/nodes-base/nodes/Hubspot/V2/HubspotV2.node.ts",
+    "version_info": {
+      "latest_version": 2.1,
+      "all_versions": [
+        2.0,
+        2.1
+      ],
+      "is_multi_version": true,
+      "last_updated": "2024-11-13T10:35:05.365209"
+    }
+  },
+  "HumanticAi": {
+    "path": "packages/nodes-base/nodes/HumanticAI/HumanticAi.node.ts",
+    "version_info": {
+      "version": 1.0,
+      "is_multi_version": false,
+      "last_updated": "2024-11-13T10:35:05.903555"
+    }
+  },
+  "Hunter": {
+    "path": "packages/nodes-base/nodes/Hunter/Hunter.node.ts",
+    "version_info": {
+      "version": 1.0,
+      "is_multi_version": false,
+      "last_updated": "2024-11-13T10:35:06.391621"
+    }
+  },
+  "ICalendar": {
+    "path": "packages/nodes-base/nodes/ICalendar/ICalendar.node.ts",
+    "version_info": {
+      "version": 1.0,
+      "is_multi_version": false,
+      "last_updated": "2024-11-13T10:35:06.822889"
+    }
+  },
+  "If": {
+    "path": "packages/nodes-base/nodes/If/If.node.ts",
+    "version_info": {
+      "version": 2.2,
+      "is_multi_version": false,
+      "last_updated": "2024-11-13T10:35:07.255583"
+    }
+  },
+  "IfV1": {
+    "path": "packages/nodes-base/nodes/If/V1/IfV1.node.ts",
+    "version_info": {
+      "version": 1.0,
+      "is_multi_version": false,
+      "last_updated": "2024-11-13T10:35:07.653236"
+    }
+  },
+  "IfV2": {
+    "path": "packages/nodes-base/nodes/If/V2/IfV2.node.ts",
+    "version_info": {
+      "latest_version": 2.2,
+      "all_versions": [
+        2.0,
+        2.1,
+        2.2
+      ],
+      "is_multi_version": true,
+      "last_updated": "2024-11-13T10:35:08.062809"
+    }
+  },
+  "Intercom": {
+    "path": "packages/nodes-base/nodes/Intercom/Intercom.node.ts",
+    "version_info": {
+      "version": 1.0,
+      "is_multi_version": false,
+      "last_updated": "2024-11-13T10:35:08.535194"
+    }
+  },
+  "Interval": {
+    "path": "packages/nodes-base/nodes/Interval/Interval.node.ts",
+    "version_info": {
+      "version": 1.0,
+      "is_multi_version": false,
+      "last_updated": "2024-11-13T10:35:08.943378"
+    }
+  },
+  "InvoiceNinja": {
+    "path": "packages/nodes-base/nodes/InvoiceNinja/InvoiceNinja.node.ts",
+    "version_info": {
+      "latest_version": 2.0,
+      "all_versions": [
+        1.0,
+        2.0
+      ],
+      "is_multi_version": true,
+      "last_updated": "2024-11-13T10:35:09.460013"
+    }
+  },
+  "InvoiceNinjaTrigger": {
+    "path": "packages/nodes-base/nodes/InvoiceNinja/InvoiceNinjaTrigger.node.ts",
+    "version_info": {
+      "latest_version": 2.0,
+      "all_versions": [
+        1.0,
+        2.0
+      ],
+      "is_multi_version": true,
+      "last_updated": "2024-11-13T10:35:09.890747"
+    }
+  },
+  "ItemLists": {
+    "path": "packages/nodes-base/nodes/ItemLists/ItemLists.node.ts",
+    "version_info": {
+      "version": 3.1,
+      "is_multi_version": false,
+      "last_updated": "2024-11-13T10:35:10.299247"
+    }
+  },
+  "ItemListsV1": {
+    "path": "packages/nodes-base/nodes/ItemLists/V1/ItemListsV1.node.ts",
+    "version_info": {
+      "version": 1.0,
+      "is_multi_version": false,
+      "last_updated": "2024-11-13T10:35:10.736465"
+    }
+  },
+  "ItemListsV2": {
+    "path": "packages/nodes-base/nodes/ItemLists/V2/ItemListsV2.node.ts",
+    "version_info": {
+      "latest_version": 2.2,
+      "all_versions": [
+        2.0,
+        2.1,
+        2.2
+      ],
+      "is_multi_version": true,
+      "last_updated": "2024-11-13T10:35:11.241179"
+    }
+  },
+  "Iterable": {
+    "path": "packages/nodes-base/nodes/Iterable/Iterable.node.ts",
+    "version_info": {
+      "version": 1.0,
+      "is_multi_version": false,
+      "last_updated": "2024-11-13T10:35:12.245819"
+    }
+  },
+  "Jenkins": {
+    "path": "packages/nodes-base/nodes/Jenkins/Jenkins.node.ts",
+    "version_info": {
+      "version": 1.0,
+      "is_multi_version": false,
+      "last_updated": "2024-11-13T10:35:12.656779"
+    }
+  },
+  "Jira": {
+    "path": "packages/nodes-base/nodes/Jira/Jira.node.ts",
+    "version_info": {
+      "version": 1.0,
+      "is_multi_version": false,
+      "last_updated": "2024-11-13T10:35:13.132504"
+    }
+  },
+  "JiraTrigger": {
+    "path": "packages/nodes-base/nodes/Jira/JiraTrigger.node.ts",
+    "version_info": {
+      "latest_version": 1.1,
+      "all_versions": [
+        1.0,
+        1.1
+      ],
+      "is_multi_version": true,
+      "last_updated": "2024-11-13T10:35:13.555461"
+    }
+  },
+  "JotFormTrigger": {
+    "path": "packages/nodes-base/nodes/JotForm/JotFormTrigger.node.ts",
+    "version_info": {
+      "version": 1.0,
+      "is_multi_version": false,
+      "last_updated": "2024-11-13T10:35:13.970450"
+    }
+  },
+  "Jwt": {
+    "path": "packages/nodes-base/nodes/Jwt/Jwt.node.ts",
+    "version_info": {
+      "version": 1.0,
+      "is_multi_version": false,
+      "last_updated": "2024-11-13T10:35:14.407326"
+    }
+  },
+  "Kafka": {
+    "path": "packages/nodes-base/nodes/Kafka/Kafka.node.ts",
+    "version_info": {
+      "version": 1.0,
+      "is_multi_version": false,
+      "last_updated": "2024-11-13T10:35:14.852603"
+    }
+  },
+  "KafkaTrigger": {
+    "path": "packages/nodes-base/nodes/Kafka/KafkaTrigger.node.ts",
+    "version_info": {
+      "latest_version": 1.1,
+      "all_versions": [
+        1.0,
+        1.1
+      ],
+      "is_multi_version": true,
+      "last_updated": "2024-11-13T10:35:15.267370"
+    }
+  },
+  "Keap": {
+    "path": "packages/nodes-base/nodes/Keap/Keap.node.ts",
+    "version_info": {
+      "version": 1.0,
+      "is_multi_version": false,
+      "last_updated": "2024-11-13T10:35:15.712361"
+    }
+  },
+  "KeapTrigger": {
+    "path": "packages/nodes-base/nodes/Keap/KeapTrigger.node.ts",
+    "version_info": {
+      "version": 1.0,
+      "is_multi_version": false,
+      "last_updated": "2024-11-13T10:35:16.137901"
+    }
+  },
+  "Kitemaker": {
+    "path": "packages/nodes-base/nodes/Kitemaker/Kitemaker.node.ts",
+    "version_info": {
+      "version": 1.0,
+      "is_multi_version": false,
+      "last_updated": "2024-11-13T10:35:16.569090"
+    }
+  },
+  "KoBoToolbox": {
+    "path": "packages/nodes-base/nodes/KoBoToolbox/KoBoToolbox.node.ts",
+    "version_info": {
+      "version": 1.0,
+      "is_multi_version": false,
+      "last_updated": "2024-11-13T10:35:17.024778"
+    }
+  },
+  "KoBoToolboxTrigger": {
+    "path": "packages/nodes-base/nodes/KoBoToolbox/KoBoToolboxTrigger.node.ts",
+    "version_info": {
+      "version": 1.0,
+      "is_multi_version": false,
+      "last_updated": "2024-11-13T10:35:17.556232"
+    }
+  },
+  "Ldap": {
+    "path": "packages/nodes-base/nodes/Ldap/Ldap.node.ts",
+    "version_info": {
+      "version": 1.0,
+      "is_multi_version": false,
+      "last_updated": "2024-11-13T10:35:17.980116"
+    }
+  },
+  "Lemlist": {
+    "path": "packages/nodes-base/nodes/Lemlist/Lemlist.node.ts",
+    "version_info": {
+      "version": 2.0,
+      "is_multi_version": false,
+      "last_updated": "2024-11-13T10:35:18.394051"
+    }
+  },
+  "LemlistTrigger": {
+    "path": "packages/nodes-base/nodes/Lemlist/LemlistTrigger.node.ts",
+    "version_info": {
+      "version": 1.0,
+      "is_multi_version": false,
+      "last_updated": "2024-11-13T10:35:18.795085"
+    }
+  },
+  "LemlistV1": {
+    "path": "packages/nodes-base/nodes/Lemlist/v1/LemlistV1.node.ts",
+    "version_info": {
+      "version": 1.0,
+      "is_multi_version": false,
+      "last_updated": "2024-11-13T10:35:19.206132"
+    }
+  },
+  "LemlistV2": {
+    "path": "packages/nodes-base/nodes/Lemlist/v2/LemlistV2.node.ts",
+    "version_info": {
+      "version": 2.0,
+      "is_multi_version": false,
+      "last_updated": "2024-11-13T10:35:19.604770"
+    }
+  },
+  "Line": {
+    "path": "packages/nodes-base/nodes/Line/Line.node.ts",
+    "version_info": {
+      "version": 1.0,
+      "is_multi_version": false,
+      "last_updated": "2024-11-13T10:35:20.141838"
+    }
+  },
+  "Linear": {
+    "path": "packages/nodes-base/nodes/Linear/Linear.node.ts",
+    "version_info": {
+      "version": 1.0,
+      "is_multi_version": false,
+      "last_updated": "2024-11-13T10:35:20.578671"
+    }
+  },
+  "LinearTrigger": {
+    "path": "packages/nodes-base/nodes/Linear/LinearTrigger.node.ts",
+    "version_info": {
+      "version": 1.0,
+      "is_multi_version": false,
+      "last_updated": "2024-11-13T10:35:21.061599"
+    }
+  },
+  "LingvaNex": {
+    "path": "packages/nodes-base/nodes/LingvaNex/LingvaNex.node.ts",
+    "version_info": {
+      "version": 1.0,
+      "is_multi_version": false,
+      "last_updated": "2024-11-13T10:35:21.476023"
+    }
+  },
+  "LinkedIn": {
+    "path": "packages/nodes-base/nodes/LinkedIn/LinkedIn.node.ts",
+    "version_info": {
+      "version": 1.0,
+      "is_multi_version": false,
+      "last_updated": "2024-11-13T10:35:21.929493"
+    }
+  },
+  "LocalFileTrigger": {
+    "path": "packages/nodes-base/nodes/LocalFileTrigger/LocalFileTrigger.node.ts",
+    "version_info": {
+      "version": 1.0,
+      "is_multi_version": false,
+      "last_updated": "2024-11-13T10:35:22.453171"
+    }
+  },
+  "LoneScale": {
+    "path": "packages/nodes-base/nodes/LoneScale/LoneScale.node.ts",
+    "version_info": {
+      "version": 1.0,
+      "is_multi_version": false,
+      "last_updated": "2024-11-13T10:35:22.874039"
+    }
+  },
+  "LoneScaleTrigger": {
+    "path": "packages/nodes-base/nodes/LoneScale/LoneScaleTrigger.node.ts",
+    "version_info": {
+      "version": 1.0,
+      "is_multi_version": false,
+      "last_updated": "2024-11-13T10:35:23.324925"
+    }
+  },
+  "Mqtt": {
+    "path": "packages/nodes-base/nodes/MQTT/Mqtt.node.ts",
+    "version_info": {
+      "version": 1.0,
+      "is_multi_version": false,
+      "last_updated": "2024-11-13T10:35:23.830815"
+    }
+  },
+  "MqttTrigger": {
+    "path": "packages/nodes-base/nodes/MQTT/MqttTrigger.node.ts",
+    "version_info": {
+      "version": 1.0,
+      "is_multi_version": false,
+      "last_updated": "2024-11-13T10:35:24.249649"
+    }
+  },
+  "Magento2": {
+    "path": "packages/nodes-base/nodes/Magento/Magento2.node.ts",
+    "version_info": {
+      "version": 1.0,
+      "is_multi_version": false,
+      "last_updated": "2024-11-13T10:35:24.667667"
+    }
+  },
+  "Mailcheck": {
+    "path": "packages/nodes-base/nodes/Mailcheck/Mailcheck.node.ts",
+    "version_info": {
+      "version": 1.0,
+      "is_multi_version": false,
+      "last_updated": "2024-11-13T10:35:25.068048"
+    }
+  },
+  "Mailchimp": {
+    "path": "packages/nodes-base/nodes/Mailchimp/Mailchimp.node.ts",
+    "version_info": {
+      "version": 1.0,
+      "is_multi_version": false,
+      "last_updated": "2024-11-13T10:35:25.502654"
+    }
+  },
+  "MailchimpTrigger": {
+    "path": "packages/nodes-base/nodes/Mailchimp/MailchimpTrigger.node.ts",
+    "version_info": {
+      "version": 1.0,
+      "is_multi_version": false,
+      "last_updated": "2024-11-13T10:35:25.946896"
+    }
+  },
+  "MailerLite": {
+    "path": "packages/nodes-base/nodes/MailerLite/MailerLite.node.ts",
+    "version_info": {
+      "version": 1.0,
+      "is_multi_version": false,
+      "last_updated": "2024-11-13T10:35:26.378357"
+    }
+  },
+  "MailerLiteTrigger": {
+    "path": "packages/nodes-base/nodes/MailerLite/MailerLiteTrigger.node.ts",
+    "version_info": {
+      "version": 1.0,
+      "is_multi_version": false,
+      "last_updated": "2024-11-13T10:35:26.806861"
+    }
+  },
+  "Mailgun": {
+    "path": "packages/nodes-base/nodes/Mailgun/Mailgun.node.ts",
+    "version_info": {
+      "version": 1.0,
+      "is_multi_version": false,
+      "last_updated": "2024-11-13T10:35:27.228635"
+    }
+  },
+  "Mailjet": {
+    "path": "packages/nodes-base/nodes/Mailjet/Mailjet.node.ts",
+    "version_info": {
+      "version": 1.0,
+      "is_multi_version": false,
+      "last_updated": "2024-11-13T10:35:27.681341"
+    }
+  },
+  "MailjetTrigger": {
+    "path": "packages/nodes-base/nodes/Mailjet/MailjetTrigger.node.ts",
+    "version_info": {
+      "version": 1.0,
+      "is_multi_version": false,
+      "last_updated": "2024-11-13T10:35:28.080896"
+    }
+  },
+  "Mandrill": {
+    "path": "packages/nodes-base/nodes/Mandrill/Mandrill.node.ts",
+    "version_info": {
+      "version": 1.0,
+      "is_multi_version": false,
+      "last_updated": "2024-11-13T10:35:28.506025"
+    }
+  },
+  "ManualTrigger": {
+    "path": "packages/nodes-base/nodes/ManualTrigger/ManualTrigger.node.ts",
+    "version_info": {
+      "version": 1.0,
+      "is_multi_version": false,
+      "last_updated": "2024-11-13T10:35:28.916493"
+    }
+  },
+  "Markdown": {
+    "path": "packages/nodes-base/nodes/Markdown/Markdown.node.ts",
+    "version_info": {
+      "version": 1.0,
+      "is_multi_version": false,
+      "last_updated": "2024-11-13T10:35:29.313929"
+    }
+  },
+  "Marketstack": {
+    "path": "packages/nodes-base/nodes/Marketstack/Marketstack.node.ts",
+    "version_info": {
+      "version": 1.0,
+      "is_multi_version": false,
+      "last_updated": "2024-11-13T10:35:29.740397"
+    }
+  },
+  "Matrix": {
+    "path": "packages/nodes-base/nodes/Matrix/Matrix.node.ts",
+    "version_info": {
+      "version": 1.0,
+      "is_multi_version": false,
+      "last_updated": "2024-11-13T10:35:30.256064"
+    }
+  },
+  "Mattermost": {
+    "path": "packages/nodes-base/nodes/Mattermost/Mattermost.node.ts",
+    "version_info": {
+      "version": 1.0,
+      "is_multi_version": false,
+      "last_updated": "2024-11-13T10:35:30.695876"
+    }
+  },
+  "Mautic": {
+    "path": "packages/nodes-base/nodes/Mautic/Mautic.node.ts",
+    "version_info": {
+      "version": 1.0,
+      "is_multi_version": false,
+      "last_updated": "2024-11-13T10:35:31.560552"
+    }
+  },
+  "MauticTrigger": {
+    "path": "packages/nodes-base/nodes/Mautic/MauticTrigger.node.ts",
+    "version_info": {
+      "version": 1.0,
+      "is_multi_version": false,
+      "last_updated": "2024-11-13T10:35:32.063912"
+    }
+  },
+  "Medium": {
+    "path": "packages/nodes-base/nodes/Medium/Medium.node.ts",
+    "version_info": {
+      "version": 1.0,
+      "is_multi_version": false,
+      "last_updated": "2024-11-13T10:35:32.525723"
+    }
+  },
+  "Merge": {
+    "path": "packages/nodes-base/nodes/Merge/Merge.node.ts",
+    "version_info": {
+      "version": 3.0,
+      "is_multi_version": false,
+      "last_updated": "2024-11-13T10:35:32.948646"
+    }
+  },
+  "MergeV1": {
+    "path": "packages/nodes-base/nodes/Merge/v1/MergeV1.node.ts",
+    "version_info": {
+      "version": 1.0,
+      "is_multi_version": false,
+      "last_updated": "2024-11-13T10:35:33.359284"
+    }
+  },
+  "MergeV2": {
+    "path": "packages/nodes-base/nodes/Merge/v2/MergeV2.node.ts",
+    "version_info": {
+      "latest_version": 2.1,
+      "all_versions": [
+        2.0,
+        2.1
+      ],
+      "is_multi_version": true,
+      "last_updated": "2024-11-13T10:35:33.756247"
+    }
+  },
+  "MessageBird": {
+    "path": "packages/nodes-base/nodes/MessageBird/MessageBird.node.ts",
+    "version_info": {
+      "version": 1.0,
+      "is_multi_version": false,
+      "last_updated": "2024-11-13T10:35:34.611582"
+    }
+  },
+  "Metabase": {
+    "path": "packages/nodes-base/nodes/Metabase/Metabase.node.ts",
+    "version_info": {
+      "version": 1.0,
+      "is_multi_version": false,
+      "last_updated": "2024-11-13T10:35:35.036169"
+    }
+  },
+  "MicrosoftDynamicsCrm": {
+    "path": "packages/nodes-base/nodes/Microsoft/Dynamics/MicrosoftDynamicsCrm.node.ts",
+    "version_info": {
+      "version": 1.0,
+      "is_multi_version": false,
+      "last_updated": "2024-11-13T10:35:35.461520"
+    }
+  },
+  "MicrosoftExcel": {
+    "path": "packages/nodes-base/nodes/Microsoft/Excel/MicrosoftExcel.node.ts",
+    "version_info": {
+      "version": 2.1,
+      "is_multi_version": false,
+      "last_updated": "2024-11-13T10:35:35.894223"
+    }
+  },
+  "MicrosoftExcelV1": {
+    "path": "packages/nodes-base/nodes/Microsoft/Excel/v1/MicrosoftExcelV1.node.ts",
+    "version_info": {
+      "version": 1.0,
+      "is_multi_version": false,
+      "last_updated": "2024-11-13T10:35:36.339503"
+    }
+  },
+  "MicrosoftGraphSecurity": {
+    "path": "packages/nodes-base/nodes/Microsoft/GraphSecurity/MicrosoftGraphSecurity.node.ts",
+    "version_info": {
+      "version": 1.0,
+      "is_multi_version": false,
+      "last_updated": "2024-11-13T10:35:37.222650"
+    }
+  },
+  "MicrosoftOneDrive": {
+    "path": "packages/nodes-base/nodes/Microsoft/OneDrive/MicrosoftOneDrive.node.ts",
+    "version_info": {
+      "version": 1.0,
+      "is_multi_version": false,
+      "last_updated": "2024-11-13T10:35:37.653001"
+    }
+  },
+  "MicrosoftOneDriveTrigger": {
+    "path": "packages/nodes-base/nodes/Microsoft/OneDrive/MicrosoftOneDriveTrigger.node.ts",
+    "version_info": {
+      "version": 1.0,
+      "is_multi_version": false,
+      "last_updated": "2024-11-13T10:35:38.134385"
+    }
+  },
+  "MicrosoftOutlook": {
+    "path": "packages/nodes-base/nodes/Microsoft/Outlook/MicrosoftOutlook.node.ts",
+    "version_info": {
+      "version": 2.0,
+      "is_multi_version": false,
+      "last_updated": "2024-11-13T10:35:38.582216"
+    }
+  },
+  "MicrosoftOutlookTrigger": {
+    "path": "packages/nodes-base/nodes/Microsoft/Outlook/MicrosoftOutlookTrigger.node.ts",
+    "version_info": {
+      "version": 1.0,
+      "is_multi_version": false,
+      "last_updated": "2024-11-13T10:35:39.054483"
+    }
+  },
+  "MicrosoftOutlookV1": {
+    "path": "packages/nodes-base/nodes/Microsoft/Outlook/v1/MicrosoftOutlookV1.node.ts",
+    "version_info": {
+      "version": 1.0,
+      "is_multi_version": false,
+      "last_updated": "2024-11-13T10:35:39.574262"
+    }
+  },
+  "MicrosoftSql": {
+    "path": "packages/nodes-base/nodes/Microsoft/Sql/MicrosoftSql.node.ts",
+    "version_info": {
+      "latest_version": 1.1,
+      "all_versions": [
+        1.0,
+        1.1
+      ],
+      "is_multi_version": true,
+      "last_updated": "2024-11-13T10:35:40.530403"
+    }
+  },
+  "MicrosoftTeams": {
+    "path": "packages/nodes-base/nodes/Microsoft/Teams/MicrosoftTeams.node.ts",
+    "version_info": {
+      "version": 2.0,
+      "is_multi_version": false,
+      "last_updated": "2024-11-13T10:35:40.936616"
+    }
+  },
+  "MicrosoftTeamsV1": {
+    "path": "packages/nodes-base/nodes/Microsoft/Teams/v1/MicrosoftTeamsV1.node.ts",
+    "version_info": {
+      "latest_version": 1.1,
+      "all_versions": [
+        1.0,
+        1.1
+      ],
+      "is_multi_version": true,
+      "last_updated": "2024-11-13T10:35:41.358459"
+    }
+  },
+  "MicrosoftToDo": {
+    "path": "packages/nodes-base/nodes/Microsoft/ToDo/MicrosoftToDo.node.ts",
+    "version_info": {
+      "version": 1.0,
+      "is_multi_version": false,
+      "last_updated": "2024-11-13T10:35:42.209424"
+    }
+  },
+  "Mindee": {
+    "path": "packages/nodes-base/nodes/Mindee/Mindee.node.ts",
+    "version_info": {
+      "latest_version": 3.0,
+      "all_versions": [
+        1.0,
+        2.0,
+        3.0
+      ],
+      "is_multi_version": true,
+      "last_updated": "2024-11-13T10:35:42.629329"
+    }
+  },
+  "Misp": {
+    "path": "packages/nodes-base/nodes/Misp/Misp.node.ts",
+    "version_info": {
+      "version": 1.0,
+      "is_multi_version": false,
+      "last_updated": "2024-11-13T10:35:43.055507"
+    }
+  },
+  "Mocean": {
+    "path": "packages/nodes-base/nodes/Mocean/Mocean.node.ts",
+    "version_info": {
+      "version": 1.0,
+      "is_multi_version": false,
+      "last_updated": "2024-11-13T10:35:43.457799"
+    }
+  },
+  "MondayCom": {
+    "path": "packages/nodes-base/nodes/MondayCom/MondayCom.node.ts",
+    "version_info": {
+      "version": 1.0,
+      "is_multi_version": false,
+      "last_updated": "2024-11-13T10:35:44.070997"
+    }
+  },
+  "MongoDb": {
+    "path": "packages/nodes-base/nodes/MongoDb/MongoDb.node.ts",
+    "version_info": {
+      "latest_version": 1.1,
+      "all_versions": [
+        1.0,
+        1.1
+      ],
+      "is_multi_version": true,
+      "last_updated": "2024-11-13T10:35:44.485136"
+    }
+  },
+  "MonicaCrm": {
+    "path": "packages/nodes-base/nodes/MonicaCrm/MonicaCrm.node.ts",
+    "version_info": {
+      "version": 1.0,
+      "is_multi_version": false,
+      "last_updated": "2024-11-13T10:35:44.939823"
+    }
+  },
+  "MoveBinaryData": {
+    "path": "packages/nodes-base/nodes/MoveBinaryData/MoveBinaryData.node.ts",
+    "version_info": {
+      "latest_version": 1.1,
+      "all_versions": [
+        1.0,
+        1.1
+      ],
+      "is_multi_version": true,
+      "last_updated": "2024-11-13T10:35:45.432189"
+    }
+  },
+  "Msg91": {
+    "path": "packages/nodes-base/nodes/Msg91/Msg91.node.ts",
+    "version_info": {
+      "version": 1.0,
+      "is_multi_version": false,
+      "last_updated": "2024-11-13T10:35:45.832433"
+    }
+  },
+  "MySql": {
+    "path": "packages/nodes-base/nodes/MySql/MySql.node.ts",
+    "version_info": {
+      "version": 2.4,
+      "is_multi_version": false,
+      "last_updated": "2024-11-13T10:35:46.242283"
+    }
+  },
+  "MySqlV1": {
+    "path": "packages/nodes-base/nodes/MySql/v1/MySqlV1.node.ts",
+    "version_info": {
+      "version": 1.0,
+      "is_multi_version": false,
+      "last_updated": "2024-11-13T10:35:46.667312"
+    }
+  },
+  "N8n": {
+    "path": "packages/nodes-base/nodes/N8n/N8n.node.ts",
+    "version_info": {
+      "version": 1.0,
+      "is_multi_version": false,
+      "last_updated": "2024-11-13T10:35:47.463240"
+    }
+  },
+  "N8nTrainingCustomerDatastore": {
+    "path": "packages/nodes-base/nodes/N8nTrainingCustomerDatastore/N8nTrainingCustomerDatastore.node.ts",
+    "version_info": {
+      "version": 1.0,
+      "is_multi_version": false,
+      "last_updated": "2024-11-13T10:35:47.869582"
+    }
+  },
+  "N8nTrainingCustomerMessenger": {
+    "path": "packages/nodes-base/nodes/N8nTrainingCustomerMessenger/N8nTrainingCustomerMessenger.node.ts",
+    "version_info": {
+      "version": 1.0,
+      "is_multi_version": false,
+      "last_updated": "2024-11-13T10:35:48.305830"
+    }
+  },
+  "N8nTrigger": {
+    "path": "packages/nodes-base/nodes/N8nTrigger/N8nTrigger.node.ts",
+    "version_info": {
+      "version": 1.0,
+      "is_multi_version": false,
+      "last_updated": "2024-11-13T10:35:48.731704"
+    }
+  },
+  "Nasa": {
+    "path": "packages/nodes-base/nodes/Nasa/Nasa.node.ts",
+    "version_info": {
+      "version": 1.0,
+      "is_multi_version": false,
+      "last_updated": "2024-11-13T10:35:49.158640"
+    }
+  },
+  "Netlify": {
+    "path": "packages/nodes-base/nodes/Netlify/Netlify.node.ts",
+    "version_info": {
+      "version": 1.0,
+      "is_multi_version": false,
+      "last_updated": "2024-11-13T10:35:49.596025"
+    }
+  },
+  "NetlifyTrigger": {
+    "path": "packages/nodes-base/nodes/Netlify/NetlifyTrigger.node.ts",
+    "version_info": {
+      "version": 1.0,
+      "is_multi_version": false,
+      "last_updated": "2024-11-13T10:35:50.015567"
+    }
+  },
+  "NetscalerAdc": {
+    "path": "packages/nodes-base/nodes/Netscaler/ADC/NetscalerAdc.node.ts",
+    "version_info": {
+      "version": 1.0,
+      "is_multi_version": false,
+      "last_updated": "2024-11-13T10:35:50.407665"
+    }
+  },
+  "NextCloud": {
+    "path": "packages/nodes-base/nodes/NextCloud/NextCloud.node.ts",
+    "version_info": {
+      "version": 1.0,
+      "is_multi_version": false,
+      "last_updated": "2024-11-13T10:35:50.907406"
+    }
+  },
+  "NoOp": {
+    "path": "packages/nodes-base/nodes/NoOp/NoOp.node.ts",
+    "version_info": {
+      "version": 1.0,
+      "is_multi_version": false,
+      "last_updated": "2024-11-13T10:35:51.325291"
+    }
+  },
+  "NocoDB": {
+    "path": "packages/nodes-base/nodes/NocoDB/NocoDB.node.ts",
+    "version_info": {
+      "latest_version": 3.0,
+      "all_versions": [
+        1.0,
+        2.0,
+        3.0
+      ],
+      "is_multi_version": true,
+      "last_updated": "2024-11-13T10:35:51.729710"
+    }
+  },
+  "Notion": {
+    "path": "packages/nodes-base/nodes/Notion/Notion.node.ts",
+    "version_info": {
+      "version": 2.2,
+      "is_multi_version": false,
+      "last_updated": "2024-11-13T10:35:52.133055"
+    }
+  },
+  "NotionTrigger": {
+    "path": "packages/nodes-base/nodes/Notion/NotionTrigger.node.ts",
+    "version_info": {
+      "version": 1.0,
+      "is_multi_version": false,
+      "last_updated": "2024-11-13T10:35:52.533433"
+    }
+  },
+  "Npm": {
+    "path": "packages/nodes-base/nodes/Npm/Npm.node.ts",
+    "version_info": {
+      "version": 1.0,
+      "is_multi_version": false,
+      "last_updated": "2024-11-13T10:35:54.177715"
+    }
+  },
+  "Odoo": {
+    "path": "packages/nodes-base/nodes/Odoo/Odoo.node.ts",
+    "version_info": {
+      "version": 1.0,
+      "is_multi_version": false,
+      "last_updated": "2024-11-13T10:35:54.603913"
+    }
+  },
+  "Okta": {
+    "path": "packages/nodes-base/nodes/Okta/Okta.node.ts",
+    "version_info": {
+      "version": 1.0,
+      "is_multi_version": false,
+      "last_updated": "2024-11-13T10:35:55.106697"
+    }
+  },
+  "OneSimpleApi": {
+    "path": "packages/nodes-base/nodes/OneSimpleApi/OneSimpleApi.node.ts",
+    "version_info": {
+      "version": 1.0,
+      "is_multi_version": false,
+      "last_updated": "2024-11-13T10:35:55.519675"
+    }
+  },
+  "Onfleet": {
+    "path": "packages/nodes-base/nodes/Onfleet/Onfleet.node.ts",
+    "version_info": {
+      "version": 1.0,
+      "is_multi_version": false,
+      "last_updated": "2024-11-13T10:35:55.949963"
+    }
+  },
+  "OnfleetTrigger": {
+    "path": "packages/nodes-base/nodes/Onfleet/OnfleetTrigger.node.ts",
+    "version_info": {
+      "version": 1.0,
+      "is_multi_version": false,
+      "last_updated": "2024-11-13T10:35:56.411293"
+    }
+  },
+  "OpenAi": {
+    "path": "packages/nodes-base/nodes/OpenAi/OpenAi.node.ts",
+    "version_info": {
+      "latest_version": 1.1,
+      "all_versions": [
+        1.0,
+        1.1
+      ],
+      "is_multi_version": true,
+      "last_updated": "2024-11-13T10:35:56.839853"
+    }
+  },
+  "OpenThesaurus": {
+    "path": "packages/nodes-base/nodes/OpenThesaurus/OpenThesaurus.node.ts",
+    "version_info": {
+      "version": 1.0,
+      "is_multi_version": false,
+      "last_updated": "2024-11-13T10:35:57.280299"
+    }
+  },
+  "OpenWeatherMap": {
+    "path": "packages/nodes-base/nodes/OpenWeatherMap/OpenWeatherMap.node.ts",
+    "version_info": {
+      "version": 1.0,
+      "is_multi_version": false,
+      "last_updated": "2024-11-13T10:35:57.721648"
+    }
+  },
+  "Orbit": {
+    "path": "packages/nodes-base/nodes/Orbit/Orbit.node.ts",
+    "version_info": {
+      "version": 1.0,
+      "is_multi_version": false,
+      "last_updated": "2024-11-13T10:35:58.155615"
+    }
+  },
+  "Oura": {
+    "path": "packages/nodes-base/nodes/Oura/Oura.node.ts",
+    "version_info": {
+      "version": 1.0,
+      "is_multi_version": false,
+      "last_updated": "2024-11-13T10:35:58.839222"
+    }
+  },
+  "Paddle": {
+    "path": "packages/nodes-base/nodes/Paddle/Paddle.node.ts",
+    "version_info": {
+      "version": 1.0,
+      "is_multi_version": false,
+      "last_updated": "2024-11-13T10:35:59.271576"
+    }
+  },
+  "PagerDuty": {
+    "path": "packages/nodes-base/nodes/PagerDuty/PagerDuty.node.ts",
+    "version_info": {
+      "version": 1.0,
+      "is_multi_version": false,
+      "last_updated": "2024-11-13T10:35:59.694784"
+    }
+  },
+  "PayPal": {
+    "path": "packages/nodes-base/nodes/PayPal/PayPal.node.ts",
+    "version_info": {
+      "version": 1.0,
+      "is_multi_version": false,
+      "last_updated": "2024-11-13T10:36:00.122071"
+    }
+  },
+  "PayPalTrigger": {
+    "path": "packages/nodes-base/nodes/PayPal/PayPalTrigger.node.ts",
+    "version_info": {
+      "version": 1.0,
+      "is_multi_version": false,
+      "last_updated": "2024-11-13T10:36:00.569460"
+    }
+  },
+  "Peekalink": {
+    "path": "packages/nodes-base/nodes/Peekalink/Peekalink.node.ts",
+    "version_info": {
+      "version": 1.0,
+      "is_multi_version": false,
+      "last_updated": "2024-11-13T10:36:01.005868"
+    }
+  },
+  "Phantombuster": {
+    "path": "packages/nodes-base/nodes/Phantombuster/Phantombuster.node.ts",
+    "version_info": {
+      "version": 1.0,
+      "is_multi_version": false,
+      "last_updated": "2024-11-13T10:36:01.444139"
+    }
+  },
+  "PhilipsHue": {
+    "path": "packages/nodes-base/nodes/PhilipsHue/PhilipsHue.node.ts",
+    "version_info": {
+      "version": 1.0,
+      "is_multi_version": false,
+      "last_updated": "2024-11-13T10:36:01.889389"
+    }
+  },
+  "Pipedrive": {
+    "path": "packages/nodes-base/nodes/Pipedrive/Pipedrive.node.ts",
+    "version_info": {
+      "version": 1.0,
+      "is_multi_version": false,
+      "last_updated": "2024-11-13T10:36:02.447571"
+    }
+  },
+  "PipedriveTrigger": {
+    "path": "packages/nodes-base/nodes/Pipedrive/PipedriveTrigger.node.ts",
+    "version_info": {
+      "version": 1.0,
+      "is_multi_version": false,
+      "last_updated": "2024-11-13T10:36:02.889640"
+    }
+  },
+  "Plivo": {
+    "path": "packages/nodes-base/nodes/Plivo/Plivo.node.ts",
+    "version_info": {
+      "version": 1.0,
+      "is_multi_version": false,
+      "last_updated": "2024-11-13T10:36:03.357175"
+    }
+  },
+  "PostBin": {
+    "path": "packages/nodes-base/nodes/PostBin/PostBin.node.ts",
+    "version_info": {
+      "version": 1.0,
+      "is_multi_version": false,
+      "last_updated": "2024-11-13T10:36:03.810201"
+    }
+  },
+  "PostHog": {
+    "path": "packages/nodes-base/nodes/PostHog/PostHog.node.ts",
+    "version_info": {
+      "version": 1.0,
+      "is_multi_version": false,
+      "last_updated": "2024-11-13T10:36:04.252551"
+    }
+  },
+  "Postgres": {
+    "path": "packages/nodes-base/nodes/Postgres/Postgres.node.ts",
+    "version_info": {
+      "version": 2.5,
+      "is_multi_version": false,
+      "last_updated": "2024-11-13T10:36:04.663910"
+    }
+  },
+  "PostgresTrigger": {
+    "path": "packages/nodes-base/nodes/Postgres/PostgresTrigger.node.ts",
+    "version_info": {
+      "version": 1.0,
+      "is_multi_version": false,
+      "last_updated": "2024-11-13T10:36:05.078997"
+    }
+  },
+  "PostgresV1": {
+    "path": "packages/nodes-base/nodes/Postgres/v1/PostgresV1.node.ts",
+    "version_info": {
+      "version": 1.0,
+      "is_multi_version": false,
+      "last_updated": "2024-11-13T10:36:05.514679"
+    }
+  },
+  "PostmarkTrigger": {
+    "path": "packages/nodes-base/nodes/Postmark/PostmarkTrigger.node.ts",
+    "version_info": {
+      "version": 1.0,
+      "is_multi_version": false,
+      "last_updated": "2024-11-13T10:36:06.372462"
+    }
+  },
+  "ProfitWell": {
+    "path": "packages/nodes-base/nodes/ProfitWell/ProfitWell.node.ts",
+    "version_info": {
+      "version": 1.0,
+      "is_multi_version": false,
+      "last_updated": "2024-11-13T10:36:06.905333"
+    }
+  },
+  "Pushbullet": {
+    "path": "packages/nodes-base/nodes/Pushbullet/Pushbullet.node.ts",
+    "version_info": {
+      "version": 1.0,
+      "is_multi_version": false,
+      "last_updated": "2024-11-13T10:36:07.337396"
+    }
+  },
+  "Pushcut": {
+    "path": "packages/nodes-base/nodes/Pushcut/Pushcut.node.ts",
+    "version_info": {
+      "version": 1.0,
+      "is_multi_version": false,
+      "last_updated": "2024-11-13T10:36:07.762388"
+    }
+  },
+  "PushcutTrigger": {
+    "path": "packages/nodes-base/nodes/Pushcut/PushcutTrigger.node.ts",
+    "version_info": {
+      "version": 1.0,
+      "is_multi_version": false,
+      "last_updated": "2024-11-13T10:36:08.171530"
+    }
+  },
+  "Pushover": {
+    "path": "packages/nodes-base/nodes/Pushover/Pushover.node.ts",
+    "version_info": {
+      "version": 1.0,
+      "is_multi_version": false,
+      "last_updated": "2024-11-13T10:36:08.597459"
+    }
+  },
+  "QuestDb": {
+    "path": "packages/nodes-base/nodes/QuestDb/QuestDb.node.ts",
+    "version_info": {
+      "version": 1.0,
+      "is_multi_version": false,
+      "last_updated": "2024-11-13T10:36:09.019715"
+    }
+  },
+  "QuickBase": {
+    "path": "packages/nodes-base/nodes/QuickBase/QuickBase.node.ts",
+    "version_info": {
+      "version": 1.0,
+      "is_multi_version": false,
+      "last_updated": "2024-11-13T10:36:09.438952"
+    }
+  },
+  "QuickBooks": {
+    "path": "packages/nodes-base/nodes/QuickBooks/QuickBooks.node.ts",
+    "version_info": {
+      "version": 1.0,
+      "is_multi_version": false,
+      "last_updated": "2024-11-13T10:36:09.915592"
+    }
+  },
+  "QuickChart": {
+    "path": "packages/nodes-base/nodes/QuickChart/QuickChart.node.ts",
+    "version_info": {
+      "version": 1.0,
+      "is_multi_version": false,
+      "last_updated": "2024-11-13T10:36:10.343911"
+    }
+  },
+  "RabbitMQ": {
+    "path": "packages/nodes-base/nodes/RabbitMQ/RabbitMQ.node.ts",
+    "version_info": {
+      "latest_version": 1.1,
+      "all_versions": [
+        1.0,
+        1.1
+      ],
+      "is_multi_version": true,
+      "last_updated": "2024-11-13T10:36:10.858793"
+    }
+  },
+  "RabbitMQTrigger": {
+    "path": "packages/nodes-base/nodes/RabbitMQ/RabbitMQTrigger.node.ts",
+    "version_info": {
+      "version": 1.0,
+      "is_multi_version": false,
+      "last_updated": "2024-11-13T10:36:11.317212"
+    }
+  },
+  "Raindrop": {
+    "path": "packages/nodes-base/nodes/Raindrop/Raindrop.node.ts",
+    "version_info": {
+      "version": 1.0,
+      "is_multi_version": false,
+      "last_updated": "2024-11-13T10:36:11.801067"
+    }
+  },
+  "ReadBinaryFile": {
+    "path": "packages/nodes-base/nodes/ReadBinaryFile/ReadBinaryFile.node.ts",
+    "version_info": {
+      "version": 1.0,
+      "is_multi_version": false,
+      "last_updated": "2024-11-13T10:36:12.300143"
+    }
+  },
+  "ReadBinaryFiles": {
+    "path": "packages/nodes-base/nodes/ReadBinaryFiles/ReadBinaryFiles.node.ts",
+    "version_info": {
+      "version": 1.0,
+      "is_multi_version": false,
+      "last_updated": "2024-11-13T10:36:12.731185"
+    }
+  },
+  "ReadPDF": {
+    "path": "packages/nodes-base/nodes/ReadPdf/ReadPDF.node.ts",
+    "version_info": {
+      "version": 1.0,
+      "is_multi_version": false,
+      "last_updated": "2024-11-13T10:36:13.139028"
+    }
+  },
+  "Reddit": {
+    "path": "packages/nodes-base/nodes/Reddit/Reddit.node.ts",
+    "version_info": {
+      "version": 1.0,
+      "is_multi_version": false,
+      "last_updated": "2024-11-13T10:36:13.634887"
+    }
+  },
+  "Redis": {
+    "path": "packages/nodes-base/nodes/Redis/Redis.node.ts",
+    "version_info": {
+      "version": 1.0,
+      "is_multi_version": false,
+      "last_updated": "2024-11-13T10:36:14.080267"
+    }
+  },
+  "RedisTrigger": {
+    "path": "packages/nodes-base/nodes/Redis/RedisTrigger.node.ts",
+    "version_info": {
+      "version": 1.0,
+      "is_multi_version": false,
+      "last_updated": "2024-11-13T10:36:14.497938"
+    }
+  },
+  "RenameKeys": {
+    "path": "packages/nodes-base/nodes/RenameKeys/RenameKeys.node.ts",
+    "version_info": {
+      "version": 1.0,
+      "is_multi_version": false,
+      "last_updated": "2024-11-13T10:36:14.912872"
+    }
+  },
+  "RespondToWebhook": {
+    "path": "packages/nodes-base/nodes/RespondToWebhook/RespondToWebhook.node.ts",
+    "version_info": {
+      "latest_version": 1.1,
+      "all_versions": [
+        1.0,
+        1.1
+      ],
+      "is_multi_version": true,
+      "last_updated": "2024-11-13T10:36:15.401202"
+    }
+  },
+  "Rocketchat": {
+    "path": "packages/nodes-base/nodes/Rocketchat/Rocketchat.node.ts",
+    "version_info": {
+      "version": 1.0,
+      "is_multi_version": false,
+      "last_updated": "2024-11-13T10:36:15.913105"
+    }
+  },
+  "RssFeedRead": {
+    "path": "packages/nodes-base/nodes/RssFeedRead/RssFeedRead.node.ts",
+    "version_info": {
+      "latest_version": 1.1,
+      "all_versions": [
+        1.0,
+        1.1
+      ],
+      "is_multi_version": true,
+      "last_updated": "2024-11-13T10:36:16.438022"
+    }
+  },
+  "RssFeedReadTrigger": {
+    "path": "packages/nodes-base/nodes/RssFeedRead/RssFeedReadTrigger.node.ts",
+    "version_info": {
+      "version": 1.0,
+      "is_multi_version": false,
+      "last_updated": "2024-11-13T10:36:16.931459"
+    }
+  },
+  "Rundeck": {
+    "path": "packages/nodes-base/nodes/Rundeck/Rundeck.node.ts",
+    "version_info": {
+      "version": 1.0,
+      "is_multi_version": false,
+      "last_updated": "2024-11-13T10:36:17.413227"
+    }
+  },
+  "S3": {
+    "path": "packages/nodes-base/nodes/S3/S3.node.ts",
+    "version_info": {
+      "version": 1.0,
+      "is_multi_version": false,
+      "last_updated": "2024-11-13T10:36:17.966609"
+    }
+  },
+  "Salesforce": {
+    "path": "packages/nodes-base/nodes/Salesforce/Salesforce.node.ts",
+    "version_info": {
+      "version": 1.0,
+      "is_multi_version": false,
+      "last_updated": "2024-11-13T10:36:18.550783"
+    }
+  },
+  "SalesforceTrigger": {
+    "path": "packages/nodes-base/nodes/Salesforce/SalesforceTrigger.node.ts",
+    "version_info": {
+      "version": 1.0,
+      "is_multi_version": false,
+      "last_updated": "2024-11-13T10:36:18.975446"
+    }
+  },
+  "Salesmate": {
+    "path": "packages/nodes-base/nodes/Salesmate/Salesmate.node.ts",
+    "version_info": {
+      "version": 1.0,
+      "is_multi_version": false,
+      "last_updated": "2024-11-13T10:36:19.420361"
+    }
+  },
+  "ScheduleTrigger": {
+    "path": "packages/nodes-base/nodes/Schedule/ScheduleTrigger.node.ts",
+    "version_info": {
+      "latest_version": 1.2,
+      "all_versions": [
+        1.0,
+        1.1,
+        1.2
+      ],
+      "is_multi_version": true,
+      "last_updated": "2024-11-13T10:36:19.861076"
+    }
+  },
+  "SeaTable": {
+    "path": "packages/nodes-base/nodes/SeaTable/SeaTable.node.ts",
+    "version_info": {
+      "version": 1.0,
+      "is_multi_version": false,
+      "last_updated": "2024-11-13T10:36:20.275731"
+    }
+  },
+  "SeaTableTrigger": {
+    "path": "packages/nodes-base/nodes/SeaTable/SeaTableTrigger.node.ts",
+    "version_info": {
+      "version": 1.0,
+      "is_multi_version": false,
+      "last_updated": "2024-11-13T10:36:20.735741"
+    }
+  },
+  "SecurityScorecard": {
+    "path": "packages/nodes-base/nodes/SecurityScorecard/SecurityScorecard.node.ts",
+    "version_info": {
+      "version": 1.0,
+      "is_multi_version": false,
+      "last_updated": "2024-11-13T10:36:21.177225"
+    }
+  },
+  "Segment": {
+    "path": "packages/nodes-base/nodes/Segment/Segment.node.ts",
+    "version_info": {
+      "version": 1.0,
+      "is_multi_version": false,
+      "last_updated": "2024-11-13T10:36:21.666566"
+    }
+  },
+  "SendGrid": {
+    "path": "packages/nodes-base/nodes/SendGrid/SendGrid.node.ts",
+    "version_info": {
+      "version": 1.0,
+      "is_multi_version": false,
+      "last_updated": "2024-11-13T10:36:22.106216"
+    }
+  },
+  "Sendy": {
+    "path": "packages/nodes-base/nodes/Sendy/Sendy.node.ts",
+    "version_info": {
+      "version": 1.0,
+      "is_multi_version": false,
+      "last_updated": "2024-11-13T10:36:22.518348"
+    }
+  },
+  "SentryIo": {
+    "path": "packages/nodes-base/nodes/SentryIo/SentryIo.node.ts",
+    "version_info": {
+      "version": 1.0,
+      "is_multi_version": false,
+      "last_updated": "2024-11-13T10:36:22.972707"
+    }
+  },
+  "ServiceNow": {
+    "path": "packages/nodes-base/nodes/ServiceNow/ServiceNow.node.ts",
+    "version_info": {
+      "version": 1.0,
+      "is_multi_version": false,
+      "last_updated": "2024-11-13T10:36:23.478341"
+    }
+  },
+  "Set": {
+    "path": "packages/nodes-base/nodes/Set/Set.node.ts",
+    "version_info": {
+      "version": 3.4,
+      "is_multi_version": false,
+      "last_updated": "2024-11-13T10:36:23.936719"
+    }
+  },
+  "SetV1": {
+    "path": "packages/nodes-base/nodes/Set/v1/SetV1.node.ts",
+    "version_info": {
+      "latest_version": 2.0,
+      "all_versions": [
+        1.0,
+        2.0
+      ],
+      "is_multi_version": true,
+      "last_updated": "2024-11-13T10:36:24.416725"
+    }
+  },
+  "SetV2": {
+    "path": "packages/nodes-base/nodes/Set/v2/SetV2.node.ts",
+    "version_info": {
+      "latest_version": 3.4,
+      "all_versions": [
+        3.0,
+        3.1,
+        3.2,
+        3.3,
+        3.4
+      ],
+      "is_multi_version": true,
+      "last_updated": "2024-11-13T10:36:24.898320"
+    }
+  },
+  "Shopify": {
+    "path": "packages/nodes-base/nodes/Shopify/Shopify.node.ts",
+    "version_info": {
+      "version": 1.0,
+      "is_multi_version": false,
+      "last_updated": "2024-11-13T10:36:25.388925"
+    }
+  },
+  "ShopifyTrigger": {
+    "path": "packages/nodes-base/nodes/Shopify/ShopifyTrigger.node.ts",
+    "version_info": {
+      "version": 1.0,
+      "is_multi_version": false,
+      "last_updated": "2024-11-13T10:36:25.823730"
+    }
+  },
+  "Signl4": {
+    "path": "packages/nodes-base/nodes/Signl4/Signl4.node.ts",
+    "version_info": {
+      "version": 1.0,
+      "is_multi_version": false,
+      "last_updated": "2024-11-13T10:36:26.344430"
+    }
+  },
+  "Simulate": {
+    "path": "packages/nodes-base/nodes/Simulate/Simulate.node.ts",
+    "version_info": {
+      "version": 1.0,
+      "is_multi_version": false,
+      "last_updated": "2024-11-13T10:36:26.804442"
+    }
+  },
+  "SimulateTrigger": {
+    "path": "packages/nodes-base/nodes/Simulate/SimulateTrigger.node.ts",
+    "version_info": {
+      "version": 1.0,
+      "is_multi_version": false,
+      "last_updated": "2024-11-13T10:36:27.251060"
+    }
+  },
+  "Slack": {
+    "path": "packages/nodes-base/nodes/Slack/Slack.node.ts",
+    "version_info": {
+      "version": 2.2,
+      "is_multi_version": false,
+      "last_updated": "2024-11-13T10:36:27.690252"
+    }
+  },
+  "SlackTrigger": {
+    "path": "packages/nodes-base/nodes/Slack/SlackTrigger.node.ts",
+    "version_info": {
+      "version": 1.0,
+      "is_multi_version": false,
+      "last_updated": "2024-11-13T10:36:28.132115"
+    }
+  },
+  "SlackV1": {
+    "path": "packages/nodes-base/nodes/Slack/V1/SlackV1.node.ts",
+    "version_info": {
+      "version": 1.0,
+      "is_multi_version": false,
+      "last_updated": "2024-11-13T10:36:28.572970"
+    }
+  },
+  "SlackV2": {
+    "path": "packages/nodes-base/nodes/Slack/V2/SlackV2.node.ts",
+    "version_info": {
+      "latest_version": 2.2,
+      "all_versions": [
+        2.0,
+        2.1,
+        2.2
+      ],
+      "is_multi_version": true,
+      "last_updated": "2024-11-13T10:36:29.041425"
+    }
+  },
+  "Sms77": {
+    "path": "packages/nodes-base/nodes/Sms77/Sms77.node.ts",
+    "version_info": {
+      "version": 1.0,
+      "is_multi_version": false,
+      "last_updated": "2024-11-13T10:36:29.473230"
+    }
+  },
+  "Snowflake": {
+    "path": "packages/nodes-base/nodes/Snowflake/Snowflake.node.ts",
+    "version_info": {
+      "version": 1.0,
+      "is_multi_version": false,
+      "last_updated": "2024-11-13T10:36:29.947938"
+    }
+  },
+  "SplitInBatches": {
+    "path": "packages/nodes-base/nodes/SplitInBatches/SplitInBatches.node.ts",
+    "version_info": {
+      "version": 3.0,
+      "is_multi_version": false,
+      "last_updated": "2024-11-13T10:36:30.471322"
+    }
+  },
+  "SplitInBatchesV1": {
+    "path": "packages/nodes-base/nodes/SplitInBatches/v1/SplitInBatchesV1.node.ts",
+    "version_info": {
+      "version": 1.0,
+      "is_multi_version": false,
+      "last_updated": "2024-11-13T10:36:30.941551"
+    }
+  },
+  "SplitInBatchesV2": {
+    "path": "packages/nodes-base/nodes/SplitInBatches/v2/SplitInBatchesV2.node.ts",
+    "version_info": {
+      "version": 2.0,
+      "is_multi_version": false,
+      "last_updated": "2024-11-13T10:36:31.522128"
+    }
+  },
+  "SplitInBatchesV3": {
+    "path": "packages/nodes-base/nodes/SplitInBatches/v3/SplitInBatchesV3.node.ts",
+    "version_info": {
+      "version": 3.0,
+      "is_multi_version": false,
+      "last_updated": "2024-11-13T10:36:32.016658"
+    }
+  },
+  "Splunk": {
+    "path": "packages/nodes-base/nodes/Splunk/Splunk.node.ts",
+    "version_info": {
+      "version": 2.0,
+      "is_multi_version": false,
+      "last_updated": "2024-11-13T10:36:32.570724"
+    }
+  },
+  "SplunkV1": {
+    "path": "packages/nodes-base/nodes/Splunk/v1/SplunkV1.node.ts",
+    "version_info": {
+      "version": 1.0,
+      "is_multi_version": false,
+      "last_updated": "2024-11-13T10:36:33.046682"
+    }
+  },
+  "Spontit": {
+    "path": "packages/nodes-base/nodes/Spontit/Spontit.node.ts",
+    "version_info": {
+      "version": 1.0,
+      "is_multi_version": false,
+      "last_updated": "2024-11-13T10:36:33.927871"
+    }
+  },
+  "Spotify": {
+    "path": "packages/nodes-base/nodes/Spotify/Spotify.node.ts",
+    "version_info": {
+      "version": 1.0,
+      "is_multi_version": false,
+      "last_updated": "2024-11-13T10:36:34.410269"
+    }
+  },
+  "SpreadsheetFile": {
+    "path": "packages/nodes-base/nodes/SpreadsheetFile/SpreadsheetFile.node.ts",
+    "version_info": {
+      "version": 2.0,
+      "is_multi_version": false,
+      "last_updated": "2024-11-13T10:36:34.820373"
+    }
+  },
+  "SpreadsheetFileV1": {
+    "path": "packages/nodes-base/nodes/SpreadsheetFile/v1/SpreadsheetFileV1.node.ts",
+    "version_info": {
+      "version": 1.0,
+      "is_multi_version": false,
+      "last_updated": "2024-11-13T10:36:35.238103"
+    }
+  },
+  "SpreadsheetFileV2": {
+    "path": "packages/nodes-base/nodes/SpreadsheetFile/v2/SpreadsheetFileV2.node.ts",
+    "version_info": {
+      "version": 2.0,
+      "is_multi_version": false,
+      "last_updated": "2024-11-13T10:36:35.682845"
+    }
+  },
+  "SseTrigger": {
+    "path": "packages/nodes-base/nodes/SseTrigger/SseTrigger.node.ts",
+    "version_info": {
+      "version": 1.0,
+      "is_multi_version": false,
+      "last_updated": "2024-11-13T10:36:36.078653"
+    }
+  },
+  "Ssh": {
+    "path": "packages/nodes-base/nodes/Ssh/Ssh.node.ts",
+    "version_info": {
+      "version": 1.0,
+      "is_multi_version": false,
+      "last_updated": "2024-11-13T10:36:36.509610"
+    }
+  },
+  "Stackby": {
+    "path": "packages/nodes-base/nodes/Stackby/Stackby.node.ts",
+    "version_info": {
+      "version": 1.0,
+      "is_multi_version": false,
+      "last_updated": "2024-11-13T10:36:36.950905"
+    }
+  },
+  "Start": {
+    "path": "packages/nodes-base/nodes/Start/Start.node.ts",
+    "version_info": {
+      "version": 1.0,
+      "is_multi_version": false,
+      "last_updated": "2024-11-13T10:36:37.358713"
+    }
+  },
+  "StickyNote": {
+    "path": "packages/nodes-base/nodes/StickyNote/StickyNote.node.ts",
+    "version_info": {
+      "version": 1.0,
+      "is_multi_version": false,
+      "last_updated": "2024-11-13T10:36:37.809633"
+    }
+  },
+  "StopAndError": {
+    "path": "packages/nodes-base/nodes/StopAndError/StopAndError.node.ts",
+    "version_info": {
+      "version": 1.0,
+      "is_multi_version": false,
+      "last_updated": "2024-11-13T10:36:38.198300"
+    }
+  },
+  "Storyblok": {
+    "path": "packages/nodes-base/nodes/Storyblok/Storyblok.node.ts",
+    "version_info": {
+      "version": 1.0,
+      "is_multi_version": false,
+      "last_updated": "2024-11-13T10:36:38.641120"
+    }
+  },
+  "Strapi": {
+    "path": "packages/nodes-base/nodes/Strapi/Strapi.node.ts",
+    "version_info": {
+      "version": 1.0,
+      "is_multi_version": false,
+      "last_updated": "2024-11-13T10:36:39.035338"
+    }
+  },
+  "Strava": {
+    "path": "packages/nodes-base/nodes/Strava/Strava.node.ts",
+    "version_info": {
+      "latest_version": 1.1,
+      "all_versions": [
+        1.0,
+        1.1
+      ],
+      "is_multi_version": true,
+      "last_updated": "2024-11-13T10:36:39.502830"
+    }
+  },
+  "StravaTrigger": {
+    "path": "packages/nodes-base/nodes/Strava/StravaTrigger.node.ts",
+    "version_info": {
+      "version": 1.0,
+      "is_multi_version": false,
+      "last_updated": "2024-11-13T10:36:39.953664"
+    }
+  },
+  "Stripe": {
+    "path": "packages/nodes-base/nodes/Stripe/Stripe.node.ts",
+    "version_info": {
+      "version": 1.0,
+      "is_multi_version": false,
+      "last_updated": "2024-11-13T10:36:40.354694"
+    }
+  },
+  "StripeTrigger": {
+    "path": "packages/nodes-base/nodes/Stripe/StripeTrigger.node.ts",
+    "version_info": {
+      "version": 1.0,
+      "is_multi_version": false,
+      "last_updated": "2024-11-13T10:36:40.814467"
+    }
+  },
+  "Supabase": {
+    "path": "packages/nodes-base/nodes/Supabase/Supabase.node.ts",
+    "version_info": {
+      "version": 1.0,
+      "is_multi_version": false,
+      "last_updated": "2024-11-13T10:36:41.242909"
+    }
+  },
+  "SurveyMonkeyTrigger": {
+    "path": "packages/nodes-base/nodes/SurveyMonkey/SurveyMonkeyTrigger.node.ts",
+    "version_info": {
+      "version": 1.0,
+      "is_multi_version": false,
+      "last_updated": "2024-11-13T10:36:41.666645"
+    }
+  },
+  "Switch": {
+    "path": "packages/nodes-base/nodes/Switch/Switch.node.ts",
+    "version_info": {
+      "version": 3.2,
+      "is_multi_version": false,
+      "last_updated": "2024-11-13T10:36:42.081372"
+    }
+  },
+  "SwitchV1": {
+    "path": "packages/nodes-base/nodes/Switch/V1/SwitchV1.node.ts",
+    "version_info": {
+      "latest_version": 1.0,
+      "all_versions": [
+        1.0
+      ],
+      "is_multi_version": true,
+      "last_updated": "2024-11-13T10:36:42.488304"
+    }
+  },
+  "SwitchV2": {
+    "path": "packages/nodes-base/nodes/Switch/V2/SwitchV2.node.ts",
+    "version_info": {
+      "latest_version": 2.0,
+      "all_versions": [
+        2.0
+      ],
+      "is_multi_version": true,
+      "last_updated": "2024-11-13T10:36:42.994888"
+    }
+  },
+  "SwitchV3": {
+    "path": "packages/nodes-base/nodes/Switch/V3/SwitchV3.node.ts",
+    "version_info": {
+      "latest_version": 3.2,
+      "all_versions": [
+        3.0,
+        3.1,
+        3.2
+      ],
+      "is_multi_version": true,
+      "last_updated": "2024-11-13T10:36:43.531729"
+    }
+  },
+  "SyncroMsp": {
+    "path": "packages/nodes-base/nodes/SyncroMSP/SyncroMsp.node.ts",
+    "version_info": {
+      "version": 1.0,
+      "is_multi_version": false,
+      "last_updated": "2024-11-13T10:36:43.944916"
+    }
+  },
+  "Taiga": {
+    "path": "packages/nodes-base/nodes/Taiga/Taiga.node.ts",
+    "version_info": {
+      "version": 1.0,
+      "is_multi_version": false,
+      "last_updated": "2024-11-13T10:36:44.841257"
+    }
+  },
+  "TaigaTrigger": {
+    "path": "packages/nodes-base/nodes/Taiga/TaigaTrigger.node.ts",
+    "version_info": {
+      "version": 1.0,
+      "is_multi_version": false,
+      "last_updated": "2024-11-13T10:36:45.303574"
+    }
+  },
+  "Tapfiliate": {
+    "path": "packages/nodes-base/nodes/Tapfiliate/Tapfiliate.node.ts",
+    "version_info": {
+      "version": 1.0,
+      "is_multi_version": false,
+      "last_updated": "2024-11-13T10:36:45.746337"
+    }
+  },
+  "Telegram": {
+    "path": "packages/nodes-base/nodes/Telegram/Telegram.node.ts",
+    "version_info": {
+      "latest_version": 1.2,
+      "all_versions": [
+        1.0,
+        1.1,
+        1.2
+      ],
+      "is_multi_version": true,
+      "last_updated": "2024-11-13T10:36:46.217277"
+    }
+  },
+  "TelegramTrigger": {
+    "path": "packages/nodes-base/nodes/Telegram/TelegramTrigger.node.ts",
+    "version_info": {
+      "version": 1.1,
+      "is_multi_version": false,
+      "last_updated": "2024-11-13T10:36:46.761371"
+    }
+  },
+  "TheHive": {
+    "path": "packages/nodes-base/nodes/TheHive/TheHive.node.ts",
+    "version_info": {
+      "version": 1.0,
+      "is_multi_version": false,
+      "last_updated": "2024-11-13T10:36:47.213501"
+    }
+  },
+  "TheHiveTrigger": {
+    "path": "packages/nodes-base/nodes/TheHive/TheHiveTrigger.node.ts",
+    "version_info": {
+      "latest_version": 2.0,
+      "all_versions": [
+        1.0,
+        2.0
+      ],
+      "is_multi_version": true,
+      "last_updated": "2024-11-13T10:36:47.690228"
+    }
+  },
+  "TheHiveProjectTrigger": {
+    "path": "packages/nodes-base/nodes/TheHiveProject/TheHiveProjectTrigger.node.ts",
+    "version_info": {
+      "version": 1.0,
+      "is_multi_version": false,
+      "last_updated": "2024-11-13T10:36:48.694955"
+    }
+  },
+  "TimescaleDb": {
+    "path": "packages/nodes-base/nodes/TimescaleDb/TimescaleDb.node.ts",
+    "version_info": {
+      "version": 1.0,
+      "is_multi_version": false,
+      "last_updated": "2024-11-13T10:36:49.125787"
+    }
+  },
+  "Todoist": {
+    "path": "packages/nodes-base/nodes/Todoist/Todoist.node.ts",
+    "version_info": {
+      "version": 2.1,
+      "is_multi_version": false,
+      "last_updated": "2024-11-13T10:36:49.576638"
+    }
+  },
+  "TodoistV1": {
+    "path": "packages/nodes-base/nodes/Todoist/v1/TodoistV1.node.ts",
+    "version_info": {
+      "version": 1.0,
+      "is_multi_version": false,
+      "last_updated": "2024-11-13T10:36:49.988280"
+    }
+  },
+  "TodoistV2": {
+    "path": "packages/nodes-base/nodes/Todoist/v2/TodoistV2.node.ts",
+    "version_info": {
+      "latest_version": 2.1,
+      "all_versions": [
+        2.0,
+        2.1
+      ],
+      "is_multi_version": true,
+      "last_updated": "2024-11-13T10:36:50.409445"
+    }
+  },
+  "TogglTrigger": {
+    "path": "packages/nodes-base/nodes/Toggl/TogglTrigger.node.ts",
+    "version_info": {
+      "version": 1.0,
+      "is_multi_version": false,
+      "last_updated": "2024-11-13T10:36:50.814311"
+    }
+  },
+  "Totp": {
+    "path": "packages/nodes-base/nodes/Totp/Totp.node.ts",
+    "version_info": {
+      "version": 1.0,
+      "is_multi_version": false,
+      "last_updated": "2024-11-13T10:36:51.272942"
+    }
+  },
+  "Aggregate": {
+    "path": "packages/nodes-base/nodes/Transform/Aggregate/Aggregate.node.ts",
+    "version_info": {
+      "version": 1.0,
+      "is_multi_version": false,
+      "last_updated": "2024-11-13T10:36:51.689193"
+    }
+  },
+  "Limit": {
+    "path": "packages/nodes-base/nodes/Transform/Limit/Limit.node.ts",
+    "version_info": {
+      "version": 1.0,
+      "is_multi_version": false,
+      "last_updated": "2024-11-13T10:36:52.151079"
+    }
+  },
+  "RemoveDuplicates": {
+    "path": "packages/nodes-base/nodes/Transform/RemoveDuplicates/RemoveDuplicates.node.ts",
+    "version_info": {
+      "version": 2.0,
+      "is_multi_version": false,
+      "last_updated": "2024-11-13T10:36:52.673266"
+    }
+  },
+  "RemoveDuplicatesV1": {
+    "path": "packages/nodes-base/nodes/Transform/RemoveDuplicates/v1/RemoveDuplicatesV1.node.ts",
+    "version_info": {
+      "latest_version": 1.1,
+      "all_versions": [
+        1.0,
+        1.1
+      ],
+      "is_multi_version": true,
+      "last_updated": "2024-11-13T10:36:53.083048"
+    }
+  },
+  "RemoveDuplicatesV2": {
+    "path": "packages/nodes-base/nodes/Transform/RemoveDuplicates/v2/RemoveDuplicatesV2.node.ts",
+    "version_info": {
+      "latest_version": 2.0,
+      "all_versions": [
+        2.0
+      ],
+      "is_multi_version": true,
+      "last_updated": "2024-11-13T10:36:53.493839"
+    }
+  },
+  "Sort": {
+    "path": "packages/nodes-base/nodes/Transform/Sort/Sort.node.ts",
+    "version_info": {
+      "version": 1.0,
+      "is_multi_version": false,
+      "last_updated": "2024-11-13T10:36:53.945198"
+    }
+  },
+  "SplitOut": {
+    "path": "packages/nodes-base/nodes/Transform/SplitOut/SplitOut.node.ts",
+    "version_info": {
+      "version": 1.0,
+      "is_multi_version": false,
+      "last_updated": "2024-11-13T10:36:54.384664"
+    }
+  },
+  "Summarize": {
+    "path": "packages/nodes-base/nodes/Transform/Summarize/Summarize.node.ts",
+    "version_info": {
+      "version": 1.0,
+      "is_multi_version": false,
+      "last_updated": "2024-11-13T10:36:54.777031"
+    }
+  },
+  "TravisCi": {
+    "path": "packages/nodes-base/nodes/TravisCi/TravisCi.node.ts",
+    "version_info": {
+      "version": 1.0,
+      "is_multi_version": false,
+      "last_updated": "2024-11-13T10:36:55.197717"
+    }
+  },
+  "Trello": {
+    "path": "packages/nodes-base/nodes/Trello/Trello.node.ts",
+    "version_info": {
+      "version": 1.0,
+      "is_multi_version": false,
+      "last_updated": "2024-11-13T10:36:55.678280"
+    }
+  },
+  "TrelloTrigger": {
+    "path": "packages/nodes-base/nodes/Trello/TrelloTrigger.node.ts",
+    "version_info": {
+      "version": 1.0,
+      "is_multi_version": false,
+      "last_updated": "2024-11-13T10:36:56.099858"
+    }
+  },
+  "Twake": {
+    "path": "packages/nodes-base/nodes/Twake/Twake.node.ts",
+    "version_info": {
+      "version": 1.0,
+      "is_multi_version": false,
+      "last_updated": "2024-11-13T10:36:56.522348"
+    }
+  },
+  "Twilio": {
+    "path": "packages/nodes-base/nodes/Twilio/Twilio.node.ts",
+    "version_info": {
+      "version": 1.0,
+      "is_multi_version": false,
+      "last_updated": "2024-11-13T10:36:56.943293"
+    }
+  },
+  "TwilioTrigger": {
+    "path": "packages/nodes-base/nodes/Twilio/TwilioTrigger.node.ts",
+    "version_info": {
+      "version": 1.0,
+      "is_multi_version": false,
+      "last_updated": "2024-11-13T10:36:57.392805"
+    }
+  },
+  "Twist": {
+    "path": "packages/nodes-base/nodes/Twist/Twist.node.ts",
+    "version_info": {
+      "version": 1.0,
+      "is_multi_version": false,
+      "last_updated": "2024-11-13T10:36:57.832554"
+    }
+  },
+  "Twitter": {
+    "path": "packages/nodes-base/nodes/Twitter/Twitter.node.ts",
+    "version_info": {
+      "version": 2.0,
+      "is_multi_version": false,
+      "last_updated": "2024-11-13T10:36:58.293238"
+    }
+  },
+  "TwitterV1": {
+    "path": "packages/nodes-base/nodes/Twitter/V1/TwitterV1.node.ts",
+    "version_info": {
+      "version": 1.0,
+      "is_multi_version": false,
+      "last_updated": "2024-11-13T10:36:58.727656"
+    }
+  },
+  "TwitterV2": {
+    "path": "packages/nodes-base/nodes/Twitter/V2/TwitterV2.node.ts",
+    "version_info": {
+      "version": 2.0,
+      "is_multi_version": false,
+      "last_updated": "2024-11-13T10:36:59.164852"
+    }
+  },
+  "TypeformTrigger": {
+    "path": "packages/nodes-base/nodes/Typeform/TypeformTrigger.node.ts",
+    "version_info": {
+      "latest_version": 1.1,
+      "all_versions": [
+        1.0,
+        1.1
+      ],
+      "is_multi_version": true,
+      "last_updated": "2024-11-13T10:36:59.565727"
+    }
+  },
+  "UProc": {
+    "path": "packages/nodes-base/nodes/UProc/UProc.node.ts",
+    "version_info": {
+      "version": 1.0,
+      "is_multi_version": false,
+      "last_updated": "2024-11-13T10:36:59.993257"
+    }
+  },
+  "UnleashedSoftware": {
+    "path": "packages/nodes-base/nodes/UnleashedSoftware/UnleashedSoftware.node.ts",
+    "version_info": {
+      "version": 1.0,
+      "is_multi_version": false,
+      "last_updated": "2024-11-13T10:37:00.402807"
+    }
+  },
+  "Uplead": {
+    "path": "packages/nodes-base/nodes/Uplead/Uplead.node.ts",
+    "version_info": {
+      "version": 1.0,
+      "is_multi_version": false,
+      "last_updated": "2024-11-13T10:37:00.859785"
+    }
+  },
+  "UptimeRobot": {
+    "path": "packages/nodes-base/nodes/UptimeRobot/UptimeRobot.node.ts",
+    "version_info": {
+      "version": 1.0,
+      "is_multi_version": false,
+      "last_updated": "2024-11-13T10:37:01.297665"
+    }
+  },
+  "UrlScanIo": {
+    "path": "packages/nodes-base/nodes/UrlScanIo/UrlScanIo.node.ts",
+    "version_info": {
+      "version": 1.0,
+      "is_multi_version": false,
+      "last_updated": "2024-11-13T10:37:01.953017"
+    }
+  },
+  "VenafiTlsProtectDatacenter": {
+    "path": "packages/nodes-base/nodes/Venafi/Datacenter/VenafiTlsProtectDatacenter.node.ts",
+    "version_info": {
+      "version": 1.0,
+      "is_multi_version": false,
+      "last_updated": "2024-11-13T10:37:02.392087"
+    }
+  },
+  "VenafiTlsProtectDatacenterTrigger": {
+    "path": "packages/nodes-base/nodes/Venafi/Datacenter/VenafiTlsProtectDatacenterTrigger.node.ts",
+    "version_info": {
+      "version": 1.0,
+      "is_multi_version": false,
+      "last_updated": "2024-11-13T10:37:02.790684"
+    }
+  },
+  "VenafiTlsProtectCloud": {
+    "path": "packages/nodes-base/nodes/Venafi/ProtectCloud/VenafiTlsProtectCloud.node.ts",
+    "version_info": {
+      "version": 1.0,
+      "is_multi_version": false,
+      "last_updated": "2024-11-13T10:37:03.242711"
+    }
+  },
+  "VenafiTlsProtectCloudTrigger": {
+    "path": "packages/nodes-base/nodes/Venafi/ProtectCloud/VenafiTlsProtectCloudTrigger.node.ts",
+    "version_info": {
+      "version": 1.0,
+      "is_multi_version": false,
+      "last_updated": "2024-11-13T10:37:03.677982"
+    }
+  },
+  "Vero": {
+    "path": "packages/nodes-base/nodes/Vero/Vero.node.ts",
+    "version_info": {
+      "version": 1.0,
+      "is_multi_version": false,
+      "last_updated": "2024-11-13T10:37:04.086472"
+    }
+  },
+  "Vonage": {
+    "path": "packages/nodes-base/nodes/Vonage/Vonage.node.ts",
+    "version_info": {
+      "version": 1.0,
+      "is_multi_version": false,
+      "last_updated": "2024-11-13T10:37:04.522881"
+    }
+  },
+  "Wait": {
+    "path": "packages/nodes-base/nodes/Wait/Wait.node.ts",
+    "version_info": {
+      "latest_version": 1.1,
+      "all_versions": [
+        1.0,
+        1.1
+      ],
+      "is_multi_version": true,
+      "last_updated": "2024-11-13T10:37:04.959898"
+    }
+  },
+  "WebflowTriggerV1": {
+    "path": "packages/nodes-base/nodes/Webflow/V1/WebflowTriggerV1.node.ts",
+    "version_info": {
+      "version": 1.0,
+      "is_multi_version": false,
+      "last_updated": "2024-11-13T10:37:05.403415"
+    }
+  },
+  "WebflowV1": {
+    "path": "packages/nodes-base/nodes/Webflow/V1/WebflowV1.node.ts",
+    "version_info": {
+      "version": 1.0,
+      "is_multi_version": false,
+      "last_updated": "2024-11-13T10:37:05.800122"
+    }
+  },
+  "WebflowTriggerV2": {
+    "path": "packages/nodes-base/nodes/Webflow/V2/WebflowTriggerV2.node.ts",
+    "version_info": {
+      "version": 2.0,
+      "is_multi_version": false,
+      "last_updated": "2024-11-13T10:37:06.260978"
+    }
+  },
+  "Webflow": {
+    "path": "packages/nodes-base/nodes/Webflow/Webflow.node.ts",
+    "version_info": {
+      "version": 2.0,
+      "is_multi_version": false,
+      "last_updated": "2024-11-13T10:37:07.154039"
+    }
+  },
+  "WebflowTrigger": {
+    "path": "packages/nodes-base/nodes/Webflow/WebflowTrigger.node.ts",
+    "version_info": {
+      "version": 2.0,
+      "is_multi_version": false,
+      "last_updated": "2024-11-13T10:37:07.575781"
+    }
+  },
+  "Webhook": {
+    "path": "packages/nodes-base/nodes/Webhook/Webhook.node.ts",
+    "version_info": {
+      "latest_version": 2.0,
+      "all_versions": [
+        1.0,
+        1.1,
+        2.0
+      ],
+      "is_multi_version": true,
+      "last_updated": "2024-11-13T10:37:07.988732"
+    }
+  },
+  "Wekan": {
+    "path": "packages/nodes-base/nodes/Wekan/Wekan.node.ts",
+    "version_info": {
+      "version": 1.0,
+      "is_multi_version": false,
+      "last_updated": "2024-11-13T10:37:08.400515"
+    }
+  },
+  "WhatsApp": {
+    "path": "packages/nodes-base/nodes/WhatsApp/WhatsApp.node.ts",
+    "version_info": {
+      "version": 1.0,
+      "is_multi_version": false,
+      "last_updated": "2024-11-13T10:37:08.817249"
+    }
+  },
+  "WhatsAppTrigger": {
+    "path": "packages/nodes-base/nodes/WhatsApp/WhatsAppTrigger.node.ts",
+    "version_info": {
+      "version": 1.0,
+      "is_multi_version": false,
+      "last_updated": "2024-11-13T10:37:09.408143"
+    }
+  },
+  "Wise": {
+    "path": "packages/nodes-base/nodes/Wise/Wise.node.ts",
+    "version_info": {
+      "version": 1.0,
+      "is_multi_version": false,
+      "last_updated": "2024-11-13T10:37:09.874385"
+    }
+  },
+  "WiseTrigger": {
+    "path": "packages/nodes-base/nodes/Wise/WiseTrigger.node.ts",
+    "version_info": {
+      "version": 1.0,
+      "is_multi_version": false,
+      "last_updated": "2024-11-13T10:37:10.390155"
+    }
+  },
+  "WooCommerce": {
+    "path": "packages/nodes-base/nodes/WooCommerce/WooCommerce.node.ts",
+    "version_info": {
+      "version": 1.0,
+      "is_multi_version": false,
+      "last_updated": "2024-11-13T10:37:10.839137"
+    }
+  },
+  "WooCommerceTrigger": {
+    "path": "packages/nodes-base/nodes/WooCommerce/WooCommerceTrigger.node.ts",
+    "version_info": {
+      "version": 1.0,
+      "is_multi_version": false,
+      "last_updated": "2024-11-13T10:37:11.240632"
+    }
+  },
+  "Wordpress": {
+    "path": "packages/nodes-base/nodes/Wordpress/Wordpress.node.ts",
+    "version_info": {
+      "version": 1.0,
+      "is_multi_version": false,
+      "last_updated": "2024-11-13T10:37:11.688226"
+    }
+  },
+  "WorkableTrigger": {
+    "path": "packages/nodes-base/nodes/Workable/WorkableTrigger.node.ts",
+    "version_info": {
+      "version": 1.0,
+      "is_multi_version": false,
+      "last_updated": "2024-11-13T10:37:12.150069"
+    }
+  },
+  "WorkflowTrigger": {
+    "path": "packages/nodes-base/nodes/WorkflowTrigger/WorkflowTrigger.node.ts",
+    "version_info": {
+      "version": 1.0,
+      "is_multi_version": false,
+      "last_updated": "2024-11-13T10:37:12.560935"
+    }
+  },
+  "WriteBinaryFile": {
+    "path": "packages/nodes-base/nodes/WriteBinaryFile/WriteBinaryFile.node.ts",
+    "version_info": {
+      "version": 1.0,
+      "is_multi_version": false,
+      "last_updated": "2024-11-13T10:37:12.979789"
+    }
+  },
+  "WufooTrigger": {
+    "path": "packages/nodes-base/nodes/Wufoo/WufooTrigger.node.ts",
+    "version_info": {
+      "version": 1.0,
+      "is_multi_version": false,
+      "last_updated": "2024-11-13T10:37:13.562332"
+    }
+  },
+  "Xero": {
+    "path": "packages/nodes-base/nodes/Xero/Xero.node.ts",
+    "version_info": {
+      "version": 1.0,
+      "is_multi_version": false,
+      "last_updated": "2024-11-13T10:37:14.064754"
+    }
+  },
+  "Xml": {
+    "path": "packages/nodes-base/nodes/Xml/Xml.node.ts",
+    "version_info": {
+      "version": 1.0,
+      "is_multi_version": false,
+      "last_updated": "2024-11-13T10:37:14.522764"
+    }
+  },
+  "Yourls": {
+    "path": "packages/nodes-base/nodes/Yourls/Yourls.node.ts",
+    "version_info": {
+      "version": 1.0,
+      "is_multi_version": false,
+      "last_updated": "2024-11-13T10:37:14.927725"
+    }
+  },
+  "Zammad": {
+    "path": "packages/nodes-base/nodes/Zammad/Zammad.node.ts",
+    "version_info": {
+      "version": 1.0,
+      "is_multi_version": false,
+      "last_updated": "2024-11-13T10:37:15.371923"
+    }
+  },
+  "Zendesk": {
+    "path": "packages/nodes-base/nodes/Zendesk/Zendesk.node.ts",
+    "version_info": {
+      "version": 1.0,
+      "is_multi_version": false,
+      "last_updated": "2024-11-13T10:37:15.815641"
+    }
+  },
+  "ZendeskTrigger": {
+    "path": "packages/nodes-base/nodes/Zendesk/ZendeskTrigger.node.ts",
+    "version_info": {
+      "version": 1.0,
+      "is_multi_version": false,
+      "last_updated": "2024-11-13T10:37:16.246528"
+    }
+  },
+  "ZohoCrm": {
+    "path": "packages/nodes-base/nodes/Zoho/ZohoCrm.node.ts",
+    "version_info": {
+      "version": 1.0,
+      "is_multi_version": false,
+      "last_updated": "2024-11-13T10:37:16.713411"
+    }
+  },
+  "Zoom": {
+    "path": "packages/nodes-base/nodes/Zoom/Zoom.node.ts",
+    "version_info": {
+      "version": 1.0,
+      "is_multi_version": false,
+      "last_updated": "2024-11-13T10:37:17.119483"
+    }
+  },
+  "Zulip": {
+    "path": "packages/nodes-base/nodes/Zulip/Zulip.node.ts",
+    "version_info": {
+      "version": 1.0,
+      "is_multi_version": false,
+      "last_updated": "2024-11-13T10:37:17.582699"
+    }
+  },
+  "Agent": {
+    "path": "packages/@n8n/nodes-langchain/nodes/agents/Agent/Agent.node.ts",
+    "version_info": {
+      "latest_version": 1.7,
+      "all_versions": [
+        1.0,
+        1.1,
+        1.2,
+        1.3,
+        1.4,
+        1.5,
+        1.6,
+        1.7
+      ],
+      "is_multi_version": true,
+      "last_updated": "2024-11-13T10:37:17.988523"
+    }
+  },
+  "OpenAiAssistant": {
+    "path": "packages/@n8n/nodes-langchain/nodes/agents/OpenAiAssistant/OpenAiAssistant.node.ts",
+    "version_info": {
+      "latest_version": 1.1,
+      "all_versions": [
+        1.0,
+        1.1
+      ],
+      "is_multi_version": true,
+      "last_updated": "2024-11-13T10:37:18.416280"
+    }
+  },
+  "ChainLlm": {
+    "path": "packages/@n8n/nodes-langchain/nodes/chains/ChainLLM/ChainLlm.node.ts",
+    "version_info": {
+      "latest_version": 1.5,
+      "all_versions": [
+        1.0,
+        1.1,
+        1.2,
+        1.3,
+        1.4,
+        1.5
+      ],
+      "is_multi_version": true,
+      "last_updated": "2024-11-13T10:37:18.842742"
+    }
+  },
+  "ChainRetrievalQa": {
+    "path": "packages/@n8n/nodes-langchain/nodes/chains/ChainRetrievalQA/ChainRetrievalQa.node.ts",
+    "version_info": {
+      "latest_version": 1.4,
+      "all_versions": [
+        1.0,
+        1.1,
+        1.2,
+        1.3,
+        1.4
+      ],
+      "is_multi_version": true,
+      "last_updated": "2024-11-13T10:37:19.274395"
+    }
+  },
+  "ChainSummarization": {
+    "path": "packages/@n8n/nodes-langchain/nodes/chains/ChainSummarization/ChainSummarization.node.ts",
+    "version_info": {
+      "version": 2.0,
+      "is_multi_version": false,
+      "last_updated": "2024-11-13T10:37:19.722797"
+    }
+  },
+  "ChainSummarizationV1": {
+    "path": "packages/@n8n/nodes-langchain/nodes/chains/ChainSummarization/V1/ChainSummarizationV1.node.ts",
+    "version_info": {
+      "version": 1.0,
+      "is_multi_version": false,
+      "last_updated": "2024-11-13T10:37:20.157156"
+    }
+  },
+  "ChainSummarizationV2": {
+    "path": "packages/@n8n/nodes-langchain/nodes/chains/ChainSummarization/V2/ChainSummarizationV2.node.ts",
+    "version_info": {
+      "latest_version": 2.0,
+      "all_versions": [
+        2.0
+      ],
+      "is_multi_version": true,
+      "last_updated": "2024-11-13T10:37:20.576977"
+    }
+  },
+  "InformationExtractor": {
+    "path": "packages/@n8n/nodes-langchain/nodes/chains/InformationExtractor/InformationExtractor.node.ts",
+    "version_info": {
+      "version": 1.0,
+      "is_multi_version": false,
+      "last_updated": "2024-11-13T10:37:21.009421"
+    }
+  },
+  "SentimentAnalysis": {
+    "path": "packages/@n8n/nodes-langchain/nodes/chains/SentimentAnalysis/SentimentAnalysis.node.ts",
+    "version_info": {
+      "version": 1.0,
+      "is_multi_version": false,
+      "last_updated": "2024-11-13T10:37:21.444682"
+    }
+  },
+  "TextClassifier": {
+    "path": "packages/@n8n/nodes-langchain/nodes/chains/TextClassifier/TextClassifier.node.ts",
+    "version_info": {
+      "version": 1.0,
+      "is_multi_version": false,
+      "last_updated": "2024-11-13T10:37:21.903425"
+    }
+  },
+  "DocumentBinaryInputLoader": {
+    "path": "packages/@n8n/nodes-langchain/nodes/document_loaders/DocumentBinaryInputLoader/DocumentBinaryInputLoader.node.ts",
+    "version_info": {
+      "version": 1.0,
+      "is_multi_version": false,
+      "last_updated": "2024-11-13T10:37:22.843849"
+    }
+  },
+  "DocumentDefaultDataLoader": {
+    "path": "packages/@n8n/nodes-langchain/nodes/document_loaders/DocumentDefaultDataLoader/DocumentDefaultDataLoader.node.ts",
+    "version_info": {
+      "version": 1.0,
+      "is_multi_version": false,
+      "last_updated": "2024-11-13T10:37:23.260774"
+    }
+  },
+  "DocumentGithubLoader": {
+    "path": "packages/@n8n/nodes-langchain/nodes/document_loaders/DocumentGithubLoader/DocumentGithubLoader.node.ts",
+    "version_info": {
+      "version": 1.0,
+      "is_multi_version": false,
+      "last_updated": "2024-11-13T10:37:23.684926"
+    }
+  },
+  "DocumentJsonInputLoader": {
+    "path": "packages/@n8n/nodes-langchain/nodes/document_loaders/DocumentJSONInputLoader/DocumentJsonInputLoader.node.ts",
+    "version_info": {
+      "version": 1.0,
+      "is_multi_version": false,
+      "last_updated": "2024-11-13T10:37:24.099967"
+    }
+  },
+  "EmbeddingsAwsBedrock": {
+    "path": "packages/@n8n/nodes-langchain/nodes/embeddings/EmbeddingsAwsBedrock/EmbeddingsAwsBedrock.node.ts",
+    "version_info": {
+      "version": 1.0,
+      "is_multi_version": false,
+      "last_updated": "2024-11-13T10:37:24.510149"
+    }
+  },
+  "EmbeddingsAzureOpenAi": {
+    "path": "packages/@n8n/nodes-langchain/nodes/embeddings/EmbeddingsAzureOpenAi/EmbeddingsAzureOpenAi.node.ts",
+    "version_info": {
+      "version": 1.0,
+      "is_multi_version": false,
+      "last_updated": "2024-11-13T10:37:25.181377"
+    }
+  },
+  "EmbeddingsCohere": {
+    "path": "packages/@n8n/nodes-langchain/nodes/embeddings/EmbeddingsCohere/EmbeddingsCohere.node.ts",
+    "version_info": {
+      "version": 1.0,
+      "is_multi_version": false,
+      "last_updated": "2024-11-13T10:37:25.609307"
+    }
+  },
+  "EmbeddingsGoogleGemini": {
+    "path": "packages/@n8n/nodes-langchain/nodes/embeddings/EmbeddingsGoogleGemini/EmbeddingsGoogleGemini.node.ts",
+    "version_info": {
+      "version": 1.0,
+      "is_multi_version": false,
+      "last_updated": "2024-11-13T10:37:26.053602"
+    }
+  },
+  "EmbeddingsHuggingFaceInference": {
+    "path": "packages/@n8n/nodes-langchain/nodes/embeddings/EmbeddingsHuggingFaceInference/EmbeddingsHuggingFaceInference.node.ts",
+    "version_info": {
+      "version": 1.0,
+      "is_multi_version": false,
+      "last_updated": "2024-11-13T10:37:26.483121"
+    }
+  },
+  "EmbeddingsMistralCloud": {
+    "path": "packages/@n8n/nodes-langchain/nodes/embeddings/EmbeddingsMistralCloud/EmbeddingsMistralCloud.node.ts",
+    "version_info": {
+      "version": 1.0,
+      "is_multi_version": false,
+      "last_updated": "2024-11-13T10:37:26.980288"
+    }
+  },
+  "EmbeddingsOllama": {
+    "path": "packages/@n8n/nodes-langchain/nodes/embeddings/EmbeddingsOllama/EmbeddingsOllama.node.ts",
+    "version_info": {
+      "version": 1.0,
+      "is_multi_version": false,
+      "last_updated": "2024-11-13T10:37:27.400177"
+    }
+  },
+  "EmbeddingsOpenAi": {
+    "path": "packages/@n8n/nodes-langchain/nodes/embeddings/EmbeddingsOpenAI/EmbeddingsOpenAi.node.ts",
+    "version_info": {
+      "latest_version": 1.1,
+      "all_versions": [
+        1.0,
+        1.1
+      ],
+      "is_multi_version": true,
+      "last_updated": "2024-11-13T10:37:27.806539"
+    }
+  },
+  "LmChatAnthropic": {
+    "path": "packages/@n8n/nodes-langchain/nodes/llms/LMChatAnthropic/LmChatAnthropic.node.ts",
+    "version_info": {
+      "version": 1.2,
+      "is_multi_version": false,
+      "last_updated": "2024-11-13T10:37:28.246635"
+    }
+  },
+  "LmChatOllama": {
+    "path": "packages/@n8n/nodes-langchain/nodes/llms/LMChatOllama/LmChatOllama.node.ts",
+    "version_info": {
+      "version": 1.0,
+      "is_multi_version": false,
+      "last_updated": "2024-11-13T10:37:28.648349"
+    }
+  },
+  "LmChatOpenAi": {
+    "path": "packages/@n8n/nodes-langchain/nodes/llms/LMChatOpenAi/LmChatOpenAi.node.ts",
+    "version_info": {
+      "version": 1.0,
+      "is_multi_version": false,
+      "last_updated": "2024-11-13T10:37:29.085739"
+    }
+  },
+  "LmCohere": {
+    "path": "packages/@n8n/nodes-langchain/nodes/llms/LMCohere/LmCohere.node.ts",
+    "version_info": {
+      "version": 1.0,
+      "is_multi_version": false,
+      "last_updated": "2024-11-13T10:37:29.509438"
+    }
+  },
+  "LmOllama": {
+    "path": "packages/@n8n/nodes-langchain/nodes/llms/LMOllama/LmOllama.node.ts",
+    "version_info": {
+      "version": 1.0,
+      "is_multi_version": false,
+      "last_updated": "2024-11-13T10:37:29.937453"
+    }
+  },
+  "LmOpenAi": {
+    "path": "packages/@n8n/nodes-langchain/nodes/llms/LMOpenAi/LmOpenAi.node.ts",
+    "version_info": {
+      "version": 1.0,
+      "is_multi_version": false,
+      "last_updated": "2024-11-13T10:37:30.347647"
+    }
+  },
+  "LmOpenHuggingFaceInference": {
+    "path": "packages/@n8n/nodes-langchain/nodes/llms/LMOpenHuggingFaceInference/LmOpenHuggingFaceInference.node.ts",
+    "version_info": {
+      "version": 1.0,
+      "is_multi_version": false,
+      "last_updated": "2024-11-13T10:37:30.775387"
+    }
+  },
+  "LmChatAwsBedrock": {
+    "path": "packages/@n8n/nodes-langchain/nodes/llms/LmChatAwsBedrock/LmChatAwsBedrock.node.ts",
+    "version_info": {
+      "version": 1.0,
+      "is_multi_version": false,
+      "last_updated": "2024-11-13T10:37:31.324935"
+    }
+  },
+  "LmChatAzureOpenAi": {
+    "path": "packages/@n8n/nodes-langchain/nodes/llms/LmChatAzureOpenAi/LmChatAzureOpenAi.node.ts",
+    "version_info": {
+      "version": 1.0,
+      "is_multi_version": false,
+      "last_updated": "2024-11-13T10:37:31.737638"
+    }
+  },
+  "LmChatGoogleGemini": {
+    "path": "packages/@n8n/nodes-langchain/nodes/llms/LmChatGoogleGemini/LmChatGoogleGemini.node.ts",
+    "version_info": {
+      "version": 1.0,
+      "is_multi_version": false,
+      "last_updated": "2024-11-13T10:37:32.177494"
+    }
+  },
+  "LmChatGoogleVertex": {
+    "path": "packages/@n8n/nodes-langchain/nodes/llms/LmChatGoogleVertex/LmChatGoogleVertex.node.ts",
+    "version_info": {
+      "version": 1.0,
+      "is_multi_version": false,
+      "last_updated": "2024-11-13T10:37:32.581008"
+    }
+  },
+  "LmChatGroq": {
+    "path": "packages/@n8n/nodes-langchain/nodes/llms/LmChatGroq/LmChatGroq.node.ts",
+    "version_info": {
+      "version": 1.0,
+      "is_multi_version": false,
+      "last_updated": "2024-11-13T10:37:33.045750"
+    }
+  },
+  "LmChatMistralCloud": {
+    "path": "packages/@n8n/nodes-langchain/nodes/llms/LmChatMistralCloud/LmChatMistralCloud.node.ts",
+    "version_info": {
+      "version": 1.0,
+      "is_multi_version": false,
+      "last_updated": "2024-11-13T10:37:33.475168"
+    }
+  },
+  "MemoryBufferWindow": {
+    "path": "packages/@n8n/nodes-langchain/nodes/memory/MemoryBufferWindow/MemoryBufferWindow.node.ts",
+    "version_info": {
+      "latest_version": 1.3,
+      "all_versions": [
+        1.0,
+        1.1,
+        1.2,
+        1.3
+      ],
+      "is_multi_version": true,
+      "last_updated": "2024-11-13T10:37:33.873383"
+    }
+  },
+  "MemoryChatRetriever": {
+    "path": "packages/@n8n/nodes-langchain/nodes/memory/MemoryChatRetriever/MemoryChatRetriever.node.ts",
+    "version_info": {
+      "version": 1.0,
+      "is_multi_version": false,
+      "last_updated": "2024-11-13T10:37:34.315836"
+    }
+  },
+  "MemoryManager": {
+    "path": "packages/@n8n/nodes-langchain/nodes/memory/MemoryManager/MemoryManager.node.ts",
+    "version_info": {
+      "latest_version": 1.1,
+      "all_versions": [
+        1.0,
+        1.1
+      ],
+      "is_multi_version": true,
+      "last_updated": "2024-11-13T10:37:34.748639"
+    }
+  },
+  "MemoryMotorhead": {
+    "path": "packages/@n8n/nodes-langchain/nodes/memory/MemoryMotorhead/MemoryMotorhead.node.ts",
+    "version_info": {
+      "latest_version": 1.3,
+      "all_versions": [
+        1.0,
+        1.1,
+        1.2,
+        1.3
+      ],
+      "is_multi_version": true,
+      "last_updated": "2024-11-13T10:37:35.182713"
+    }
+  },
+  "MemoryPostgresChat": {
+    "path": "packages/@n8n/nodes-langchain/nodes/memory/MemoryPostgresChat/MemoryPostgresChat.node.ts",
+    "version_info": {
+      "latest_version": 1.3,
+      "all_versions": [
+        1.0,
+        1.1,
+        1.2,
+        1.3
+      ],
+      "is_multi_version": true,
+      "last_updated": "2024-11-13T10:37:35.641378"
+    }
+  },
+  "MemoryRedisChat": {
+    "path": "packages/@n8n/nodes-langchain/nodes/memory/MemoryRedisChat/MemoryRedisChat.node.ts",
+    "version_info": {
+      "latest_version": 1.4,
+      "all_versions": [
+        1.0,
+        1.1,
+        1.2,
+        1.3,
+        1.4
+      ],
+      "is_multi_version": true,
+      "last_updated": "2024-11-13T10:37:36.130785"
+    }
+  },
+  "MemoryXata": {
+    "path": "packages/@n8n/nodes-langchain/nodes/memory/MemoryXata/MemoryXata.node.ts",
+    "version_info": {
+      "latest_version": 1.4,
+      "all_versions": [
+        1.0,
+        1.1,
+        1.2,
+        1.3,
+        1.4
+      ],
+      "is_multi_version": true,
+      "last_updated": "2024-11-13T10:37:36.695898"
+    }
+  },
+  "MemoryZep": {
+    "path": "packages/@n8n/nodes-langchain/nodes/memory/MemoryZep/MemoryZep.node.ts",
+    "version_info": {
+      "latest_version": 1.3,
+      "all_versions": [
+        1.0,
+        1.1,
+        1.2,
+        1.3
+      ],
+      "is_multi_version": true,
+      "last_updated": "2024-11-13T10:37:37.181756"
+    }
+  },
+  "OutputParserAutofixing": {
+    "path": "packages/@n8n/nodes-langchain/nodes/output_parser/OutputParserAutofixing/OutputParserAutofixing.node.ts",
+    "version_info": {
+      "version": 1.0,
+      "is_multi_version": false,
+      "last_updated": "2024-11-13T10:37:37.692805"
+    }
+  },
+  "OutputParserItemList": {
+    "path": "packages/@n8n/nodes-langchain/nodes/output_parser/OutputParserItemList/OutputParserItemList.node.ts",
+    "version_info": {
+      "version": 1.0,
+      "is_multi_version": false,
+      "last_updated": "2024-11-13T10:37:38.100573"
+    }
+  },
+  "OutputParserStructured": {
+    "path": "packages/@n8n/nodes-langchain/nodes/output_parser/OutputParserStructured/OutputParserStructured.node.ts",
+    "version_info": {
+      "version": 1.2,
+      "is_multi_version": false,
+      "last_updated": "2024-11-13T10:37:38.601071"
+    }
+  },
+  "RetrieverContextualCompression": {
+    "path": "packages/@n8n/nodes-langchain/nodes/retrievers/RetrieverContextualCompression/RetrieverContextualCompression.node.ts",
+    "version_info": {
+      "version": 1.0,
+      "is_multi_version": false,
+      "last_updated": "2024-11-13T10:37:39.031956"
+    }
+  },
+  "RetrieverMultiQuery": {
+    "path": "packages/@n8n/nodes-langchain/nodes/retrievers/RetrieverMultiQuery/RetrieverMultiQuery.node.ts",
+    "version_info": {
+      "version": 1.0,
+      "is_multi_version": false,
+      "last_updated": "2024-11-13T10:37:39.486701"
+    }
+  },
+  "RetrieverVectorStore": {
+    "path": "packages/@n8n/nodes-langchain/nodes/retrievers/RetrieverVectorStore/RetrieverVectorStore.node.ts",
+    "version_info": {
+      "version": 1.0,
+      "is_multi_version": false,
+      "last_updated": "2024-11-13T10:37:39.968617"
+    }
+  },
+  "RetrieverWorkflow": {
+    "path": "packages/@n8n/nodes-langchain/nodes/retrievers/RetrieverWorkflow/RetrieverWorkflow.node.ts",
+    "version_info": {
+      "latest_version": 1.1,
+      "all_versions": [
+        1.0,
+        1.1
+      ],
+      "is_multi_version": true,
+      "last_updated": "2024-11-13T10:37:40.382531"
+    }
+  },
+  "TextSplitterCharacterTextSplitter": {
+    "path": "packages/@n8n/nodes-langchain/nodes/text_splitters/TextSplitterCharacterTextSplitter/TextSplitterCharacterTextSplitter.node.ts",
+    "version_info": {
+      "version": 1.0,
+      "is_multi_version": false,
+      "last_updated": "2024-11-13T10:37:40.784468"
+    }
+  },
+  "TextSplitterRecursiveCharacterTextSplitter": {
+    "path": "packages/@n8n/nodes-langchain/nodes/text_splitters/TextSplitterRecursiveCharacterTextSplitter/TextSplitterRecursiveCharacterTextSplitter.node.ts",
+    "version_info": {
+      "version": 1.0,
+      "is_multi_version": false,
+      "last_updated": "2024-11-13T10:37:41.204182"
+    }
+  },
+  "TextSplitterTokenSplitter": {
+    "path": "packages/@n8n/nodes-langchain/nodes/text_splitters/TextSplitterTokenSplitter/TextSplitterTokenSplitter.node.ts",
+    "version_info": {
+      "version": 1.0,
+      "is_multi_version": false,
+      "last_updated": "2024-11-13T10:37:41.637939"
+    }
+  },
+  "ToolCalculator": {
+    "path": "packages/@n8n/nodes-langchain/nodes/tools/ToolCalculator/ToolCalculator.node.ts",
+    "version_info": {
+      "version": 1.0,
+      "is_multi_version": false,
+      "last_updated": "2024-11-13T10:37:42.092051"
+    }
+  },
+  "ToolCode": {
+    "path": "packages/@n8n/nodes-langchain/nodes/tools/ToolCode/ToolCode.node.ts",
+    "version_info": {
+      "latest_version": 1.1,
+      "all_versions": [
+        1.0,
+        1.1
+      ],
+      "is_multi_version": true,
+      "last_updated": "2024-11-13T10:37:42.514059"
+    }
+  },
+  "ToolHttpRequest": {
+    "path": "packages/@n8n/nodes-langchain/nodes/tools/ToolHttpRequest/ToolHttpRequest.node.ts",
+    "version_info": {
+      "latest_version": 1.1,
+      "all_versions": [
+        1.0,
+        1.1
+      ],
+      "is_multi_version": true,
+      "last_updated": "2024-11-13T10:37:42.927679"
+    }
+  },
+  "ToolSerpApi": {
+    "path": "packages/@n8n/nodes-langchain/nodes/tools/ToolSerpApi/ToolSerpApi.node.ts",
+    "version_info": {
+      "version": 1.0,
+      "is_multi_version": false,
+      "last_updated": "2024-11-13T10:37:43.391159"
+    }
+  },
+  "ToolVectorStore": {
+    "path": "packages/@n8n/nodes-langchain/nodes/tools/ToolVectorStore/ToolVectorStore.node.ts",
+    "version_info": {
+      "latest_version": 1.0,
+      "all_versions": [
+        1.0
+      ],
+      "is_multi_version": true,
+      "last_updated": "2024-11-13T10:37:43.813974"
+    }
+  },
+  "ToolWikipedia": {
+    "path": "packages/@n8n/nodes-langchain/nodes/tools/ToolWikipedia/ToolWikipedia.node.ts",
+    "version_info": {
+      "version": 1.0,
+      "is_multi_version": false,
+      "last_updated": "2024-11-13T10:37:44.231459"
+    }
+  },
+  "ToolWolframAlpha": {
+    "path": "packages/@n8n/nodes-langchain/nodes/tools/ToolWolframAlpha/ToolWolframAlpha.node.ts",
+    "version_info": {
+      "version": 1.0,
+      "is_multi_version": false,
+      "last_updated": "2024-11-13T10:37:44.678139"
+    }
+  },
+  "ToolWorkflow": {
+    "path": "packages/@n8n/nodes-langchain/nodes/tools/ToolWorkflow/ToolWorkflow.node.ts",
+    "version_info": {
+      "latest_version": 1.2,
+      "all_versions": [
+        1.0,
+        1.1,
+        1.2
+      ],
+      "is_multi_version": true,
+      "last_updated": "2024-11-13T10:37:45.066510"
+    }
+  },
+  "ChatTrigger": {
+    "path": "packages/@n8n/nodes-langchain/nodes/trigger/ChatTrigger/ChatTrigger.node.ts",
+    "version_info": {
+      "latest_version": 1.1,
+      "all_versions": [
+        1.0,
+        1.1
+      ],
+      "is_multi_version": true,
+      "last_updated": "2024-11-13T10:37:45.490252"
+    }
+  },
+  "ManualChatTrigger": {
+    "path": "packages/@n8n/nodes-langchain/nodes/trigger/ManualChatTrigger/ManualChatTrigger.node.ts",
+    "version_info": {
+      "latest_version": 1.1,
+      "all_versions": [
+        1.0,
+        1.1
+      ],
+      "is_multi_version": true,
+      "last_updated": "2024-11-13T10:37:45.947480"
+    }
+  },
+  "VectorStoreInMemoryInsert": {
+    "path": "packages/@n8n/nodes-langchain/nodes/vector_store/VectorStoreInMemoryInsert/VectorStoreInMemoryInsert.node.ts",
+    "version_info": {
+      "version": 1.0,
+      "is_multi_version": false,
+      "last_updated": "2024-11-13T10:37:46.781317"
+    }
+  },
+  "VectorStoreInMemoryLoad": {
+    "path": "packages/@n8n/nodes-langchain/nodes/vector_store/VectorStoreInMemoryLoad/VectorStoreInMemoryLoad.node.ts",
+    "version_info": {
+      "version": 1.0,
+      "is_multi_version": false,
+      "last_updated": "2024-11-13T10:37:47.187913"
+    }
+  },
+  "VectorStorePineconeInsert": {
+    "path": "packages/@n8n/nodes-langchain/nodes/vector_store/VectorStorePineconeInsert/VectorStorePineconeInsert.node.ts",
+    "version_info": {
+      "version": 1.0,
+      "is_multi_version": false,
+      "last_updated": "2024-11-13T10:37:48.582706"
+    }
+  },
+  "VectorStorePineconeLoad": {
+    "path": "packages/@n8n/nodes-langchain/nodes/vector_store/VectorStorePineconeLoad/VectorStorePineconeLoad.node.ts",
+    "version_info": {
+      "version": 1.0,
+      "is_multi_version": false,
+      "last_updated": "2024-11-13T10:37:49.006676"
+    }
+  },
+  "VectorStoreSupabaseInsert": {
+    "path": "packages/@n8n/nodes-langchain/nodes/vector_store/VectorStoreSupabaseInsert/VectorStoreSupabaseInsert.node.ts",
+    "version_info": {
+      "version": 1.0,
+      "is_multi_version": false,
+      "last_updated": "2024-11-13T10:37:50.355184"
+    }
+  },
+  "VectorStoreSupabaseLoad": {
+    "path": "packages/@n8n/nodes-langchain/nodes/vector_store/VectorStoreSupabaseLoad/VectorStoreSupabaseLoad.node.ts",
+    "version_info": {
+      "version": 1.0,
+      "is_multi_version": false,
+      "last_updated": "2024-11-13T10:37:50.776452"
+    }
+  },
+  "VectorStoreZepInsert": {
+    "path": "packages/@n8n/nodes-langchain/nodes/vector_store/VectorStoreZepInsert/VectorStoreZepInsert.node.ts",
+    "version_info": {
+      "version": 1.0,
+      "is_multi_version": false,
+      "last_updated": "2024-11-13T10:37:51.720211"
+    }
+  },
+  "VectorStoreZepLoad": {
+    "path": "packages/@n8n/nodes-langchain/nodes/vector_store/VectorStoreZepLoad/VectorStoreZepLoad.node.ts",
+    "version_info": {
+      "version": 1.0,
+      "is_multi_version": false,
+      "last_updated": "2024-11-13T10:37:52.217077"
+    }
+  }
+}
