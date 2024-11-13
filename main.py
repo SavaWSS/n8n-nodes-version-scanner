@@ -23,14 +23,6 @@ class Config:
     def github_token(self) -> str:
         return self.config.get('github_token')
 
-    @property
-    def repo_owner(self) -> str:
-        return self.config.get('repo_owner')
-
-    @property
-    def repo_name(self) -> str:
-        return self.config.get('repo_name')
-
 class N8nNodeScanner:
     N8N_REPO_OWNER = "n8n-io"
     N8N_REPO_NAME = "n8n"
@@ -204,14 +196,10 @@ def main():
     # Configuration
     config = Config()
     GITHUB_TOKEN = config.github_token
-    REPO_OWNER = config.repo_owner
-    REPO_NAME = config.repo_name
 
     # Initialisation et exécution
     scanner = N8nNodeScanner(
-        github_token=GITHUB_TOKEN,
-        repo_owner=REPO_OWNER,
-        repo_name=REPO_NAME
+        github_token=GITHUB_TOKEN
     )
 
     # Premier scan
@@ -222,5 +210,4 @@ def main():
 
 # Exemple d'utilisation
 if __name__ == "__main__":
-    config = Config()
-    scanner = N8nNodeScanner(config)
+    main()
