@@ -139,19 +139,19 @@ class N8nNodeScanner:
             version = self.extract_version(content)
             name = self.extract_name(content)
 
-            if version is not None:
+            if name and version is not None:
                 # Extraire le nom du node du chemin
                 node_name = os.path.basename(file_path).replace('.node.ts', '')
 
-                results[node_name] = {
+                results[name] = {
                     'path': file_path,
-                    'name': name,
+                    'name': node_name,
                     'version_info': self.format_version_info(version)
                 }
 
-                print(f"Node traité: {node_name}")
+                print(f"Node traité: {name}")
                 print(f"  Chemin: {file_path}")
-                print(f"  Nom: {name}")
+                print(f"  Nom: {node_name}")
                 print(f"  Version: {version}")
                 print("---")
 
