@@ -122,7 +122,8 @@ class N8nNodeScanner:
             }
         else:
             return {
-                'version': version,
+                'latest_version': version,
+                'all_versions': [version],
                 'is_multi_version': False,
                 'last_updated': datetime.now().isoformat()
             }
