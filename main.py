@@ -1,7 +1,7 @@
 import requests
 import os
 import re
-import schedule
+# import schedule
 import time
 from datetime import datetime
 import json
@@ -17,7 +17,7 @@ class Config:
             with open(self.config_file, 'r') as f:
                 return json.load(f)
         except FileNotFoundError:
-            raise FileNotFoundError(f"Le fichier de configuration {self.config_file} n'existe pas")
+            raise FileNotFoundError(f"Файл конфигурации {self.config_file} не существует")
 
     @property
     def github_token(self) -> str:
@@ -29,10 +29,10 @@ class N8nNodeScanner:
 
     def __init__(self, github_token: str):
         """
-        Initialise le scanner de nodes pour le dépôt officiel n8n
+        Инициализирует сканер узлов для официального репозитория n8n
 
         Args:
-            github_token (str): Token d'authentification GitHub
+            github_token (str): Токен аутентификации GitHub
         """
         self.github_token = github_token
         self.headers = {'Authorization': f'token {github_token}'}
@@ -46,7 +46,7 @@ class N8nNodeScanner:
         ]
 
     def get_node_files(self, branch: str = 'master') -> List[dict]:
-        """Récupère tous les fichiers .node.ts du dépôt"""
+        """Получает все файлы .node.ts из репозитория"""
         files = []
 
         for scan_path in self.scan_paths:
@@ -66,15 +66,15 @@ class N8nNodeScanner:
 
     def extract_version(self, content: str) -> Union[float, List[float], None]:
         """
-        Extrait la version ou defaultVersion du fichier
-        Gère à la fois les versions uniques et les tableaux de versions
+        Извлекает version или defaultVersion из файла
+        Обрабатывает как уникальные версии, так и массивы версий
         """
-        # Recherche de defaultVersion
+        # Поиск defaultVersion
         default_version_match = re.search(r'defaultVersion:\s*([\d.]+)', content)
         if default_version_match:
             return float(default_version_match.group(1))
 
-        # Recherche de version au format tableau
+        # Поиск version в формате массива
         version_array_match = re.search(r'version:\s*\[([\d.,\s]+)\]', content)
         if version_array_match:
             versions_str = version_array_match.group(1)
@@ -84,7 +84,7 @@ class N8nNodeScanner:
             except ValueError:
                 pass
 
-        # Recherche de version simple
+        # Поиск простой version
         version_match = re.search(r'version:\s*([\d.]+)', content)
         if version_match:
             return float(version_match.group(1))
@@ -92,14 +92,14 @@ class N8nNodeScanner:
         return None
 
     def extract_name(self, content: str) -> str:
-        """Extrait le nom du node du contenu"""
+        """Извлекает имя узла из содержимого"""
         name_match = re.search(r'name:\s*[\'"](.+)[\'"]', content)
         if name_match:
             return name_match.group(1)
         return ''
 
     def get_file_content(self, file_path: str, branch: str = 'master') -> str:
-        """Récupère le contenu d'un fichier"""
+        """Получает содержимое файла"""
         url = f'{self.base_url}/contents/{file_path}?ref={branch}'
         response = requests.get(url, headers=self.headers)
 
@@ -111,7 +111,7 @@ class N8nNodeScanner:
         return ''
 
     def format_version_info(self, version: Union[float, List[float]]) -> Dict[str, Any]:
-        """Formate les informations de version pour la sauvegarde"""
+        """Форматирует информацию о версии для сохранения"""
         if isinstance(version, list):
             return {
                 'latest_version': max(version),
@@ -128,8 +128,8 @@ class N8nNodeScanner:
             }
 
     def scan_nodes(self, branch: str = 'master') -> Dict:
-        """Scanne tous les fichiers nodes et extrait leurs versions"""
-        print(f"Démarrage du scan à {datetime.now()} sur la branche {branch}")
+        """Сканирует все файлы узлов и извлекает их версии"""
+        print(f"Начало сканирования в {datetime.now()} на ветке {branch}")
         results = {}
         files = self.get_node_files(branch)
 
@@ -140,7 +140,7 @@ class N8nNodeScanner:
             name = self.extract_name(content)
 
             if name and version is not None:
-                # Extraire le nom du node du chemin
+                # Извлечение имени узла из пути
                 node_name = os.path.basename(file_path).replace('.node.ts', '')
 
                 results[name] = {
@@ -149,25 +149,25 @@ class N8nNodeScanner:
                     'version_info': self.format_version_info(version)
                 }
 
-                print(f"Node traité: {name}")
-                print(f"  Chemin: {file_path}")
-                print(f"  Nom: {node_name}")
-                print(f"  Version: {version}")
+                print(f"Обработанный узел: {name}")
+                print(f"  Путь: {file_path}")
+                print(f"  Имя: {node_name}")
+                print(f"  Версия: {version}")
                 print("---")
 
-        # Sauvegarde des résultats
+        # Сохранение результатов
         self.save_results(results)
         return results
 
     def save_results(self, results: Dict):
-        """Sauvegarde les résultats dans un fichier JSON"""
-        # Charger les résultats existants s'ils existent
+        """Сохраняет результаты в файл JSON"""
+        # Загружает существующие результаты, если они есть
         existing_results = {}
         if os.path.exists(self.results_file):
             with open(self.results_file, 'r') as f:
                 existing_results = json.load(f)
 
-        # Comparer et noter les changements
+        # Сравнивает и фиксирует изменения
         changes = []
         for node_name, new_info in results.items():
             if node_name in existing_results:
@@ -181,43 +181,43 @@ class N8nNodeScanner:
                         'timestamp': datetime.now().isoformat()
                     })
 
-        # Sauvegarder les nouveaux résultats
+        # Сохраняет новые результаты
         with open(self.results_file, 'w') as f:
             json.dump(results, f, indent=2)
 
-        # Sauvegarder l'historique des changements
+        # Сохраняет историю изменений
         if changes:
             with open('version_changes.json', 'a') as f:
                 for change in changes:
                     f.write(json.dumps(change) + '\n')
-                    print(f"Changement détecté pour {change['node']}")
+                    print(f"Обнаружено изменение для {change['node']}")
 
-        print(f"Résultats sauvegardés dans {self.results_file}")
+        print(f"Результаты сохранены в {self.results_file}")
 
     def schedule_weekly_scan(self):
-        """Programme un scan hebdomadaire"""
+        """Запланировать еженедельное сканирование"""
         schedule.every().monday.at("00:00").do(self.scan_nodes)
 
         while True:
             schedule.run_pending()
-            time.sleep(3600)  # Vérifie toutes les heures
+            time.sleep(3600)  # Проверяет каждый час
 
 def main():
-    # Configuration
+    # Конфигурация
     config = Config()
     GITHUB_TOKEN = config.github_token
 
-    # Initialisation et exécution
+    # Инициализация и выполнение
     scanner = N8nNodeScanner(
         github_token=GITHUB_TOKEN
     )
 
-    # Premier scan
+    # Первое сканирование
     scanner.scan_nodes()
 
-    # Démarrage du planning hebdomadaire
-    scanner.schedule_weekly_scan()
+    # Запуск еженедельного планирования
+    # scanner.schedule_weekly_scan()
 
-# Exemple d'utilisation
+# Пример использования
 if __name__ == "__main__":
     main()
