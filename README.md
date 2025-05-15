@@ -1,51 +1,51 @@
 # n8n-nodes-version-scanner
 
-A Python script for scanning and tracking version information of n8n nodes from the official n8n repository.
+Скрипт на Python для сканирования и отслеживания информации о версиях узлов n8n из официального репозитория n8n.
 
-## Description
+## Описание
 
-This tool automatically scans n8n node files in the n8n GitHub repository to extract and track version information. It helps developers and administrators monitor node versions over time by keeping a structured record of version changes.
+Этот инструмент автоматически сканирует файлы узлов n8n в репозитории GitHub n8n, чтобы извлечь и отслеживать информацию о версиях. Он помогает разработчикам и администраторам контролировать версии узлов с течением времени, сохраняя структурированную запись изменений версий.
 
-## Features
+## Особенности
 
-- Scans n8n repository for node files (.node.ts)
-- Extracts version information using regex patterns
-- Tracks both single versions and version arrays
-- Saves results in structured JSON format
-- Records version change history
-- Supports weekly automated scanning
+- Сканирует репозиторий n8n на наличие файлов узлов (.node.ts)
+- Извлекает информацию о версиях с помощью регулярных выражений
+- Отслеживает как одиночные версии, так и массивы версий
+- Сохраняет результаты в структурированном формате JSON
+- Записывает историю изменений версий
+- Поддерживает еженедельное автоматическое сканирование
 
-## Installation
+## Установка
 
-1. Clone the repository
-2. Install dependencies:
+1. Клонируйте репозиторий
+2. Установите зависимости:
 ```bash
 pip install requests
 ```
-3. Create a config.json file with:
+3. Создайте файл config.json со следующим содержимым:
 ```json
 {
   "github_token": "YOUR_GITHUB_TOKEN"
 }
 ```
 
-## Usage
+## Использование
 
-Run the scanner:
+Запустите сканер:
 ```bash
 python main.py
 ```
 
-The script will:
-- Scan all .node.ts files in n8n repository
-- Extract version information
-- Save results to node_versions.json
-- Track changes in version_changes.json
-- Schedule weekly automated scans
+Скрипт будет:
+- Сканировать все файлы .node.ts в репозитории n8n
+- Извлекать информацию о версиях
+- Сохранять результаты в node_versions.json
+- Отслеживать изменения в version_changes.json
+- Запланировать еженедельные автоматические сканирования
 
-## Output Format
+## Формат вывода
 
-Results are saved in JSON format:
+Результаты сохраняются в формате JSON:
 ```json
 {
   "NodeName": {
@@ -59,10 +59,10 @@ Results are saved in JSON format:
 }
 ```
 
-## License
+## Лицензия
 
 MIT
 
-## Contributing
+## Участие
 
-Issues and pull requests welcome via GitHub.
+Проблемы и запросы на внесение изменений приветствуются через GitHub.
