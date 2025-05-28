@@ -1,0 +1,449 @@
+{
+    "workflow": {
+        "i2crm_write_to GS": [
+            {
+                "node_type": "googleSheets",
+                "current_version": 4.4,
+                "latest_version": 4.6,
+                "node_name": "Google Sheets",
+                "match": true
+            },
+            {
+                "node_type": "googleSheets",
+                "current_version": 4.4,
+                "latest_version": 4.6,
+                "node_name": "Google Sheets1",
+                "match": true
+            },
+            {
+                "node_type": "googleSheets",
+                "current_version": 4.4,
+                "latest_version": 4.6,
+                "node_name": "Google Sheets2",
+                "match": true
+            },
+            {
+                "node_type": "executeWorkflowTrigger",
+                "current_version": 1.0,
+                "latest_version": 1.1,
+                "node_name": "Execute Workflow Trigger",
+                "match": true
+            }
+        ],
+        "My workflow 11": [
+            {
+                "node_type": "@n8n/n8n-nodes-langchain.chatTrigger",
+                "current_version": 0.0,
+                "latest_version": 0.0,
+                "node_name": "When chat message received",
+                "match": false
+            }
+        ],
+        "Avito AD info Update p.3 GS [WF]": [
+            {
+                "node_type": "googleSheets",
+                "current_version": 4.3,
+                "latest_version": 4.6,
+                "node_name": "Google Sheets",
+                "match": true
+            },
+            {
+                "node_type": "executeWorkflowTrigger",
+                "current_version": 1.0,
+                "latest_version": 1.1,
+                "node_name": "Execute Workflow Trigger",
+                "match": true
+            },
+            {
+                "node_type": "merge",
+                "current_version": 2.1,
+                "latest_version": 3.2,
+                "node_name": "Merge",
+                "match": true
+            },
+            {
+                "node_type": "googleSheets",
+                "current_version": 4.3,
+                "latest_version": 4.6,
+                "node_name": "Get_count_rows",
+                "match": true
+            },
+            {
+                "node_type": "googleSheets",
+                "current_version": 4.3,
+                "latest_version": 4.6,
+                "node_name": "Clear_rows",
+                "match": true
+            },
+            {
+                "node_type": "googleSheets",
+                "current_version": 4.3,
+                "latest_version": 4.6,
+                "node_name": "Google Sheets3",
+                "match": true
+            },
+            {
+                "node_type": "telegram",
+                "current_version": 1.1,
+                "latest_version": 1.2,
+                "node_name": "Telegram2",
+                "match": true
+            }
+        ],
+        "Статистика по выполнению процессов": [
+            {
+                "node_type": "telegram",
+                "current_version": 1.1,
+                "latest_version": 1.2,
+                "node_name": "Telegram",
+                "match": true
+            },
+            {
+                "node_type": "scheduleTrigger",
+                "current_version": 1.1,
+                "latest_version": 1.2,
+                "node_name": "Schedule Trigger",
+                "match": true
+            },
+            {
+                "node_type": "filter",
+                "current_version": 2.0,
+                "latest_version": 2.2,
+                "node_name": "Filter for executions of the week",
+                "match": true
+            },
+            {
+                "node_type": "set",
+                "current_version": 3.3,
+                "latest_version": 3.4,
+                "node_name": "Set a message for each failed execution",
+                "match": true
+            },
+            {
+                "node_type": "merge",
+                "current_version": 3.0,
+                "latest_version": 3.2,
+                "node_name": "Merge",
+                "match": true
+            }
+        ],
+        "My workflow 4": [
+            {
+                "node_type": "telegram",
+                "current_version": 1.1,
+                "latest_version": 1.2,
+                "node_name": "Telegram",
+                "match": true
+            },
+            {
+                "node_type": "merge",
+                "current_version": 3.0,
+                "latest_version": 3.2,
+                "node_name": "Merge",
+                "match": true
+            }
+        ],
+        "🦅 Get a bird's-eye view of your n8n instance with the Workflow Dashboard!": [
+            {
+                "node_type": "set",
+                "current_version": 3.3,
+                "latest_version": 3.4,
+                "node_name": "workflows-section",
+                "match": true
+            },
+            {
+                "node_type": "set",
+                "current_version": 3.3,
+                "latest_version": 3.4,
+                "node_name": "globals-section",
+                "match": true
+            },
+            {
+                "node_type": "merge",
+                "current_version": 2.1,
+                "latest_version": 3.2,
+                "node_name": "Merge",
+                "match": true
+            },
+            {
+                "node_type": "merge",
+                "current_version": 2.1,
+                "latest_version": 3.2,
+                "node_name": "Merge1",
+                "match": true
+            },
+            {
+                "node_type": "executeWorkflowTrigger",
+                "current_version": 1.0,
+                "latest_version": 1.1,
+                "node_name": "Execute Workflow Trigger",
+                "match": true
+            },
+            {
+                "node_type": "moveBinaryData",
+                "current_version": 1.0,
+                "latest_version": 1.1,
+                "node_name": "Move Binary Data",
+                "match": true
+            },
+            {
+                "node_type": "set",
+                "current_version": 3.3,
+                "latest_version": 3.4,
+                "node_name": "Final template",
+                "match": true
+            },
+            {
+                "node_type": "set",
+                "current_version": 3.3,
+                "latest_version": 3.4,
+                "node_name": "Template elements",
+                "match": true
+            },
+            {
+                "node_type": "merge",
+                "current_version": 2.1,
+                "latest_version": 3.2,
+                "node_name": "Final-json",
+                "match": true
+            },
+            {
+                "node_type": "executeWorkflow",
+                "current_version": 1.0,
+                "latest_version": 1.2,
+                "node_name": "Prepare JSON object",
+                "match": true
+            },
+            {
+                "node_type": "set",
+                "current_version": 3.3,
+                "latest_version": 3.4,
+                "node_name": "get-nodes-via-jmespath",
+                "match": true
+            },
+            {
+                "node_type": "n8n-nodes-base.html",
+                "current_version": 0.0,
+                "latest_version": 0.0,
+                "node_name": "Create HTML",
+                "match": false
+            },
+            {
+                "node_type": "n8n-nodes-base.respondToWebhook",
+                "current_version": 0.0,
+                "latest_version": 0.0,
+                "node_name": "Respond to Webhook",
+                "match": false
+            },
+            {
+                "node_type": "n8n-nodes-base.respondToWebhook",
+                "current_version": 0.0,
+                "latest_version": 0.0,
+                "node_name": "Respond to Webhook2",
+                "match": false
+            }
+        ],
+        "TG delete_post_by_id": [
+            {
+                "node_type": "executeWorkflow",
+                "current_version": 1.0,
+                "latest_version": 1.2,
+                "node_name": "Execute Workflow",
+                "match": true
+            },
+            {
+                "node_type": "telegramTrigger",
+                "current_version": 1.1,
+                "latest_version": 1.2,
+                "node_name": "Telegram Trigger",
+                "match": true
+            },
+            {
+                "node_type": "set",
+                "current_version": 3.2,
+                "latest_version": 3.4,
+                "node_name": "Edit Fields1",
+                "match": true
+            },
+            {
+                "node_type": "telegram",
+                "current_version": 1.1,
+                "latest_version": 1.2,
+                "node_name": "Telegram",
+                "match": true
+            },
+            {
+                "node_type": "set",
+                "current_version": 3.3,
+                "latest_version": 3.4,
+                "node_name": "Global",
+                "match": true
+            },
+            {
+                "node_type": "set",
+                "current_version": 3.3,
+                "latest_version": 3.4,
+                "node_name": "Edit Fields",
+                "match": true
+            }
+        ],
+        "Ultimate Scraper Workflow for n8n": [
+            {
+                "node_type": "httpRequest",
+                "current_version": 3.2,
+                "latest_version": 4.2,
+                "node_name": "Clean Webdriver ",
+                "match": true
+            },
+            {
+                "node_type": "n8n-nodes-base.html",
+                "current_version": 0.0,
+                "latest_version": 0.0,
+                "node_name": "Extract First Url Match",
+                "match": false
+            },
+            {
+                "node_type": "@n8n/n8n-nodes-langchain.lmChatOpenAi",
+                "current_version": 0.0,
+                "latest_version": 0.0,
+                "node_name": "OpenAI Chat Model",
+                "match": false
+            },
+            {
+                "node_type": "n8n-nodes-base.respondToWebhook",
+                "current_version": 0.0,
+                "latest_version": 0.0,
+                "node_name": "Success with cookie",
+                "match": false
+            },
+            {
+                "node_type": "n8n-nodes-base.respondToWebhook",
+                "current_version": 0.0,
+                "latest_version": 0.0,
+                "node_name": "Respond to Webhook2",
+                "match": false
+            },
+            {
+                "node_type": "n8n-nodes-base.respondToWebhook",
+                "current_version": 0.0,
+                "latest_version": 0.0,
+                "node_name": "Error",
+                "match": false
+            },
+            {
+                "node_type": "n8n-nodes-base.respondToWebhook",
+                "current_version": 0.0,
+                "latest_version": 0.0,
+                "node_name": "Error1",
+                "match": false
+            },
+            {
+                "node_type": "n8n-nodes-base.respondToWebhook",
+                "current_version": 0.0,
+                "latest_version": 0.0,
+                "node_name": "Error2",
+                "match": false
+            },
+            {
+                "node_type": "n8n-nodes-base.respondToWebhook",
+                "current_version": 0.0,
+                "latest_version": 0.0,
+                "node_name": "Respond to Webhook3",
+                "match": false
+            },
+            {
+                "node_type": "n8n-nodes-base.respondToWebhook",
+                "current_version": 0.0,
+                "latest_version": 0.0,
+                "node_name": "Success",
+                "match": false
+            },
+            {
+                "node_type": "n8n-nodes-base.respondToWebhook",
+                "current_version": 0.0,
+                "latest_version": 0.0,
+                "node_name": "Error3",
+                "match": false
+            },
+            {
+                "node_type": "@n8n/n8n-nodes-langchain.informationExtractor",
+                "current_version": 0.0,
+                "latest_version": 0.0,
+                "node_name": "Information Extractor",
+                "match": false
+            },
+            {
+                "node_type": "n8n-nodes-base.respondToWebhook",
+                "current_version": 0.0,
+                "latest_version": 0.0,
+                "node_name": "Error can't find url",
+                "match": false
+            },
+            {
+                "node_type": "@n8n/n8n-nodes-langchain.openAi",
+                "current_version": 0.0,
+                "latest_version": 0.0,
+                "node_name": "OpenAI",
+                "match": false
+            },
+            {
+                "node_type": "@n8n/n8n-nodes-langchain.openAi",
+                "current_version": 0.0,
+                "latest_version": 0.0,
+                "node_name": "OpenAI1",
+                "match": false
+            },
+            {
+                "node_type": "@n8n/n8n-nodes-langchain.informationExtractor",
+                "current_version": 0.0,
+                "latest_version": 0.0,
+                "node_name": "Information Extractor1",
+                "match": false
+            },
+            {
+                "node_type": "@n8n/n8n-nodes-langchain.lmChatOpenAi",
+                "current_version": 0.0,
+                "latest_version": 0.0,
+                "node_name": "OpenAI Chat Model1",
+                "match": false
+            },
+            {
+                "node_type": "@n8n/n8n-nodes-langchain.informationExtractor",
+                "current_version": 0.0,
+                "latest_version": 0.0,
+                "node_name": "Information Extractor2",
+                "match": false
+            },
+            {
+                "node_type": "@n8n/n8n-nodes-langchain.lmChatOpenAi",
+                "current_version": 0.0,
+                "latest_version": 0.0,
+                "node_name": "OpenAI Chat Model2",
+                "match": false
+            }
+        ],
+        "🔍 Visualize Your n8n Workflows with Mermaid.js!": [
+            {
+                "node_type": "switch",
+                "current_version": 3.0,
+                "latest_version": 3.2,
+                "node_name": "Switch",
+                "match": true
+            },
+            {
+                "node_type": "n8n-nodes-base.respondToWebhook",
+                "current_version": 0.0,
+                "latest_version": 0.0,
+                "node_name": "Respond with Mermaid",
+                "match": false
+            },
+            {
+                "node_type": "n8n-nodes-base.respondToWebhook",
+                "current_version": 0.0,
+                "latest_version": 0.0,
+                "node_name": "Send Page",
+                "match": false
+            }
+        ]
+    }
+}
