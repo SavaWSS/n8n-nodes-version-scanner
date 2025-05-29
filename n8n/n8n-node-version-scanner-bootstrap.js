@@ -1,9 +1,25 @@
 const DEBUG = false;
 
+const NODE_ALIASES = {
+    'n8n-nodes-base.respondToWebhook': 'respondWith',
+    'n8n-nodes-base.html': 'extractionValues',
+    '@n8n/n8n-nodes-langchain.chatTrigger': 'allowFileUploads',
+    'n8n-nodes-base.wait': 'amount'
+};
+
 const extractNodeName = (typeField) => {
-    if (typeField && typeField.includes('n8n-nodes-base.')) {
-        return typeField.split('n8n-nodes-base.')[1];
+    if (!typeField) return typeField;
+    
+    // Проверяем наличие элиаса
+    if (typeField in NODE_ALIASES) {
+        return NODE_ALIASES[typeField];
     }
+    
+    // Стандартная обработка для n8n-nodes-base
+    if (typeField.includes('.')) {
+        return typeField.split('.')[1];
+    }
+    
     return typeField;
 };
 
