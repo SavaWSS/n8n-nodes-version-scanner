@@ -37,8 +37,7 @@ const getVersionInfo = (nodeData) => {
 };
 
 const analyzeWorkflows = (nodesInUse, nodeVersions) => {
-    const outdatedNodes = [];
-    const unmatchedNodes = [];
+    const allNodes = [];
 
     if (DEBUG) {
         console.log('nodesInUse:', JSON.stringify(nodesInUse));
@@ -84,19 +83,17 @@ const analyzeWorkflows = (nodesInUse, nodeVersions) => {
                         console.log(`Найдена последняя версия: ${latestVersion}`);
                     }
 
-                    if (compareVersions(currentVersion, latestVersion)) {
-                        outdatedNodes.push({
-                            workflow_name: workflowName,
-                            workflow_id: workflowId,
-                            node_type: nodeType,
-                            current_version: currentVersion,
-                            latest_version: latestVersion,
-                            node_name: nodeName,
-                            match: true
-                        });
-                    }
+                    allNodes.push({
+                        workflow_name: workflowName,
+                        workflow_id: workflowId,
+                        node_type: nodeType,
+                        current_version: currentVersion,
+                        latest_version: latestVersion,
+                        node_name: nodeName,
+                        match: true
+                    });
                 } else {
-                    unmatchedNodes.push({
+                    allNodes.push({
                         workflow_name: workflowName,
                         workflow_id: workflowId,
                         node_type: nodeTypeFull,
@@ -116,11 +113,10 @@ const analyzeWorkflows = (nodesInUse, nodeVersions) => {
     }
 
     if (DEBUG) {
-        console.log(`Найдено устаревших нод: ${outdatedNodes.length}`);
-        console.log(`Найдено несоответствующих нод: ${unmatchedNodes.length}`);
+        console.log(`Найдено всего нод: ${allNodes.length}`);
     }
 
-    return [...outdatedNodes, ...unmatchedNodes];
+    return allNodes;
 };
 
 const generateHtmlTable = (workflowResults) => {
@@ -129,6 +125,24 @@ const generateHtmlTable = (workflowResults) => {
     for (const [workflowName, nodes] of Object.entries(workflowResults)) {
         const workflowId = nodes[0]?.workflow_id || '';
         const workflowUrl = workflowId ? `https://ynn.2bv.ru/workflow/${workflowId}` : '#';
+        
+        // Сортируем ноды по статусу
+        const sortedNodes = [...nodes].sort((a, b) => {
+            // Если нода не найдена, она должна быть первой
+            if (!a.match && b.match) return -1;
+            if (a.match && !b.match) return 1;
+            
+            // Если обе ноды найдены, сравниваем их версии
+            if (a.match && b.match) {
+                const aIsOutdated = a.current_version < a.latest_version;
+                const bIsOutdated = b.current_version < b.latest_version;
+                
+                if (aIsOutdated && !bIsOutdated) return -1;
+                if (!aIsOutdated && bIsOutdated) return 1;
+            }
+            
+            return 0;
+        });
         
         html += `<div class="card mb-4">`;
         html += `<div class="card-header bg-light">`;
@@ -151,12 +165,11 @@ const generateHtmlTable = (workflowResults) => {
         html += `</thead>`;
         html += `<tbody>`;
 
-        nodes.forEach((node) => {
+        sortedNodes.forEach((node) => {
             const isOutdated = node.match && node.current_version < node.latest_version;
-            const rowClass = isOutdated ? 'table-danger' : '';
+            const rowClass = isOutdated ? 'table-warning' : '';
             
-            // html += `<tr class="${rowClass}">`;
-            html += `<tr>`;
+            html += `<tr class="${rowClass}">`;
             html += `<td>${node.node_name}</td>`;
             html += `<td>${node.node_type}</td>`;
             html += `<td>${node.current_version}</td>`;
@@ -164,10 +177,10 @@ const generateHtmlTable = (workflowResults) => {
             html += `<td>`;
             if (node.match) {
                 html += isOutdated 
-                    ? '<span class="badge bg-warning text-dark">⚠️ Устарела</span>'
-                    : '<span class="badge bg-success">✅ Актуальна</span>';
+                    ? '<span class="badge rounded-pill bg-warning text-dark">Устарела</span>'
+                    : '<span class="badge rounded-pill bg-success">Актуальна</span>';
             } else {
-                html += '<span class="badge bg-secondary">❓ Не найдена</span>';
+                html += '<span class="badge rounded-pill bg-secondary">Не найдена</span>';
             }
             html += `</td>`;
             html += `</tr>`;
