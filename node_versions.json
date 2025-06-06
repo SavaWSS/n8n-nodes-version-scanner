@@ -8,7 +8,7 @@
         1.0
       ],
       "is_multi_version": false,
-      "last_updated": "2025-05-29T00:19:05.745796"
+      "last_updated": "2025-06-06T10:58:10.008997"
     }
   },
   "activeCampaign": {
@@ -20,7 +20,7 @@
         1.0
       ],
       "is_multi_version": false,
-      "last_updated": "2025-05-29T00:19:06.151800"
+      "last_updated": "2025-06-06T10:58:10.446284"
     }
   },
   "activeCampaignTrigger": {
@@ -32,7 +32,7 @@
         1.0
       ],
       "is_multi_version": false,
-      "last_updated": "2025-05-29T00:19:06.530794"
+      "last_updated": "2025-06-06T10:58:10.824318"
     }
   },
   "acuitySchedulingTrigger": {
@@ -44,7 +44,7 @@
         1.0
       ],
       "is_multi_version": false,
-      "last_updated": "2025-05-29T00:19:06.974395"
+      "last_updated": "2025-06-06T10:58:11.210252"
     }
   },
   "adalo": {
@@ -56,7 +56,7 @@
         1.0
       ],
       "is_multi_version": false,
-      "last_updated": "2025-05-29T00:19:07.309962"
+      "last_updated": "2025-06-06T10:58:11.567570"
     }
   },
   "affinity": {
@@ -68,7 +68,7 @@
         1.0
       ],
       "is_multi_version": false,
-      "last_updated": "2025-05-29T00:19:07.682687"
+      "last_updated": "2025-06-06T10:58:11.936952"
     }
   },
   "affinityTrigger": {
@@ -80,7 +80,7 @@
         1.0
       ],
       "is_multi_version": false,
-      "last_updated": "2025-05-29T00:19:08.044791"
+      "last_updated": "2025-06-06T10:58:12.327192"
     }
   },
   "agileCrm": {
@@ -92,7 +92,7 @@
         1.0
       ],
       "is_multi_version": false,
-      "last_updated": "2025-05-29T00:19:08.488457"
+      "last_updated": "2025-06-06T10:58:12.814547"
     }
   },
   "aiTransform": {
@@ -104,7 +104,7 @@
         1.0
       ],
       "is_multi_version": false,
-      "last_updated": "2025-05-29T00:19:08.912462"
+      "last_updated": "2025-06-06T10:58:13.180829"
     }
   },
   "airtable": {
@@ -116,7 +116,7 @@
         1.0
       ],
       "is_multi_version": false,
-      "last_updated": "2025-05-29T00:19:10.093874"
+      "last_updated": "2025-06-06T10:58:14.343700"
     }
   },
   "airtableTrigger": {
@@ -128,7 +128,7 @@
         1.0
       ],
       "is_multi_version": false,
-      "last_updated": "2025-05-29T00:19:09.707511"
+      "last_updated": "2025-06-06T10:58:13.983200"
     }
   },
   "airtop": {
@@ -140,7 +140,7 @@
         1.0
       ],
       "is_multi_version": false,
-      "last_updated": "2025-05-29T00:19:10.809409"
+      "last_updated": "2025-06-06T10:58:15.178631"
     }
   },
   "amqp": {
@@ -152,7 +152,7 @@
         1.0
       ],
       "is_multi_version": false,
-      "last_updated": "2025-05-29T00:19:11.281040"
+      "last_updated": "2025-06-06T10:58:15.589277"
     }
   },
   "amqpTrigger": {
@@ -164,7 +164,7 @@
         1.0
       ],
       "is_multi_version": false,
-      "last_updated": "2025-05-29T00:19:11.726135"
+      "last_updated": "2025-06-06T10:58:15.956365"
     }
   },
   "apiTemplateIo": {
@@ -176,7 +176,7 @@
         1.0
       ],
       "is_multi_version": false,
-      "last_updated": "2025-05-29T00:19:12.108627"
+      "last_updated": "2025-06-06T10:58:16.344250"
     }
   },
   "asana": {
@@ -188,7 +188,7 @@
         1.0
       ],
       "is_multi_version": false,
-      "last_updated": "2025-05-29T00:19:12.562266"
+      "last_updated": "2025-06-06T10:58:16.793529"
     }
   },
   "asanaTrigger": {
@@ -200,7 +200,7 @@
         1.0
       ],
       "is_multi_version": false,
-      "last_updated": "2025-05-29T00:19:12.910964"
+      "last_updated": "2025-06-06T10:58:17.175460"
     }
   },
   "automizy": {
@@ -212,7 +212,7 @@
         1.0
       ],
       "is_multi_version": false,
-      "last_updated": "2025-05-29T00:19:13.272265"
+      "last_updated": "2025-06-06T10:58:17.547039"
     }
   },
   "autopilot": {
@@ -224,7 +224,7 @@
         1.0
       ],
       "is_multi_version": false,
-      "last_updated": "2025-05-29T00:19:13.739722"
+      "last_updated": "2025-06-06T10:58:17.915438"
     }
   },
   "autopilotTrigger": {
@@ -236,7 +236,7 @@
         1.0
       ],
       "is_multi_version": false,
-      "last_updated": "2025-05-29T00:19:14.119227"
+      "last_updated": "2025-06-06T10:58:18.299848"
     }
   },
   "awsLambda": {
@@ -248,7 +248,7 @@
         1.0
       ],
       "is_multi_version": false,
-      "last_updated": "2025-05-29T00:19:14.482742"
+      "last_updated": "2025-06-06T10:58:18.658549"
     }
   },
   "awsSns": {
@@ -260,7 +260,7 @@
         1.0
       ],
       "is_multi_version": false,
-      "last_updated": "2025-05-29T00:19:14.939521"
+      "last_updated": "2025-06-06T10:58:19.085915"
     }
   },
   "awsSnsTrigger": {
@@ -272,7 +272,7 @@
         1.0
       ],
       "is_multi_version": false,
-      "last_updated": "2025-05-29T00:19:15.322277"
+      "last_updated": "2025-06-06T10:58:19.422005"
     }
   },
   "awsCertificateManager": {
@@ -284,7 +284,7 @@
         1.0
       ],
       "is_multi_version": false,
-      "last_updated": "2025-05-29T00:19:15.689825"
+      "last_updated": "2025-06-06T10:58:19.766464"
     }
   },
   "awsCognito": {
@@ -296,7 +296,7 @@
         1.0
       ],
       "is_multi_version": false,
-      "last_updated": "2025-05-29T00:19:16.053001"
+      "last_updated": "2025-06-06T10:58:20.176065"
     }
   },
   "awsComprehend": {
@@ -308,7 +308,7 @@
         1.0
       ],
       "is_multi_version": false,
-      "last_updated": "2025-05-29T00:19:16.422412"
+      "last_updated": "2025-06-06T10:58:20.552007"
     }
   },
   "awsDynamoDb": {
@@ -320,7 +320,7 @@
         1.0
       ],
       "is_multi_version": false,
-      "last_updated": "2025-05-29T00:19:16.789736"
+      "last_updated": "2025-06-06T10:58:20.901740"
     }
   },
   "awsElb": {
@@ -332,7 +332,7 @@
         1.0
       ],
       "is_multi_version": false,
-      "last_updated": "2025-05-29T00:19:17.177009"
+      "last_updated": "2025-06-06T10:58:21.297403"
     }
   },
   "awsIam": {
@@ -344,7 +344,7 @@
         1.0
       ],
       "is_multi_version": false,
-      "last_updated": "2025-05-29T00:19:17.551511"
+      "last_updated": "2025-06-06T10:58:21.660945"
     }
   },
   "awsRekognition": {
@@ -356,7 +356,7 @@
         1.0
       ],
       "is_multi_version": false,
-      "last_updated": "2025-05-29T00:19:17.942279"
+      "last_updated": "2025-06-06T10:58:21.999944"
     }
   },
   "awsS3": {
@@ -368,7 +368,7 @@
         2.0
       ],
       "is_multi_version": false,
-      "last_updated": "2025-05-29T00:19:19.206436"
+      "last_updated": "2025-06-06T10:58:23.226384"
     }
   },
   "awsSes": {
@@ -380,7 +380,7 @@
         1.0
       ],
       "is_multi_version": false,
-      "last_updated": "2025-05-29T00:19:19.630496"
+      "last_updated": "2025-06-06T10:58:23.639429"
     }
   },
   "awsSqs": {
@@ -392,7 +392,7 @@
         1.0
       ],
       "is_multi_version": false,
-      "last_updated": "2025-05-29T00:19:19.981868"
+      "last_updated": "2025-06-06T10:58:24.010035"
     }
   },
   "awsTextract": {
@@ -404,7 +404,7 @@
         1.0
       ],
       "is_multi_version": false,
-      "last_updated": "2025-05-29T00:19:20.386381"
+      "last_updated": "2025-06-06T10:58:24.354557"
     }
   },
   "awsTranscribe": {
@@ -416,7 +416,7 @@
         1.0
       ],
       "is_multi_version": false,
-      "last_updated": "2025-05-29T00:19:20.727436"
+      "last_updated": "2025-06-06T10:58:24.767215"
     }
   },
   "bannerbear": {
@@ -428,7 +428,7 @@
         1.0
       ],
       "is_multi_version": false,
-      "last_updated": "2025-05-29T00:19:21.450490"
+      "last_updated": "2025-06-06T10:58:25.530290"
     }
   },
   "baserow": {
@@ -440,7 +440,7 @@
         1.0
       ],
       "is_multi_version": false,
-      "last_updated": "2025-05-29T00:19:21.792035"
+      "last_updated": "2025-06-06T10:58:25.941414"
     }
   },
   "beeminder": {
@@ -452,7 +452,7 @@
         1.0
       ],
       "is_multi_version": false,
-      "last_updated": "2025-05-29T00:19:22.150850"
+      "last_updated": "2025-06-06T10:58:26.332811"
     }
   },
   "bitbucketTrigger": {
@@ -464,7 +464,7 @@
         1.0
       ],
       "is_multi_version": false,
-      "last_updated": "2025-05-29T00:19:22.528383"
+      "last_updated": "2025-06-06T10:58:26.714170"
     }
   },
   "bitly": {
@@ -476,7 +476,7 @@
         1.0
       ],
       "is_multi_version": false,
-      "last_updated": "2025-05-29T00:19:22.896612"
+      "last_updated": "2025-06-06T10:58:27.072861"
     }
   },
   "bitwarden": {
@@ -488,7 +488,7 @@
         1.0
       ],
       "is_multi_version": false,
-      "last_updated": "2025-05-29T00:19:23.253431"
+      "last_updated": "2025-06-06T10:58:27.445768"
     }
   },
   "box": {
@@ -500,7 +500,7 @@
         1.0
       ],
       "is_multi_version": false,
-      "last_updated": "2025-05-29T00:19:23.629275"
+      "last_updated": "2025-06-06T10:58:27.823137"
     }
   },
   "boxTrigger": {
@@ -512,7 +512,7 @@
         1.0
       ],
       "is_multi_version": false,
-      "last_updated": "2025-05-29T00:19:24.100557"
+      "last_updated": "2025-06-06T10:58:28.282189"
     }
   },
   "Brandfetch": {
@@ -524,7 +524,7 @@
         1.0
       ],
       "is_multi_version": false,
-      "last_updated": "2025-05-29T00:19:24.476889"
+      "last_updated": "2025-06-06T10:58:28.665786"
     }
   },
   "sendInBlue": {
@@ -536,7 +536,7 @@
         1.0
       ],
       "is_multi_version": false,
-      "last_updated": "2025-05-29T00:19:24.827582"
+      "last_updated": "2025-06-06T10:58:29.053355"
     }
   },
   "sendInBlueApi": {
@@ -548,7 +548,7 @@
         1.0
       ],
       "is_multi_version": false,
-      "last_updated": "2025-05-29T00:19:25.190618"
+      "last_updated": "2025-06-06T10:58:29.400336"
     }
   },
   "bubble": {
@@ -560,7 +560,7 @@
         1.0
       ],
       "is_multi_version": false,
-      "last_updated": "2025-05-29T00:19:25.540026"
+      "last_updated": "2025-06-06T10:58:29.761391"
     }
   },
   "calTrigger": {
@@ -573,7 +573,7 @@
         2.0
       ],
       "is_multi_version": true,
-      "last_updated": "2025-05-29T00:19:25.891960"
+      "last_updated": "2025-06-06T10:58:30.124034"
     }
   },
   "calendlyTrigger": {
@@ -585,7 +585,7 @@
         1.0
       ],
       "is_multi_version": false,
-      "last_updated": "2025-05-29T00:19:26.329181"
+      "last_updated": "2025-06-06T10:58:30.498839"
     }
   },
   "chargebee": {
@@ -597,7 +597,7 @@
         1.0
       ],
       "is_multi_version": false,
-      "last_updated": "2025-05-29T00:19:26.729145"
+      "last_updated": "2025-06-06T10:58:30.897013"
     }
   },
   "chargebeeTrigger": {
@@ -609,7 +609,7 @@
         1.0
       ],
       "is_multi_version": false,
-      "last_updated": "2025-05-29T00:19:27.068409"
+      "last_updated": "2025-06-06T10:58:31.278242"
     }
   },
   "circleCi": {
@@ -621,7 +621,7 @@
         1.0
       ],
       "is_multi_version": false,
-      "last_updated": "2025-05-29T00:19:27.400989"
+      "last_updated": "2025-06-06T10:58:31.633446"
     }
   },
   "ciscoWebex": {
@@ -633,7 +633,7 @@
         1.0
       ],
       "is_multi_version": false,
-      "last_updated": "2025-05-29T00:19:27.774516"
+      "last_updated": "2025-06-06T10:58:32.023436"
     }
   },
   "ciscoWebexTrigger": {
@@ -645,7 +645,7 @@
         1.0
       ],
       "is_multi_version": false,
-      "last_updated": "2025-05-29T00:19:28.197042"
+      "last_updated": "2025-06-06T10:58:32.392126"
     }
   },
   "clearbit": {
@@ -657,7 +657,7 @@
         1.0
       ],
       "is_multi_version": false,
-      "last_updated": "2025-05-29T00:19:28.656013"
+      "last_updated": "2025-06-06T10:58:32.744339"
     }
   },
   "clickUp": {
@@ -669,7 +669,7 @@
         1.0
       ],
       "is_multi_version": false,
-      "last_updated": "2025-05-29T00:19:29.155663"
+      "last_updated": "2025-06-06T10:58:33.153578"
     }
   },
   "clickUpTrigger": {
@@ -681,7 +681,7 @@
         1.0
       ],
       "is_multi_version": false,
-      "last_updated": "2025-05-29T00:19:29.575580"
+      "last_updated": "2025-06-06T10:58:33.626980"
     }
   },
   "clockify": {
@@ -693,7 +693,7 @@
         1.0
       ],
       "is_multi_version": false,
-      "last_updated": "2025-05-29T00:19:29.952337"
+      "last_updated": "2025-06-06T10:58:34.011959"
     }
   },
   "clockifyTrigger": {
@@ -705,7 +705,7 @@
         1.0
       ],
       "is_multi_version": false,
-      "last_updated": "2025-05-29T00:19:30.325466"
+      "last_updated": "2025-06-06T10:58:34.386886"
     }
   },
   "cloudflare": {
@@ -717,7 +717,7 @@
         1.0
       ],
       "is_multi_version": false,
-      "last_updated": "2025-05-29T00:19:30.718839"
+      "last_updated": "2025-06-06T10:58:34.764277"
     }
   },
   "cockpit": {
@@ -729,7 +729,7 @@
         1.0
       ],
       "is_multi_version": false,
-      "last_updated": "2025-05-29T00:19:31.119421"
+      "last_updated": "2025-06-06T10:58:35.110955"
     }
   },
   "coda": {
@@ -742,7 +742,7 @@
         1.1
       ],
       "is_multi_version": true,
-      "last_updated": "2025-05-29T00:19:31.474975"
+      "last_updated": "2025-06-06T10:58:35.451332"
     }
   },
   "code": {
@@ -754,7 +754,7 @@
         1.0
       ],
       "is_multi_version": false,
-      "last_updated": "2025-05-29T00:22:37.490941"
+      "last_updated": "2025-06-06T11:01:40.037808"
     }
   },
   "coinGecko": {
@@ -766,7 +766,7 @@
         1.0
       ],
       "is_multi_version": false,
-      "last_updated": "2025-05-29T00:19:32.240674"
+      "last_updated": "2025-06-06T10:58:36.154156"
     }
   },
   "compareDatasets": {
@@ -782,7 +782,7 @@
         2.3
       ],
       "is_multi_version": true,
-      "last_updated": "2025-05-29T00:19:32.620492"
+      "last_updated": "2025-06-06T10:58:36.515595"
     }
   },
   "compression": {
@@ -795,7 +795,7 @@
         1.1
       ],
       "is_multi_version": true,
-      "last_updated": "2025-05-29T00:19:33.040270"
+      "last_updated": "2025-06-06T10:58:36.861778"
     }
   },
   "contentful": {
@@ -807,7 +807,7 @@
         1.0
       ],
       "is_multi_version": false,
-      "last_updated": "2025-05-29T00:19:33.396859"
+      "last_updated": "2025-06-06T10:58:37.242775"
     }
   },
   "convertKit": {
@@ -819,7 +819,7 @@
         1.0
       ],
       "is_multi_version": false,
-      "last_updated": "2025-05-29T00:19:33.734311"
+      "last_updated": "2025-06-06T10:58:37.642162"
     }
   },
   "convertKitTrigger": {
@@ -831,7 +831,7 @@
         1.0
       ],
       "is_multi_version": false,
-      "last_updated": "2025-05-29T00:19:34.211400"
+      "last_updated": "2025-06-06T10:58:38.068006"
     }
   },
   "copper": {
@@ -843,7 +843,7 @@
         1.0
       ],
       "is_multi_version": false,
-      "last_updated": "2025-05-29T00:19:34.624087"
+      "last_updated": "2025-06-06T10:58:38.460449"
     }
   },
   "copperTrigger": {
@@ -855,7 +855,7 @@
         1.0
       ],
       "is_multi_version": false,
-      "last_updated": "2025-05-29T00:19:34.984556"
+      "last_updated": "2025-06-06T10:58:38.886096"
     }
   },
   "cortex": {
@@ -867,7 +867,7 @@
         1.0
       ],
       "is_multi_version": false,
-      "last_updated": "2025-05-29T00:19:35.387276"
+      "last_updated": "2025-06-06T10:58:39.321212"
     }
   },
   "crateDb": {
@@ -879,7 +879,7 @@
         1.0
       ],
       "is_multi_version": false,
-      "last_updated": "2025-05-29T00:19:35.734213"
+      "last_updated": "2025-06-06T10:58:39.754753"
     }
   },
   "cron": {
@@ -891,7 +891,7 @@
         1.0
       ],
       "is_multi_version": false,
-      "last_updated": "2025-05-29T00:19:36.077346"
+      "last_updated": "2025-06-06T10:58:40.130032"
     }
   },
   "crowdDev": {
@@ -903,7 +903,7 @@
         1.0
       ],
       "is_multi_version": false,
-      "last_updated": "2025-05-29T00:19:36.484278"
+      "last_updated": "2025-06-06T10:58:40.523195"
     }
   },
   "crowdDevTrigger": {
@@ -915,7 +915,7 @@
         1.0
       ],
       "is_multi_version": false,
-      "last_updated": "2025-05-29T00:19:36.881646"
+      "last_updated": "2025-06-06T10:58:40.902106"
     }
   },
   "crypto": {
@@ -927,7 +927,7 @@
         1.0
       ],
       "is_multi_version": false,
-      "last_updated": "2025-05-29T00:19:37.268789"
+      "last_updated": "2025-06-06T10:58:41.294583"
     }
   },
   "customerIo": {
@@ -939,7 +939,7 @@
         1.0
       ],
       "is_multi_version": false,
-      "last_updated": "2025-05-29T00:19:37.651962"
+      "last_updated": "2025-06-06T10:58:41.650837"
     }
   },
   "customerIoTrigger": {
@@ -951,7 +951,7 @@
         1.0
       ],
       "is_multi_version": false,
-      "last_updated": "2025-05-29T00:19:38.118558"
+      "last_updated": "2025-06-06T10:58:42.057479"
     }
   },
   "dateTime": {
@@ -963,7 +963,7 @@
         1.0
       ],
       "is_multi_version": false,
-      "last_updated": "2025-05-29T00:19:38.826709"
+      "last_updated": "2025-06-06T10:58:42.792439"
     }
   },
   "Date & Time": {
@@ -975,7 +975,7 @@
         2.0
       ],
       "is_multi_version": false,
-      "last_updated": "2025-05-29T00:19:39.284148"
+      "last_updated": "2025-06-06T10:58:43.203307"
     }
   },
   "debugHelper": {
@@ -987,7 +987,7 @@
         1.0
       ],
       "is_multi_version": false,
-      "last_updated": "2025-05-29T00:19:39.646115"
+      "last_updated": "2025-06-06T10:58:43.572870"
     }
   },
   "deepL": {
@@ -999,7 +999,7 @@
         1.0
       ],
       "is_multi_version": false,
-      "last_updated": "2025-05-29T00:19:40.052934"
+      "last_updated": "2025-06-06T10:58:43.926313"
     }
   },
   "demio": {
@@ -1011,7 +1011,7 @@
         1.0
       ],
       "is_multi_version": false,
-      "last_updated": "2025-05-29T00:19:40.449809"
+      "last_updated": "2025-06-06T10:58:44.311665"
     }
   },
   "dhl": {
@@ -1023,7 +1023,7 @@
         1.0
       ],
       "is_multi_version": false,
-      "last_updated": "2025-05-29T00:19:40.849170"
+      "last_updated": "2025-06-06T10:58:44.680992"
     }
   },
   "discord": {
@@ -1035,7 +1035,7 @@
         1.0
       ],
       "is_multi_version": false,
-      "last_updated": "2025-05-29T00:19:41.658444"
+      "last_updated": "2025-06-06T10:58:45.457534"
     }
   },
   "discourse": {
@@ -1047,7 +1047,7 @@
         1.0
       ],
       "is_multi_version": false,
-      "last_updated": "2025-05-29T00:19:42.530359"
+      "last_updated": "2025-06-06T10:58:46.237613"
     }
   },
   "disqus": {
@@ -1059,7 +1059,7 @@
         1.0
       ],
       "is_multi_version": false,
-      "last_updated": "2025-05-29T00:19:42.893289"
+      "last_updated": "2025-06-06T10:58:46.599290"
     }
   },
   "drift": {
@@ -1071,7 +1071,7 @@
         1.0
       ],
       "is_multi_version": false,
-      "last_updated": "2025-05-29T00:19:43.317573"
+      "last_updated": "2025-06-06T10:58:47.205613"
     }
   },
   "dropbox": {
@@ -1083,7 +1083,7 @@
         1.0
       ],
       "is_multi_version": false,
-      "last_updated": "2025-05-29T00:19:43.681552"
+      "last_updated": "2025-06-06T10:58:47.635322"
     }
   },
   "dropcontact": {
@@ -1095,7 +1095,7 @@
         1.0
       ],
       "is_multi_version": false,
-      "last_updated": "2025-05-29T00:19:44.088921"
+      "last_updated": "2025-06-06T10:58:48.014039"
     }
   },
   "e2eTest": {
@@ -1107,7 +1107,7 @@
         1.0
       ],
       "is_multi_version": false,
-      "last_updated": "2025-05-29T00:19:44.478187"
+      "last_updated": "2025-06-06T10:58:48.380684"
     }
   },
   "erpNext": {
@@ -1119,7 +1119,7 @@
         1.0
       ],
       "is_multi_version": false,
-      "last_updated": "2025-05-29T00:19:44.879593"
+      "last_updated": "2025-06-06T10:58:48.799085"
     }
   },
   "Blur": {
@@ -1131,7 +1131,7 @@
         1.0
       ],
       "is_multi_version": false,
-      "last_updated": "2025-05-29T00:19:45.353687"
+      "last_updated": "2025-06-06T10:58:49.222675"
     }
   },
   "egoi": {
@@ -1143,7 +1143,7 @@
         1.0
       ],
       "is_multi_version": false,
-      "last_updated": "2025-05-29T00:19:45.708819"
+      "last_updated": "2025-06-06T10:58:49.643844"
     }
   },
   "elasticSecurity": {
@@ -1155,7 +1155,7 @@
         1.0
       ],
       "is_multi_version": false,
-      "last_updated": "2025-05-29T00:19:46.101797"
+      "last_updated": "2025-06-06T10:58:50.012859"
     }
   },
   "elasticsearch": {
@@ -1167,7 +1167,7 @@
         1.0
       ],
       "is_multi_version": false,
-      "last_updated": "2025-05-29T00:19:46.442040"
+      "last_updated": "2025-06-06T10:58:50.382525"
     }
   },
   "emailReadImap": {
@@ -1179,7 +1179,7 @@
         2.0
       ],
       "is_multi_version": false,
-      "last_updated": "2025-05-29T00:19:47.632828"
+      "last_updated": "2025-06-06T10:58:51.521702"
     }
   },
   "emailSend": {
@@ -1192,7 +1192,7 @@
         2.1
       ],
       "is_multi_version": true,
-      "last_updated": "2025-05-29T00:19:48.834974"
+      "last_updated": "2025-06-06T10:58:52.667441"
     }
   },
   "emelia": {
@@ -1204,7 +1204,7 @@
         1.0
       ],
       "is_multi_version": false,
-      "last_updated": "2025-05-29T00:19:49.191173"
+      "last_updated": "2025-06-06T10:58:53.036505"
     }
   },
   "emeliaTrigger": {
@@ -1216,7 +1216,7 @@
         1.0
       ],
       "is_multi_version": false,
-      "last_updated": "2025-05-29T00:19:49.575078"
+      "last_updated": "2025-06-06T10:58:53.393859"
     }
   },
   "errorTrigger": {
@@ -1228,7 +1228,7 @@
         1.0
       ],
       "is_multi_version": false,
-      "last_updated": "2025-05-29T00:19:49.982559"
+      "last_updated": "2025-06-06T10:58:53.765321"
     }
   },
   "eventbriteTrigger": {
@@ -1240,7 +1240,7 @@
         1.0
       ],
       "is_multi_version": false,
-      "last_updated": "2025-05-29T00:19:50.787907"
+      "last_updated": "2025-06-06T10:58:54.500261"
     }
   },
   "executeCommand": {
@@ -1252,7 +1252,7 @@
         1.0
       ],
       "is_multi_version": false,
-      "last_updated": "2025-05-29T00:19:51.137622"
+      "last_updated": "2025-06-06T10:58:54.897968"
     }
   },
   "executeWorkflow": {
@@ -1266,7 +1266,7 @@
         1.2
       ],
       "is_multi_version": true,
-      "last_updated": "2025-05-29T00:19:51.526792"
+      "last_updated": "2025-06-06T10:58:55.285005"
     }
   },
   "executeWorkflowTrigger": {
@@ -1279,7 +1279,7 @@
         1.1
       ],
       "is_multi_version": true,
-      "last_updated": "2025-05-29T00:19:51.902612"
+      "last_updated": "2025-06-06T10:58:55.727359"
     }
   },
   "executionData": {
@@ -1291,7 +1291,7 @@
         1.0
       ],
       "is_multi_version": false,
-      "last_updated": "2025-05-29T00:19:52.289096"
+      "last_updated": "2025-06-06T10:58:56.088777"
     }
   },
   "facebookGraphApi": {
@@ -1303,7 +1303,7 @@
         1.0
       ],
       "is_multi_version": false,
-      "last_updated": "2025-05-29T00:19:52.648785"
+      "last_updated": "2025-06-06T10:58:56.437663"
     }
   },
   "facebookTrigger": {
@@ -1315,7 +1315,7 @@
         1.0
       ],
       "is_multi_version": false,
-      "last_updated": "2025-05-29T00:19:53.060649"
+      "last_updated": "2025-06-06T10:58:56.796176"
     }
   },
   "facebookLeadAdsTrigger": {
@@ -1327,7 +1327,7 @@
         1.0
       ],
       "is_multi_version": false,
-      "last_updated": "2025-05-29T00:19:53.515391"
+      "last_updated": "2025-06-06T10:58:57.192123"
     }
   },
   "figmaTrigger": {
@@ -1339,7 +1339,7 @@
         1.0
       ],
       "is_multi_version": false,
-      "last_updated": "2025-05-29T00:19:53.868111"
+      "last_updated": "2025-06-06T10:58:57.564940"
     }
   },
   "filemaker": {
@@ -1351,7 +1351,7 @@
         1.0
       ],
       "is_multi_version": false,
-      "last_updated": "2025-05-29T00:19:54.288849"
+      "last_updated": "2025-06-06T10:58:57.931080"
     }
   },
   "convertToFile": {
@@ -1364,7 +1364,7 @@
         1.1
       ],
       "is_multi_version": true,
-      "last_updated": "2025-05-29T00:19:54.656315"
+      "last_updated": "2025-06-06T10:58:58.325041"
     }
   },
   "extractFromFile": {
@@ -1376,7 +1376,7 @@
         1.0
       ],
       "is_multi_version": false,
-      "last_updated": "2025-05-29T00:19:55.034672"
+      "last_updated": "2025-06-06T10:58:58.710525"
     }
   },
   "readWriteFile": {
@@ -1388,7 +1388,7 @@
         1.0
       ],
       "is_multi_version": false,
-      "last_updated": "2025-05-29T00:19:55.380525"
+      "last_updated": "2025-06-06T10:58:59.113150"
     }
   },
   "filter": {
@@ -1400,7 +1400,7 @@
         2.2
       ],
       "is_multi_version": false,
-      "last_updated": "2025-05-29T00:19:55.771171"
+      "last_updated": "2025-06-06T10:58:59.485161"
     }
   },
   "Filter": {
@@ -1414,7 +1414,7 @@
         2.2
       ],
       "is_multi_version": true,
-      "last_updated": "2025-05-29T00:19:56.540004"
+      "last_updated": "2025-06-06T10:59:00.245625"
     }
   },
   "flow": {
@@ -1426,7 +1426,7 @@
         1.0
       ],
       "is_multi_version": false,
-      "last_updated": "2025-05-29T00:19:56.949091"
+      "last_updated": "2025-06-06T10:59:00.737450"
     }
   },
   "flowTrigger": {
@@ -1438,7 +1438,7 @@
         1.0
       ],
       "is_multi_version": false,
-      "last_updated": "2025-05-29T00:19:57.341739"
+      "last_updated": "2025-06-06T10:59:01.133014"
     }
   },
   "limitWaitTime": {
@@ -1450,7 +1450,7 @@
         1.0
       ],
       "is_multi_version": false,
-      "last_updated": "2025-05-29T00:19:57.717781"
+      "last_updated": "2025-06-06T10:59:01.510393"
     }
   },
   "formTrigger": {
@@ -1462,7 +1462,7 @@
         1.0
       ],
       "is_multi_version": false,
-      "last_updated": "2025-05-29T00:19:58.472514"
+      "last_updated": "2025-06-06T10:59:02.217687"
     }
   },
   "useWorkflowTimezone": {
@@ -1476,7 +1476,7 @@
         2.2
       ],
       "is_multi_version": true,
-      "last_updated": "2025-05-29T00:19:58.876854"
+      "last_updated": "2025-06-06T10:59:02.580265"
     }
   },
   "formIoTrigger": {
@@ -1488,7 +1488,7 @@
         1.0
       ],
       "is_multi_version": false,
-      "last_updated": "2025-05-29T00:19:59.275508"
+      "last_updated": "2025-06-06T10:59:03.000773"
     }
   },
   "formstackTrigger": {
@@ -1500,7 +1500,7 @@
         1.0
       ],
       "is_multi_version": false,
-      "last_updated": "2025-05-29T00:19:59.654589"
+      "last_updated": "2025-06-06T10:59:03.385452"
     }
   },
   "freshdesk": {
@@ -1512,7 +1512,7 @@
         1.0
       ],
       "is_multi_version": false,
-      "last_updated": "2025-05-29T00:20:00.072001"
+      "last_updated": "2025-06-06T10:59:03.803691"
     }
   },
   "freshservice": {
@@ -1524,7 +1524,7 @@
         1.0
       ],
       "is_multi_version": false,
-      "last_updated": "2025-05-29T00:20:00.479184"
+      "last_updated": "2025-06-06T10:59:04.225158"
     }
   },
   "freshworksCrm": {
@@ -1536,7 +1536,7 @@
         1.0
       ],
       "is_multi_version": false,
-      "last_updated": "2025-05-29T00:20:00.918671"
+      "last_updated": "2025-06-06T10:59:04.604600"
     }
   },
   "ftp": {
@@ -1548,7 +1548,7 @@
         1.0
       ],
       "is_multi_version": false,
-      "last_updated": "2025-05-29T00:20:01.312083"
+      "last_updated": "2025-06-06T10:59:05.022803"
     }
   },
   "function": {
@@ -1560,7 +1560,7 @@
         1.0
       ],
       "is_multi_version": false,
-      "last_updated": "2025-05-29T00:20:01.663944"
+      "last_updated": "2025-06-06T10:59:05.378835"
     }
   },
   "functionItem": {
@@ -1572,7 +1572,7 @@
         1.0
       ],
       "is_multi_version": false,
-      "last_updated": "2025-05-29T00:20:02.038097"
+      "last_updated": "2025-06-06T10:59:05.771289"
     }
   },
   "getResponse": {
@@ -1584,7 +1584,7 @@
         1.0
       ],
       "is_multi_version": false,
-      "last_updated": "2025-05-29T00:20:02.397090"
+      "last_updated": "2025-06-06T10:59:06.143891"
     }
   },
   "getResponseTrigger": {
@@ -1596,7 +1596,7 @@
         1.0
       ],
       "is_multi_version": false,
-      "last_updated": "2025-05-29T00:20:02.837561"
+      "last_updated": "2025-06-06T10:59:06.506075"
     }
   },
   "ghost": {
@@ -1608,7 +1608,7 @@
         1.0
       ],
       "is_multi_version": false,
-      "last_updated": "2025-05-29T00:20:03.263624"
+      "last_updated": "2025-06-06T10:59:06.909604"
     }
   },
   "git": {
@@ -1620,7 +1620,7 @@
         1.0
       ],
       "is_multi_version": false,
-      "last_updated": "2025-05-29T00:20:03.648308"
+      "last_updated": "2025-06-06T10:59:07.309364"
     }
   },
   "github": {
@@ -1633,7 +1633,7 @@
         1.1
       ],
       "is_multi_version": true,
-      "last_updated": "2025-05-29T00:20:04.065710"
+      "last_updated": "2025-06-06T10:59:07.756319"
     }
   },
   "githubTrigger": {
@@ -1645,7 +1645,7 @@
         1.0
       ],
       "is_multi_version": false,
-      "last_updated": "2025-05-29T00:20:04.487758"
+      "last_updated": "2025-06-06T10:59:08.118437"
     }
   },
   "gitlab": {
@@ -1657,7 +1657,7 @@
         1.0
       ],
       "is_multi_version": false,
-      "last_updated": "2025-05-29T00:20:04.983466"
+      "last_updated": "2025-06-06T10:59:08.525318"
     }
   },
   "Comment": {
@@ -1669,7 +1669,7 @@
         1.0
       ],
       "is_multi_version": false,
-      "last_updated": "2025-05-29T00:20:05.453864"
+      "last_updated": "2025-06-06T10:59:08.933061"
     }
   },
   "goToWebinar": {
@@ -1681,7 +1681,7 @@
         1.0
       ],
       "is_multi_version": false,
-      "last_updated": "2025-05-29T00:20:05.862038"
+      "last_updated": "2025-06-06T10:59:09.477102"
     }
   },
   "gong": {
@@ -1693,7 +1693,7 @@
         1.0
       ],
       "is_multi_version": false,
-      "last_updated": "2025-05-29T00:20:06.237864"
+      "last_updated": "2025-06-06T10:59:09.812657"
     }
   },
   "googleAds": {
@@ -1705,7 +1705,7 @@
         1.0
       ],
       "is_multi_version": false,
-      "last_updated": "2025-05-29T00:20:06.566608"
+      "last_updated": "2025-06-06T10:59:10.182834"
     }
   },
   "googleAnalytics": {
@@ -1717,7 +1717,7 @@
         1.0
       ],
       "is_multi_version": false,
-      "last_updated": "2025-05-29T00:20:07.349511"
+      "last_updated": "2025-06-06T10:59:10.959739"
     }
   },
   "googleBigQuery": {
@@ -1729,7 +1729,7 @@
         1.0
       ],
       "is_multi_version": false,
-      "last_updated": "2025-05-29T00:20:08.554176"
+      "last_updated": "2025-06-06T10:59:12.048815"
     }
   },
   "googleBooks": {
@@ -1742,7 +1742,7 @@
         2.0
       ],
       "is_multi_version": true,
-      "last_updated": "2025-05-29T00:20:09.320240"
+      "last_updated": "2025-06-06T10:59:12.753921"
     }
   },
   "googleBusinessProfile": {
@@ -1754,7 +1754,7 @@
         1.0
       ],
       "is_multi_version": false,
-      "last_updated": "2025-05-29T00:20:09.688852"
+      "last_updated": "2025-06-06T10:59:13.203934"
     }
   },
   "googleBusinessProfileTrigger": {
@@ -1766,7 +1766,7 @@
         1.0
       ],
       "is_multi_version": false,
-      "last_updated": "2025-05-29T00:20:10.054766"
+      "last_updated": "2025-06-06T10:59:13.550427"
     }
   },
   "googleCalendar": {
@@ -1781,7 +1781,7 @@
         1.3
       ],
       "is_multi_version": true,
-      "last_updated": "2025-05-29T00:20:10.448752"
+      "last_updated": "2025-06-06T10:59:13.988576"
     }
   },
   "googleCalendarTrigger": {
@@ -1793,7 +1793,7 @@
         1.0
       ],
       "is_multi_version": false,
-      "last_updated": "2025-05-29T00:20:10.851685"
+      "last_updated": "2025-06-06T10:59:14.348375"
     }
   },
   "googleChat": {
@@ -1805,7 +1805,7 @@
         1.0
       ],
       "is_multi_version": false,
-      "last_updated": "2025-05-29T00:20:11.213503"
+      "last_updated": "2025-06-06T10:59:14.705759"
     }
   },
   "googleCloudNaturalLanguage": {
@@ -1817,7 +1817,7 @@
         1.0
       ],
       "is_multi_version": false,
-      "last_updated": "2025-05-29T00:20:11.555860"
+      "last_updated": "2025-06-06T10:59:15.070213"
     }
   },
   "googleCloudStorage": {
@@ -1829,7 +1829,7 @@
         1.0
       ],
       "is_multi_version": false,
-      "last_updated": "2025-05-29T00:20:11.890715"
+      "last_updated": "2025-06-06T10:59:15.444540"
     }
   },
   "googleContacts": {
@@ -1841,7 +1841,7 @@
         1.0
       ],
       "is_multi_version": false,
-      "last_updated": "2025-05-29T00:20:12.308594"
+      "last_updated": "2025-06-06T10:59:15.859468"
     }
   },
   "googleDocs": {
@@ -1854,7 +1854,7 @@
         2.0
       ],
       "is_multi_version": true,
-      "last_updated": "2025-05-29T00:20:12.665669"
+      "last_updated": "2025-06-06T10:59:16.252404"
     }
   },
   "googleDrive": {
@@ -1867,7 +1867,7 @@
         2.0
       ],
       "is_multi_version": true,
-      "last_updated": "2025-05-29T00:20:13.856853"
+      "last_updated": "2025-06-06T10:59:17.393376"
     }
   },
   "googleDriveTrigger": {
@@ -1879,7 +1879,7 @@
         1.0
       ],
       "is_multi_version": false,
-      "last_updated": "2025-05-29T00:20:13.406905"
+      "last_updated": "2025-06-06T10:59:16.971916"
     }
   },
   "googleFirebaseCloudFirestore": {
@@ -1892,7 +1892,7 @@
         1.1
       ],
       "is_multi_version": true,
-      "last_updated": "2025-05-29T00:20:14.625422"
+      "last_updated": "2025-06-06T10:59:18.172124"
     }
   },
   "googleFirebaseRealtimeDatabase": {
@@ -1904,7 +1904,7 @@
         1.0
       ],
       "is_multi_version": false,
-      "last_updated": "2025-05-29T00:20:14.972479"
+      "last_updated": "2025-06-06T10:59:18.527214"
     }
   },
   "gSuiteAdmin": {
@@ -1916,7 +1916,7 @@
         1.0
       ],
       "is_multi_version": false,
-      "last_updated": "2025-05-29T00:20:15.357190"
+      "last_updated": "2025-06-06T10:59:18.918965"
     }
   },
   "gmail": {
@@ -1929,7 +1929,7 @@
         2.1
       ],
       "is_multi_version": true,
-      "last_updated": "2025-05-29T00:20:16.899068"
+      "last_updated": "2025-06-06T10:59:20.364474"
     }
   },
   "gmailTrigger": {
@@ -1943,7 +1943,7 @@
         1.2
       ],
       "is_multi_version": true,
-      "last_updated": "2025-05-29T00:20:16.123469"
+      "last_updated": "2025-06-06T10:59:19.624863"
     }
   },
   "googlePerspective": {
@@ -1955,7 +1955,7 @@
         1.0
       ],
       "is_multi_version": false,
-      "last_updated": "2025-05-29T00:20:17.265861"
+      "last_updated": "2025-06-06T10:59:20.741175"
     }
   },
   "googleSheets": {
@@ -1967,7 +1967,7 @@
         4.6
       ],
       "is_multi_version": false,
-      "last_updated": "2025-05-29T00:20:17.625185"
+      "last_updated": "2025-06-06T10:59:21.124720"
     }
   },
   "documentId": {
@@ -1979,7 +1979,7 @@
         1.0
       ],
       "is_multi_version": false,
-      "last_updated": "2025-05-29T00:20:18.071465"
+      "last_updated": "2025-06-06T10:59:21.544840"
     }
   },
   "googleSlides": {
@@ -1992,7 +1992,7 @@
         2.0
       ],
       "is_multi_version": true,
-      "last_updated": "2025-05-29T00:20:19.242985"
+      "last_updated": "2025-06-06T10:59:22.636282"
     }
   },
   "googleTasks": {
@@ -2004,7 +2004,7 @@
         1.0
       ],
       "is_multi_version": false,
-      "last_updated": "2025-05-29T00:20:19.617735"
+      "last_updated": "2025-06-06T10:59:23.024142"
     }
   },
   "googleTranslate": {
@@ -2017,7 +2017,7 @@
         2.0
       ],
       "is_multi_version": true,
-      "last_updated": "2025-05-29T00:20:19.981118"
+      "last_updated": "2025-06-06T10:59:23.378919"
     }
   },
   "youTube": {
@@ -2029,7 +2029,7 @@
         1.0
       ],
       "is_multi_version": false,
-      "last_updated": "2025-05-29T00:20:20.443274"
+      "last_updated": "2025-06-06T10:59:23.856564"
     }
   },
   "gotify": {
@@ -2041,7 +2041,7 @@
         1.0
       ],
       "is_multi_version": false,
-      "last_updated": "2025-05-29T00:20:20.792910"
+      "last_updated": "2025-06-06T10:59:24.300122"
     }
   },
   "grafana": {
@@ -2053,7 +2053,7 @@
         1.0
       ],
       "is_multi_version": false,
-      "last_updated": "2025-05-29T00:20:21.210267"
+      "last_updated": "2025-06-06T10:59:24.705969"
     }
   },
   "graphql": {
@@ -2066,7 +2066,7 @@
         1.1
       ],
       "is_multi_version": true,
-      "last_updated": "2025-05-29T00:20:21.628810"
+      "last_updated": "2025-06-06T10:59:25.082491"
     }
   },
   "grist": {
@@ -2078,7 +2078,7 @@
         1.0
       ],
       "is_multi_version": false,
-      "last_updated": "2025-05-29T00:20:22.029545"
+      "last_updated": "2025-06-06T10:59:25.520394"
     }
   },
   "gumroadTrigger": {
@@ -2090,7 +2090,7 @@
         1.0
       ],
       "is_multi_version": false,
-      "last_updated": "2025-05-29T00:20:22.414487"
+      "last_updated": "2025-06-06T10:59:25.876707"
     }
   },
   "hackerNews": {
@@ -2102,7 +2102,7 @@
         1.0
       ],
       "is_multi_version": false,
-      "last_updated": "2025-05-29T00:20:22.861703"
+      "last_updated": "2025-06-06T10:59:26.302250"
     }
   },
   "haloPSA": {
@@ -2114,7 +2114,7 @@
         1.0
       ],
       "is_multi_version": false,
-      "last_updated": "2025-05-29T00:20:23.223191"
+      "last_updated": "2025-06-06T10:59:26.685161"
     }
   },
   "harvest": {
@@ -2126,7 +2126,7 @@
         1.0
       ],
       "is_multi_version": false,
-      "last_updated": "2025-05-29T00:20:23.643355"
+      "last_updated": "2025-06-06T10:59:27.090298"
     }
   },
   "helpScout": {
@@ -2138,7 +2138,7 @@
         1.0
       ],
       "is_multi_version": false,
-      "last_updated": "2025-05-29T00:20:23.997756"
+      "last_updated": "2025-06-06T10:59:27.462945"
     }
   },
   "helpScoutTrigger": {
@@ -2150,7 +2150,7 @@
         1.0
       ],
       "is_multi_version": false,
-      "last_updated": "2025-05-29T00:20:24.340832"
+      "last_updated": "2025-06-06T10:59:27.834905"
     }
   },
   "highLevel": {
@@ -2162,7 +2162,7 @@
         2.0
       ],
       "is_multi_version": false,
-      "last_updated": "2025-05-29T00:20:24.708383"
+      "last_updated": "2025-06-06T10:59:28.181816"
     }
   },
   "resource": {
@@ -2174,7 +2174,7 @@
         2.0
       ],
       "is_multi_version": false,
-      "last_updated": "2025-05-29T00:20:25.466407"
+      "last_updated": "2025-06-06T10:59:28.935947"
     }
   },
   "homeAssistant": {
@@ -2186,7 +2186,7 @@
         1.0
       ],
       "is_multi_version": false,
-      "last_updated": "2025-05-29T00:20:25.873345"
+      "last_updated": "2025-06-06T10:59:29.296255"
     }
   },
   "extractionValues": {
@@ -2200,7 +2200,7 @@
         1.2
       ],
       "is_multi_version": true,
-      "last_updated": "2025-05-29T00:20:26.252785"
+      "last_updated": "2025-06-06T10:59:29.669310"
     }
   },
   "htmlExtract": {
@@ -2212,7 +2212,7 @@
         1.0
       ],
       "is_multi_version": false,
-      "last_updated": "2025-05-29T00:20:26.654804"
+      "last_updated": "2025-06-06T10:59:30.078339"
     }
   },
   "httpRequest": {
@@ -2224,7 +2224,7 @@
         4.2
       ],
       "is_multi_version": false,
-      "last_updated": "2025-05-29T00:20:27.014974"
+      "last_updated": "2025-06-06T10:59:30.438863"
     }
   },
   "HTTP Request": {
@@ -2239,7 +2239,7 @@
         4.2
       ],
       "is_multi_version": true,
-      "last_updated": "2025-05-29T00:20:28.222059"
+      "last_updated": "2025-06-06T10:59:31.785979"
     }
   },
   "hubspot": {
@@ -2251,7 +2251,7 @@
         2.1
       ],
       "is_multi_version": false,
-      "last_updated": "2025-05-29T00:20:28.616797"
+      "last_updated": "2025-06-06T10:59:32.158271"
     }
   },
   "hubspotTrigger": {
@@ -2263,7 +2263,7 @@
         1.0
       ],
       "is_multi_version": false,
-      "last_updated": "2025-05-29T00:20:28.959144"
+      "last_updated": "2025-06-06T10:59:32.516743"
     }
   },
   "HubSpot": {
@@ -2276,7 +2276,7 @@
         2.1
       ],
       "is_multi_version": true,
-      "last_updated": "2025-05-29T00:20:29.872486"
+      "last_updated": "2025-06-06T10:59:33.400274"
     }
   },
   "humanticAi": {
@@ -2288,7 +2288,7 @@
         1.0
       ],
       "is_multi_version": false,
-      "last_updated": "2025-05-29T00:20:30.251580"
+      "last_updated": "2025-06-06T10:59:33.810458"
     }
   },
   "hunter": {
@@ -2300,7 +2300,7 @@
         1.0
       ],
       "is_multi_version": false,
-      "last_updated": "2025-05-29T00:20:30.654447"
+      "last_updated": "2025-06-06T10:59:34.193408"
     }
   },
   "iCal": {
@@ -2312,7 +2312,7 @@
         1.0
       ],
       "is_multi_version": false,
-      "last_updated": "2025-05-29T00:20:31.033281"
+      "last_updated": "2025-06-06T10:59:34.568774"
     }
   },
   "if": {
@@ -2324,7 +2324,7 @@
         2.2
       ],
       "is_multi_version": false,
-      "last_updated": "2025-05-29T00:20:31.373503"
+      "last_updated": "2025-06-06T10:59:34.955300"
     }
   },
   "If": {
@@ -2338,7 +2338,7 @@
         2.2
       ],
       "is_multi_version": true,
-      "last_updated": "2025-05-29T00:20:32.217956"
+      "last_updated": "2025-06-06T10:59:35.818718"
     }
   },
   "intercom": {
@@ -2350,7 +2350,7 @@
         1.0
       ],
       "is_multi_version": false,
-      "last_updated": "2025-05-29T00:20:32.618305"
+      "last_updated": "2025-06-06T10:59:36.198367"
     }
   },
   "interval": {
@@ -2362,7 +2362,7 @@
         1.0
       ],
       "is_multi_version": false,
-      "last_updated": "2025-05-29T00:20:32.999244"
+      "last_updated": "2025-06-06T10:59:36.576461"
     }
   },
   "invoiceNinja": {
@@ -2375,7 +2375,7 @@
         2.0
       ],
       "is_multi_version": true,
-      "last_updated": "2025-05-29T00:20:33.423946"
+      "last_updated": "2025-06-06T10:59:36.991986"
     }
   },
   "invoiceNinjaTrigger": {
@@ -2388,7 +2388,7 @@
         2.0
       ],
       "is_multi_version": true,
-      "last_updated": "2025-05-29T00:20:33.773558"
+      "last_updated": "2025-06-06T10:59:37.326617"
     }
   },
   "itemLists": {
@@ -2400,7 +2400,7 @@
         3.1
       ],
       "is_multi_version": false,
-      "last_updated": "2025-05-29T00:20:34.204395"
+      "last_updated": "2025-06-06T10:59:38.038917"
     }
   },
   "Item Lists": {
@@ -2414,7 +2414,7 @@
         2.2
       ],
       "is_multi_version": true,
-      "last_updated": "2025-05-29T00:20:35.150203"
+      "last_updated": "2025-06-06T10:59:38.908639"
     }
   },
   "iterable": {
@@ -2426,7 +2426,7 @@
         1.0
       ],
       "is_multi_version": false,
-      "last_updated": "2025-05-29T00:20:36.049496"
+      "last_updated": "2025-06-06T10:59:39.634837"
     }
   },
   "jenkins": {
@@ -2438,7 +2438,7 @@
         1.0
       ],
       "is_multi_version": false,
-      "last_updated": "2025-05-29T00:20:36.419428"
+      "last_updated": "2025-06-06T10:59:40.015450"
     }
   },
   "jinaAi": {
@@ -2450,7 +2450,7 @@
         1.0
       ],
       "is_multi_version": false,
-      "last_updated": "2025-05-29T00:20:36.823571"
+      "last_updated": "2025-06-06T10:59:40.380403"
     }
   },
   "jira": {
@@ -2462,7 +2462,7 @@
         1.0
       ],
       "is_multi_version": false,
-      "last_updated": "2025-05-29T00:20:37.290991"
+      "last_updated": "2025-06-06T10:59:40.798057"
     }
   },
   "jiraTrigger": {
@@ -2475,7 +2475,7 @@
         1.1
       ],
       "is_multi_version": true,
-      "last_updated": "2025-05-29T00:20:37.676461"
+      "last_updated": "2025-06-06T10:59:41.225315"
     }
   },
   "jotFormTrigger": {
@@ -2487,7 +2487,7 @@
         1.0
       ],
       "is_multi_version": false,
-      "last_updated": "2025-05-29T00:20:38.048743"
+      "last_updated": "2025-06-06T10:59:41.597261"
     }
   },
   "jwt": {
@@ -2499,7 +2499,7 @@
         1.0
       ],
       "is_multi_version": false,
-      "last_updated": "2025-05-29T00:20:38.439507"
+      "last_updated": "2025-06-06T10:59:41.990307"
     }
   },
   "kafka": {
@@ -2511,7 +2511,7 @@
         1.0
       ],
       "is_multi_version": false,
-      "last_updated": "2025-05-29T00:20:38.813479"
+      "last_updated": "2025-06-06T10:59:42.351688"
     }
   },
   "kafkaTrigger": {
@@ -2524,7 +2524,7 @@
         1.1
       ],
       "is_multi_version": true,
-      "last_updated": "2025-05-29T00:20:39.250301"
+      "last_updated": "2025-06-06T10:59:42.734207"
     }
   },
   "keap": {
@@ -2536,7 +2536,7 @@
         1.0
       ],
       "is_multi_version": false,
-      "last_updated": "2025-05-29T00:20:39.607603"
+      "last_updated": "2025-06-06T10:59:43.079595"
     }
   },
   "keapTrigger": {
@@ -2548,7 +2548,7 @@
         1.0
       ],
       "is_multi_version": false,
-      "last_updated": "2025-05-29T00:20:39.973775"
+      "last_updated": "2025-06-06T10:59:43.542159"
     }
   },
   "kitemaker": {
@@ -2560,7 +2560,7 @@
         1.0
       ],
       "is_multi_version": false,
-      "last_updated": "2025-05-29T00:20:40.386347"
+      "last_updated": "2025-06-06T10:59:43.966627"
     }
   },
   "koBoToolbox": {
@@ -2572,7 +2572,7 @@
         1.0
       ],
       "is_multi_version": false,
-      "last_updated": "2025-05-29T00:20:40.738992"
+      "last_updated": "2025-06-06T10:59:44.320256"
     }
   },
   "koBoToolboxTrigger": {
@@ -2584,7 +2584,7 @@
         1.0
       ],
       "is_multi_version": false,
-      "last_updated": "2025-05-29T00:20:41.132787"
+      "last_updated": "2025-06-06T10:59:44.672999"
     }
   },
   "ldap": {
@@ -2596,7 +2596,7 @@
         1.0
       ],
       "is_multi_version": false,
-      "last_updated": "2025-05-29T00:20:41.578025"
+      "last_updated": "2025-06-06T10:59:45.034318"
     }
   },
   "lemlist": {
@@ -2608,7 +2608,7 @@
         2.0
       ],
       "is_multi_version": false,
-      "last_updated": "2025-05-29T00:20:43.043297"
+      "last_updated": "2025-06-06T10:59:46.481646"
     }
   },
   "lemlistTrigger": {
@@ -2620,7 +2620,7 @@
         1.0
       ],
       "is_multi_version": false,
-      "last_updated": "2025-05-29T00:20:42.333136"
+      "last_updated": "2025-06-06T10:59:45.748958"
     }
   },
   "line": {
@@ -2632,7 +2632,7 @@
         1.0
       ],
       "is_multi_version": false,
-      "last_updated": "2025-05-29T00:20:43.408670"
+      "last_updated": "2025-06-06T10:59:46.851029"
     }
   },
   "linear": {
@@ -2644,7 +2644,7 @@
         1.0
       ],
       "is_multi_version": false,
-      "last_updated": "2025-05-29T00:20:43.814171"
+      "last_updated": "2025-06-06T10:59:47.241997"
     }
   },
   "linearTrigger": {
@@ -2656,7 +2656,7 @@
         1.0
       ],
       "is_multi_version": false,
-      "last_updated": "2025-05-29T00:20:44.195452"
+      "last_updated": "2025-06-06T10:59:47.591813"
     }
   },
   "lingvaNex": {
@@ -2668,7 +2668,7 @@
         1.0
       ],
       "is_multi_version": false,
-      "last_updated": "2025-05-29T00:20:44.582370"
+      "last_updated": "2025-06-06T10:59:47.983609"
     }
   },
   "linkedIn": {
@@ -2680,7 +2680,7 @@
         1.0
       ],
       "is_multi_version": false,
-      "last_updated": "2025-05-29T00:20:44.958881"
+      "last_updated": "2025-06-06T10:59:48.373536"
     }
   },
   "localFileTrigger": {
@@ -2692,7 +2692,7 @@
         1.0
       ],
       "is_multi_version": false,
-      "last_updated": "2025-05-29T00:20:45.331833"
+      "last_updated": "2025-06-06T10:59:48.742950"
     }
   },
   "loneScale": {
@@ -2704,7 +2704,7 @@
         1.0
       ],
       "is_multi_version": false,
-      "last_updated": "2025-05-29T00:20:45.735921"
+      "last_updated": "2025-06-06T10:59:49.128794"
     }
   },
   "loneScaleTrigger": {
@@ -2716,7 +2716,7 @@
         1.0
       ],
       "is_multi_version": false,
-      "last_updated": "2025-05-29T00:20:46.113646"
+      "last_updated": "2025-06-06T10:59:49.498988"
     }
   },
   "mqtt": {
@@ -2728,7 +2728,7 @@
         1.0
       ],
       "is_multi_version": false,
-      "last_updated": "2025-05-29T00:20:46.515661"
+      "last_updated": "2025-06-06T10:59:49.877258"
     }
   },
   "mqttTrigger": {
@@ -2740,7 +2740,7 @@
         1.0
       ],
       "is_multi_version": false,
-      "last_updated": "2025-05-29T00:20:46.873154"
+      "last_updated": "2025-06-06T10:59:50.246632"
     }
   },
   "magento2": {
@@ -2752,7 +2752,7 @@
         1.0
       ],
       "is_multi_version": false,
-      "last_updated": "2025-05-29T00:20:47.282490"
+      "last_updated": "2025-06-06T10:59:50.600884"
     }
   },
   "mailcheck": {
@@ -2764,7 +2764,7 @@
         1.0
       ],
       "is_multi_version": false,
-      "last_updated": "2025-05-29T00:20:47.636812"
+      "last_updated": "2025-06-06T10:59:50.985655"
     }
   },
   "mailchimp": {
@@ -2776,7 +2776,7 @@
         1.0
       ],
       "is_multi_version": false,
-      "last_updated": "2025-05-29T00:20:48.064103"
+      "last_updated": "2025-06-06T10:59:51.377266"
     }
   },
   "mailchimpTrigger": {
@@ -2788,7 +2788,7 @@
         1.0
       ],
       "is_multi_version": false,
-      "last_updated": "2025-05-29T00:20:48.476691"
+      "last_updated": "2025-06-06T10:59:51.725012"
     }
   },
   "mailerLite": {
@@ -2800,7 +2800,7 @@
         2.0
       ],
       "is_multi_version": true,
-      "last_updated": "2025-05-29T00:20:50.848527"
+      "last_updated": "2025-06-06T10:59:54.041430"
     }
   },
   "mailerLiteTrigger": {
@@ -2812,7 +2812,7 @@
         2.0
       ],
       "is_multi_version": true,
-      "last_updated": "2025-05-29T00:20:50.492761"
+      "last_updated": "2025-06-06T10:59:53.627800"
     }
   },
   "mailgun": {
@@ -2824,7 +2824,7 @@
         1.0
       ],
       "is_multi_version": false,
-      "last_updated": "2025-05-29T00:20:51.240138"
+      "last_updated": "2025-06-06T10:59:54.380760"
     }
   },
   "mailjet": {
@@ -2836,7 +2836,7 @@
         1.0
       ],
       "is_multi_version": false,
-      "last_updated": "2025-05-29T00:20:51.602391"
+      "last_updated": "2025-06-06T10:59:54.767958"
     }
   },
   "mailjetTrigger": {
@@ -2848,7 +2848,7 @@
         1.0
       ],
       "is_multi_version": false,
-      "last_updated": "2025-05-29T00:20:52.023268"
+      "last_updated": "2025-06-06T10:59:55.131739"
     }
   },
   "mandrill": {
@@ -2860,7 +2860,7 @@
         1.0
       ],
       "is_multi_version": false,
-      "last_updated": "2025-05-29T00:20:52.547538"
+      "last_updated": "2025-06-06T10:59:55.562942"
     }
   },
   "manualTrigger": {
@@ -2872,7 +2872,7 @@
         1.0
       ],
       "is_multi_version": false,
-      "last_updated": "2025-05-29T00:20:52.967129"
+      "last_updated": "2025-06-06T10:59:55.938119"
     }
   },
   "markdown": {
@@ -2884,7 +2884,7 @@
         1.0
       ],
       "is_multi_version": false,
-      "last_updated": "2025-05-29T00:20:53.341536"
+      "last_updated": "2025-06-06T10:59:56.301951"
     }
   },
   "marketstack": {
@@ -2896,7 +2896,7 @@
         1.0
       ],
       "is_multi_version": false,
-      "last_updated": "2025-05-29T00:20:53.748277"
+      "last_updated": "2025-06-06T10:59:56.649535"
     }
   },
   "matrix": {
@@ -2908,7 +2908,7 @@
         1.0
       ],
       "is_multi_version": false,
-      "last_updated": "2025-05-29T00:20:54.088284"
+      "last_updated": "2025-06-06T10:59:57.009629"
     }
   },
   "mattermost": {
@@ -2920,7 +2920,7 @@
         1.0
       ],
       "is_multi_version": false,
-      "last_updated": "2025-05-29T00:20:54.473184"
+      "last_updated": "2025-06-06T10:59:57.372988"
     }
   },
   "mautic": {
@@ -2932,7 +2932,7 @@
         1.0
       ],
       "is_multi_version": false,
-      "last_updated": "2025-05-29T00:20:55.253867"
+      "last_updated": "2025-06-06T10:59:58.157657"
     }
   },
   "mauticTrigger": {
@@ -2944,7 +2944,7 @@
         1.0
       ],
       "is_multi_version": false,
-      "last_updated": "2025-05-29T00:20:55.641472"
+      "last_updated": "2025-06-06T10:59:58.515236"
     }
   },
   "medium": {
@@ -2956,7 +2956,7 @@
         1.0
       ],
       "is_multi_version": false,
-      "last_updated": "2025-05-29T00:20:56.036821"
+      "last_updated": "2025-06-06T10:59:58.915482"
     }
   },
   "merge": {
@@ -2968,7 +2968,7 @@
         3.2
       ],
       "is_multi_version": false,
-      "last_updated": "2025-05-29T00:20:56.435118"
+      "last_updated": "2025-06-06T10:59:59.267461"
     }
   },
   "Merge": {
@@ -2981,7 +2981,7 @@
         2.1
       ],
       "is_multi_version": true,
-      "last_updated": "2025-05-29T00:20:57.151590"
+      "last_updated": "2025-06-06T11:00:00.004480"
     }
   },
   "messageBird": {
@@ -2993,7 +2993,7 @@
         1.0
       ],
       "is_multi_version": false,
-      "last_updated": "2025-05-29T00:20:57.861613"
+      "last_updated": "2025-06-06T11:00:00.734479"
     }
   },
   "metabase": {
@@ -3005,7 +3005,7 @@
         1.0
       ],
       "is_multi_version": false,
-      "last_updated": "2025-05-29T00:20:58.234360"
+      "last_updated": "2025-06-06T11:00:01.160576"
     }
   },
   "azureCosmosDb": {
@@ -3017,7 +3017,7 @@
         1.0
       ],
       "is_multi_version": false,
-      "last_updated": "2025-05-29T00:20:58.601486"
+      "last_updated": "2025-06-06T11:00:01.632912"
     }
   },
   "microsoftDynamicsCrm": {
@@ -3029,7 +3029,7 @@
         1.0
       ],
       "is_multi_version": false,
-      "last_updated": "2025-05-29T00:20:58.995634"
+      "last_updated": "2025-06-06T11:00:02.039649"
     }
   },
   "microsoftEntra": {
@@ -3041,7 +3041,7 @@
         1.0
       ],
       "is_multi_version": false,
-      "last_updated": "2025-05-29T00:20:59.377714"
+      "last_updated": "2025-06-06T11:00:02.446504"
     }
   },
   "microsoftExcel": {
@@ -3053,7 +3053,7 @@
         1.0
       ],
       "is_multi_version": false,
-      "last_updated": "2025-05-29T00:21:00.129829"
+      "last_updated": "2025-06-06T11:00:03.303916"
     }
   },
   "microsoftGraphSecurity": {
@@ -3065,7 +3065,7 @@
         1.0
       ],
       "is_multi_version": false,
-      "last_updated": "2025-05-29T00:21:00.892433"
+      "last_updated": "2025-06-06T11:00:04.083283"
     }
   },
   "microsoftOneDrive": {
@@ -3077,7 +3077,7 @@
         1.0
       ],
       "is_multi_version": false,
-      "last_updated": "2025-05-29T00:21:01.291268"
+      "last_updated": "2025-06-06T11:00:04.464123"
     }
   },
   "microsoftOneDriveTrigger": {
@@ -3089,7 +3089,7 @@
         1.0
       ],
       "is_multi_version": false,
-      "last_updated": "2025-05-29T00:21:01.646442"
+      "last_updated": "2025-06-06T11:00:04.841071"
     }
   },
   "microsoftOutlook": {
@@ -3101,7 +3101,7 @@
         1.0
       ],
       "is_multi_version": false,
-      "last_updated": "2025-05-29T00:21:02.814017"
+      "last_updated": "2025-06-06T11:00:06.451592"
     }
   },
   "microsoftOutlookTrigger": {
@@ -3113,7 +3113,7 @@
         1.0
       ],
       "is_multi_version": false,
-      "last_updated": "2025-05-29T00:21:02.415518"
+      "last_updated": "2025-06-06T11:00:05.983005"
     }
   },
   "microsoftSharePoint": {
@@ -3125,7 +3125,7 @@
         1.0
       ],
       "is_multi_version": false,
-      "last_updated": "2025-05-29T00:21:03.541397"
+      "last_updated": "2025-06-06T11:00:07.221242"
     }
   },
   "microsoftSql": {
@@ -3138,7 +3138,7 @@
         1.1
       ],
       "is_multi_version": true,
-      "last_updated": "2025-05-29T00:21:03.936358"
+      "last_updated": "2025-06-06T11:00:07.615443"
     }
   },
   "azureStorage": {
@@ -3150,7 +3150,7 @@
         1.0
       ],
       "is_multi_version": false,
-      "last_updated": "2025-05-29T00:21:04.307510"
+      "last_updated": "2025-06-06T11:00:08.009700"
     }
   },
   "microsoftTeams": {
@@ -3163,7 +3163,7 @@
         1.1
       ],
       "is_multi_version": true,
-      "last_updated": "2025-05-29T00:21:05.515183"
+      "last_updated": "2025-06-06T11:00:09.145478"
     }
   },
   "microsoftTeamsTrigger": {
@@ -3175,7 +3175,7 @@
         1.0
       ],
       "is_multi_version": false,
-      "last_updated": "2025-05-29T00:21:05.172797"
+      "last_updated": "2025-06-06T11:00:08.765382"
     }
   },
   "microsoftToDo": {
@@ -3187,7 +3187,7 @@
         1.0
       ],
       "is_multi_version": false,
-      "last_updated": "2025-05-29T00:21:06.274910"
+      "last_updated": "2025-06-06T11:00:09.919532"
     }
   },
   "mindee": {
@@ -3201,7 +3201,7 @@
         3.0
       ],
       "is_multi_version": true,
-      "last_updated": "2025-05-29T00:21:06.693231"
+      "last_updated": "2025-06-06T11:00:10.346635"
     }
   },
   "misp": {
@@ -3213,7 +3213,7 @@
         1.0
       ],
       "is_multi_version": false,
-      "last_updated": "2025-05-29T00:21:07.075525"
+      "last_updated": "2025-06-06T11:00:10.743576"
     }
   },
   "mocean": {
@@ -3225,7 +3225,7 @@
         1.0
       ],
       "is_multi_version": false,
-      "last_updated": "2025-05-29T00:21:07.472497"
+      "last_updated": "2025-06-06T11:00:11.122259"
     }
   },
   "mondayCom": {
@@ -3237,7 +3237,7 @@
         1.0
       ],
       "is_multi_version": false,
-      "last_updated": "2025-05-29T00:21:07.905640"
+      "last_updated": "2025-06-06T11:00:11.489429"
     }
   },
   "mongoDb": {
@@ -3251,7 +3251,7 @@
         1.2
       ],
       "is_multi_version": true,
-      "last_updated": "2025-05-29T00:21:08.300626"
+      "last_updated": "2025-06-06T11:00:11.884384"
     }
   },
   "monicaCrm": {
@@ -3263,7 +3263,7 @@
         1.0
       ],
       "is_multi_version": false,
-      "last_updated": "2025-05-29T00:21:08.748355"
+      "last_updated": "2025-06-06T11:00:12.288946"
     }
   },
   "moveBinaryData": {
@@ -3276,7 +3276,7 @@
         1.1
       ],
       "is_multi_version": true,
-      "last_updated": "2025-05-29T00:21:09.146651"
+      "last_updated": "2025-06-06T11:00:12.687639"
     }
   },
   "msg91": {
@@ -3288,7 +3288,7 @@
         1.0
       ],
       "is_multi_version": false,
-      "last_updated": "2025-05-29T00:21:09.582019"
+      "last_updated": "2025-06-06T11:00:13.054916"
     }
   },
   "mySql": {
@@ -3300,7 +3300,7 @@
         1.0
       ],
       "is_multi_version": false,
-      "last_updated": "2025-05-29T00:21:10.378170"
+      "last_updated": "2025-06-06T11:00:13.826604"
     }
   },
   "n8n": {
@@ -3312,7 +3312,7 @@
         1.0
       ],
       "is_multi_version": false,
-      "last_updated": "2025-05-29T00:21:11.150435"
+      "last_updated": "2025-06-06T11:00:14.605828"
     }
   },
   "Jay Gatsby": {
@@ -3324,7 +3324,7 @@
         1.0
       ],
       "is_multi_version": false,
-      "last_updated": "2025-05-29T00:21:11.552372"
+      "last_updated": "2025-06-06T11:00:15.002394"
     }
   },
   "n8nTrainingCustomerMessenger": {
@@ -3336,7 +3336,7 @@
         1.0
       ],
       "is_multi_version": false,
-      "last_updated": "2025-05-29T00:21:11.929671"
+      "last_updated": "2025-06-06T11:00:15.398048"
     }
   },
   "n8nTrigger": {
@@ -3348,7 +3348,7 @@
         1.0
       ],
       "is_multi_version": false,
-      "last_updated": "2025-05-29T00:21:12.318163"
+      "last_updated": "2025-06-06T11:00:15.751353"
     }
   },
   "nasa": {
@@ -3360,7 +3360,7 @@
         1.0
       ],
       "is_multi_version": false,
-      "last_updated": "2025-05-29T00:21:12.761553"
+      "last_updated": "2025-06-06T11:00:16.144162"
     }
   },
   "netlify": {
@@ -3372,7 +3372,7 @@
         1.0
       ],
       "is_multi_version": false,
-      "last_updated": "2025-05-29T00:21:13.204195"
+      "last_updated": "2025-06-06T11:00:16.529307"
     }
   },
   "netlifyTrigger": {
@@ -3384,7 +3384,7 @@
         1.0
       ],
       "is_multi_version": false,
-      "last_updated": "2025-05-29T00:21:13.573256"
+      "last_updated": "2025-06-06T11:00:16.920449"
     }
   },
   "citrixAdc": {
@@ -3396,7 +3396,7 @@
         1.0
       ],
       "is_multi_version": false,
-      "last_updated": "2025-05-29T00:21:14.013402"
+      "last_updated": "2025-06-06T11:00:17.318981"
     }
   },
   "nextCloud": {
@@ -3408,7 +3408,7 @@
         1.0
       ],
       "is_multi_version": false,
-      "last_updated": "2025-05-29T00:21:14.437460"
+      "last_updated": "2025-06-06T11:00:17.727977"
     }
   },
   "noOp": {
@@ -3420,7 +3420,7 @@
         1.0
       ],
       "is_multi_version": false,
-      "last_updated": "2025-05-29T00:21:14.834677"
+      "last_updated": "2025-06-06T11:00:18.125536"
     }
   },
   "nocoDb": {
@@ -3434,7 +3434,7 @@
         3.0
       ],
       "is_multi_version": true,
-      "last_updated": "2025-05-29T00:21:15.209432"
+      "last_updated": "2025-06-06T11:00:18.484075"
     }
   },
   "notion": {
@@ -3446,7 +3446,7 @@
         2.2
       ],
       "is_multi_version": false,
-      "last_updated": "2025-05-29T00:21:15.587787"
+      "last_updated": "2025-06-06T11:00:18.907604"
     }
   },
   "notionTrigger": {
@@ -3458,7 +3458,7 @@
         1.0
       ],
       "is_multi_version": false,
-      "last_updated": "2025-05-29T00:21:15.982960"
+      "last_updated": "2025-06-06T11:00:19.246096"
     }
   },
   "npm": {
@@ -3470,7 +3470,7 @@
         1.0
       ],
       "is_multi_version": false,
-      "last_updated": "2025-05-29T00:21:17.066717"
+      "last_updated": "2025-06-06T11:00:20.350257"
     }
   },
   "odoo": {
@@ -3482,7 +3482,7 @@
         1.0
       ],
       "is_multi_version": false,
-      "last_updated": "2025-05-29T00:21:17.442541"
+      "last_updated": "2025-06-06T11:00:20.718400"
     }
   },
   "okta": {
@@ -3494,7 +3494,7 @@
         1.0
       ],
       "is_multi_version": false,
-      "last_updated": "2025-05-29T00:21:17.812099"
+      "last_updated": "2025-06-06T11:00:21.097612"
     }
   },
   "oneSimpleApi": {
@@ -3506,7 +3506,7 @@
         1.0
       ],
       "is_multi_version": false,
-      "last_updated": "2025-05-29T00:21:18.207983"
+      "last_updated": "2025-06-06T11:00:21.481467"
     }
   },
   "onfleet": {
@@ -3518,7 +3518,7 @@
         1.0
       ],
       "is_multi_version": false,
-      "last_updated": "2025-05-29T00:21:18.569966"
+      "last_updated": "2025-06-06T11:00:21.847431"
     }
   },
   "onfleetTrigger": {
@@ -3530,7 +3530,7 @@
         1.0
       ],
       "is_multi_version": false,
-      "last_updated": "2025-05-29T00:21:18.970009"
+      "last_updated": "2025-06-06T11:00:22.222981"
     }
   },
   "openAi": {
@@ -3543,7 +3543,7 @@
         1.1
       ],
       "is_multi_version": true,
-      "last_updated": "2025-05-29T00:21:19.346287"
+      "last_updated": "2025-06-06T11:00:22.593619"
     }
   },
   "openThesaurus": {
@@ -3555,7 +3555,7 @@
         1.0
       ],
       "is_multi_version": false,
-      "last_updated": "2025-05-29T00:21:19.711092"
+      "last_updated": "2025-06-06T11:00:23.373507"
     }
   },
   "openWeatherMap": {
@@ -3567,7 +3567,7 @@
         1.0
       ],
       "is_multi_version": false,
-      "last_updated": "2025-05-29T00:21:20.080335"
+      "last_updated": "2025-06-06T11:00:23.764631"
     }
   },
   "orbit": {
@@ -3579,7 +3579,7 @@
         1.0
       ],
       "is_multi_version": false,
-      "last_updated": "2025-05-29T00:21:20.458343"
+      "last_updated": "2025-06-06T11:00:24.124915"
     }
   },
   "oura": {
@@ -3591,7 +3591,7 @@
         1.0
       ],
       "is_multi_version": false,
-      "last_updated": "2025-05-29T00:21:20.846238"
+      "last_updated": "2025-06-06T11:00:24.499000"
     }
   },
   "paddle": {
@@ -3603,7 +3603,7 @@
         1.0
       ],
       "is_multi_version": false,
-      "last_updated": "2025-05-29T00:21:21.243519"
+      "last_updated": "2025-06-06T11:00:24.850017"
     }
   },
   "pagerDuty": {
@@ -3615,7 +3615,7 @@
         1.0
       ],
       "is_multi_version": false,
-      "last_updated": "2025-05-29T00:21:21.619267"
+      "last_updated": "2025-06-06T11:00:25.230882"
     }
   },
   "payPal": {
@@ -3627,7 +3627,7 @@
         1.0
       ],
       "is_multi_version": false,
-      "last_updated": "2025-05-29T00:21:21.998333"
+      "last_updated": "2025-06-06T11:00:25.599245"
     }
   },
   "payPalTrigger": {
@@ -3639,7 +3639,7 @@
         1.0
       ],
       "is_multi_version": false,
-      "last_updated": "2025-05-29T00:21:22.408240"
+      "last_updated": "2025-06-06T11:00:25.958125"
     }
   },
   "peekalink": {
@@ -3651,7 +3651,19 @@
         1.0
       ],
       "is_multi_version": false,
-      "last_updated": "2025-05-29T00:21:22.810109"
+      "last_updated": "2025-06-06T11:00:26.329226"
+    }
+  },
+  "perplexity": {
+    "path": "packages/nodes-base/nodes/Perplexity/Perplexity.node.ts",
+    "name": "Perplexity",
+    "version_info": {
+      "latest_version": 1.0,
+      "all_versions": [
+        1.0
+      ],
+      "is_multi_version": false,
+      "last_updated": "2025-06-06T11:00:26.668005"
     }
   },
   "phantombuster": {
@@ -3663,7 +3675,7 @@
         1.0
       ],
       "is_multi_version": false,
-      "last_updated": "2025-05-29T00:21:23.170650"
+      "last_updated": "2025-06-06T11:00:27.033970"
     }
   },
   "philipsHue": {
@@ -3675,7 +3687,7 @@
         1.0
       ],
       "is_multi_version": false,
-      "last_updated": "2025-05-29T00:21:23.582461"
+      "last_updated": "2025-06-06T11:00:27.391624"
     }
   },
   "pipedrive": {
@@ -3687,7 +3699,7 @@
         1.0
       ],
       "is_multi_version": false,
-      "last_updated": "2025-05-29T00:21:24.037607"
+      "last_updated": "2025-06-06T11:00:27.879100"
     }
   },
   "Activity": {
@@ -3699,7 +3711,7 @@
         1.1
       ],
       "is_multi_version": false,
-      "last_updated": "2025-05-29T00:21:24.424280"
+      "last_updated": "2025-06-06T11:00:28.229864"
     }
   },
   "plivo": {
@@ -3711,7 +3723,7 @@
         1.0
       ],
       "is_multi_version": false,
-      "last_updated": "2025-05-29T00:21:24.761672"
+      "last_updated": "2025-06-06T11:00:28.597229"
     }
   },
   "postBin": {
@@ -3723,7 +3735,7 @@
         1.0
       ],
       "is_multi_version": false,
-      "last_updated": "2025-05-29T00:21:25.202840"
+      "last_updated": "2025-06-06T11:00:29.048134"
     }
   },
   "postHog": {
@@ -3735,7 +3747,7 @@
         1.0
       ],
       "is_multi_version": false,
-      "last_updated": "2025-05-29T00:21:25.555708"
+      "last_updated": "2025-06-06T11:00:29.382731"
     }
   },
   "postgres": {
@@ -3747,7 +3759,7 @@
         1.0
       ],
       "is_multi_version": false,
-      "last_updated": "2025-05-29T00:21:26.702562"
+      "last_updated": "2025-06-06T11:00:30.501987"
     }
   },
   "postgresTrigger": {
@@ -3759,7 +3771,7 @@
         1.0
       ],
       "is_multi_version": false,
-      "last_updated": "2025-05-29T00:21:26.360308"
+      "last_updated": "2025-06-06T11:00:30.122152"
     }
   },
   "postmarkTrigger": {
@@ -3771,7 +3783,7 @@
         1.0
       ],
       "is_multi_version": false,
-      "last_updated": "2025-05-29T00:21:27.725061"
+      "last_updated": "2025-06-06T11:00:31.239624"
     }
   },
   "profitWell": {
@@ -3783,7 +3795,7 @@
         1.0
       ],
       "is_multi_version": false,
-      "last_updated": "2025-05-29T00:21:28.133888"
+      "last_updated": "2025-06-06T11:00:31.632530"
     }
   },
   "pushbullet": {
@@ -3795,7 +3807,7 @@
         1.0
       ],
       "is_multi_version": false,
-      "last_updated": "2025-05-29T00:21:28.504768"
+      "last_updated": "2025-06-06T11:00:32.042989"
     }
   },
   "pushcut": {
@@ -3807,7 +3819,7 @@
         1.0
       ],
       "is_multi_version": false,
-      "last_updated": "2025-05-29T00:21:28.890107"
+      "last_updated": "2025-06-06T11:00:32.404643"
     }
   },
   "pushcutTrigger": {
@@ -3819,7 +3831,7 @@
         1.0
       ],
       "is_multi_version": false,
-      "last_updated": "2025-05-29T00:21:29.254276"
+      "last_updated": "2025-06-06T11:00:32.764512"
     }
   },
   "pushover": {
@@ -3831,7 +3843,7 @@
         1.0
       ],
       "is_multi_version": false,
-      "last_updated": "2025-05-29T00:21:29.643166"
+      "last_updated": "2025-06-06T11:00:33.144492"
     }
   },
   "questDb": {
@@ -3843,7 +3855,7 @@
         1.0
       ],
       "is_multi_version": false,
-      "last_updated": "2025-05-29T00:21:30.035198"
+      "last_updated": "2025-06-06T11:00:33.564779"
     }
   },
   "quickbase": {
@@ -3855,7 +3867,7 @@
         1.0
       ],
       "is_multi_version": false,
-      "last_updated": "2025-05-29T00:21:30.388047"
+      "last_updated": "2025-06-06T11:00:33.920002"
     }
   },
   "quickbooks": {
@@ -3867,7 +3879,7 @@
         1.0
       ],
       "is_multi_version": false,
-      "last_updated": "2025-05-29T00:21:30.782036"
+      "last_updated": "2025-06-06T11:00:34.309061"
     }
   },
   "quickChart": {
@@ -3879,7 +3891,7 @@
         1.0
       ],
       "is_multi_version": false,
-      "last_updated": "2025-05-29T00:21:31.171745"
+      "last_updated": "2025-06-06T11:00:34.701671"
     }
   },
   "rabbitmq": {
@@ -3892,7 +3904,7 @@
         1.1
       ],
       "is_multi_version": true,
-      "last_updated": "2025-05-29T00:21:31.536514"
+      "last_updated": "2025-06-06T11:00:35.112790"
     }
   },
   "rabbitmqTrigger": {
@@ -3904,7 +3916,7 @@
         1.0
       ],
       "is_multi_version": false,
-      "last_updated": "2025-05-29T00:21:31.915531"
+      "last_updated": "2025-06-06T11:00:35.505866"
     }
   },
   "raindrop": {
@@ -3916,7 +3928,7 @@
         1.0
       ],
       "is_multi_version": false,
-      "last_updated": "2025-05-29T00:21:32.347276"
+      "last_updated": "2025-06-06T11:00:35.891295"
     }
   },
   "readBinaryFile": {
@@ -3928,7 +3940,7 @@
         1.0
       ],
       "is_multi_version": false,
-      "last_updated": "2025-05-29T00:21:32.739805"
+      "last_updated": "2025-06-06T11:00:36.252757"
     }
   },
   "readBinaryFiles": {
@@ -3940,7 +3952,7 @@
         1.0
       ],
       "is_multi_version": false,
-      "last_updated": "2025-05-29T00:21:33.127548"
+      "last_updated": "2025-06-06T11:00:36.630850"
     }
   },
   "readPDF": {
@@ -3952,7 +3964,7 @@
         1.0
       ],
       "is_multi_version": false,
-      "last_updated": "2025-05-29T00:21:33.541802"
+      "last_updated": "2025-06-06T11:00:36.981899"
     }
   },
   "reddit": {
@@ -3964,7 +3976,7 @@
         1.0
       ],
       "is_multi_version": false,
-      "last_updated": "2025-05-29T00:21:33.904624"
+      "last_updated": "2025-06-06T11:00:37.355503"
     }
   },
   "redis": {
@@ -3976,7 +3988,7 @@
         1.0
       ],
       "is_multi_version": false,
-      "last_updated": "2025-05-29T00:21:34.296076"
+      "last_updated": "2025-06-06T11:00:37.727939"
     }
   },
   "redisTrigger": {
@@ -3988,7 +4000,7 @@
         1.0
       ],
       "is_multi_version": false,
-      "last_updated": "2025-05-29T00:21:34.690297"
+      "last_updated": "2025-06-06T11:00:38.105161"
     }
   },
   "renameKeys": {
@@ -4000,22 +4012,23 @@
         1.0
       ],
       "is_multi_version": false,
-      "last_updated": "2025-05-29T00:21:35.082682"
+      "last_updated": "2025-06-06T11:00:38.489945"
     }
   },
   "respondWith": {
     "path": "packages/nodes-base/nodes/RespondToWebhook/RespondToWebhook.node.ts",
     "name": "RespondToWebhook",
     "version_info": {
-      "latest_version": 1.3,
+      "latest_version": 1.4,
       "all_versions": [
         1.0,
         1.1,
         1.2,
-        1.3
+        1.3,
+        1.4
       ],
       "is_multi_version": true,
-      "last_updated": "2025-05-29T00:21:35.441794"
+      "last_updated": "2025-06-06T11:00:38.909966"
     }
   },
   "rocketchat": {
@@ -4027,7 +4040,7 @@
         1.0
       ],
       "is_multi_version": false,
-      "last_updated": "2025-05-29T00:21:35.839134"
+      "last_updated": "2025-06-06T11:00:39.296267"
     }
   },
   "rssFeedRead": {
@@ -4040,7 +4053,7 @@
         1.1
       ],
       "is_multi_version": true,
-      "last_updated": "2025-05-29T00:21:36.255900"
+      "last_updated": "2025-06-06T11:00:39.645979"
     }
   },
   "rssFeedReadTrigger": {
@@ -4052,7 +4065,7 @@
         1.0
       ],
       "is_multi_version": false,
-      "last_updated": "2025-05-29T00:21:36.646354"
+      "last_updated": "2025-06-06T11:00:40.042336"
     }
   },
   "rundeck": {
@@ -4064,7 +4077,7 @@
         1.0
       ],
       "is_multi_version": false,
-      "last_updated": "2025-05-29T00:21:37.045730"
+      "last_updated": "2025-06-06T11:00:40.400851"
     }
   },
   "s3": {
@@ -4076,7 +4089,7 @@
         1.0
       ],
       "is_multi_version": false,
-      "last_updated": "2025-05-29T00:21:37.455545"
+      "last_updated": "2025-06-06T11:00:40.849701"
     }
   },
   "salesforce": {
@@ -4088,7 +4101,7 @@
         1.0
       ],
       "is_multi_version": false,
-      "last_updated": "2025-05-29T00:21:37.851046"
+      "last_updated": "2025-06-06T11:00:41.269832"
     }
   },
   "salesforceTrigger": {
@@ -4100,7 +4113,7 @@
         1.0
       ],
       "is_multi_version": false,
-      "last_updated": "2025-05-29T00:21:38.274623"
+      "last_updated": "2025-06-06T11:00:41.656335"
     }
   },
   "salesmate": {
@@ -4112,7 +4125,7 @@
         1.0
       ],
       "is_multi_version": false,
-      "last_updated": "2025-05-29T00:21:38.660692"
+      "last_updated": "2025-06-06T11:00:42.014775"
     }
   },
   "scheduleTrigger": {
@@ -4126,7 +4139,7 @@
         1.2
       ],
       "is_multi_version": true,
-      "last_updated": "2025-05-29T00:21:39.124048"
+      "last_updated": "2025-06-06T11:00:42.370346"
     }
   },
   "seaTable": {
@@ -4138,7 +4151,7 @@
         2.0
       ],
       "is_multi_version": false,
-      "last_updated": "2025-05-29T00:21:42.602382"
+      "last_updated": "2025-06-06T11:00:45.557680"
     }
   },
   "seaTableTrigger": {
@@ -4150,7 +4163,7 @@
         2.0
       ],
       "is_multi_version": false,
-      "last_updated": "2025-05-29T00:21:39.911218"
+      "last_updated": "2025-06-06T11:00:43.098209"
     }
   },
   "SeaTable Trigger": {
@@ -4162,7 +4175,7 @@
         2.0
       ],
       "is_multi_version": false,
-      "last_updated": "2025-05-29T00:21:41.782143"
+      "last_updated": "2025-06-06T11:00:44.759979"
     }
   },
   "securityScorecard": {
@@ -4174,7 +4187,7 @@
         1.0
       ],
       "is_multi_version": false,
-      "last_updated": "2025-05-29T00:21:43.045115"
+      "last_updated": "2025-06-06T11:00:45.938593"
     }
   },
   "segment": {
@@ -4186,7 +4199,7 @@
         1.0
       ],
       "is_multi_version": false,
-      "last_updated": "2025-05-29T00:21:43.449153"
+      "last_updated": "2025-06-06T11:00:46.327798"
     }
   },
   "sendGrid": {
@@ -4198,7 +4211,7 @@
         1.0
       ],
       "is_multi_version": false,
-      "last_updated": "2025-05-29T00:21:43.815573"
+      "last_updated": "2025-06-06T11:00:46.711220"
     }
   },
   "sendy": {
@@ -4210,7 +4223,7 @@
         1.0
       ],
       "is_multi_version": false,
-      "last_updated": "2025-05-29T00:21:44.285872"
+      "last_updated": "2025-06-06T11:00:47.116193"
     }
   },
   "sentryIo": {
@@ -4222,7 +4235,7 @@
         1.0
       ],
       "is_multi_version": false,
-      "last_updated": "2025-05-29T00:21:44.634272"
+      "last_updated": "2025-06-06T11:00:47.528078"
     }
   },
   "serviceNow": {
@@ -4234,7 +4247,7 @@
         1.0
       ],
       "is_multi_version": false,
-      "last_updated": "2025-05-29T00:21:45.099924"
+      "last_updated": "2025-06-06T11:00:48.010645"
     }
   },
   "set": {
@@ -4250,7 +4263,7 @@
         3.4
       ],
       "is_multi_version": true,
-      "last_updated": "2025-05-29T00:21:46.326713"
+      "last_updated": "2025-06-06T11:00:49.148404"
     }
   },
   "shopify": {
@@ -4262,7 +4275,7 @@
         1.0
       ],
       "is_multi_version": false,
-      "last_updated": "2025-05-29T00:21:46.678545"
+      "last_updated": "2025-06-06T11:00:49.531942"
     }
   },
   "shopifyTrigger": {
@@ -4274,7 +4287,7 @@
         1.0
       ],
       "is_multi_version": false,
-      "last_updated": "2025-05-29T00:21:47.064295"
+      "last_updated": "2025-06-06T11:00:49.871306"
     }
   },
   "signl4": {
@@ -4286,7 +4299,7 @@
         1.0
       ],
       "is_multi_version": false,
-      "last_updated": "2025-05-29T00:21:47.437655"
+      "last_updated": "2025-06-06T11:00:50.213798"
     }
   },
   "simulate": {
@@ -4298,7 +4311,7 @@
         1.0
       ],
       "is_multi_version": false,
-      "last_updated": "2025-05-29T00:21:47.842003"
+      "last_updated": "2025-06-06T11:00:50.559579"
     }
   },
   "simulateTrigger": {
@@ -4310,7 +4323,7 @@
         1.0
       ],
       "is_multi_version": false,
-      "last_updated": "2025-05-29T00:21:48.232035"
+      "last_updated": "2025-06-06T11:00:50.952996"
     }
   },
   "slack": {
@@ -4322,7 +4335,7 @@
         2.3
       ],
       "is_multi_version": false,
-      "last_updated": "2025-05-29T00:21:48.588647"
+      "last_updated": "2025-06-06T11:00:51.319726"
     }
   },
   "slackTrigger": {
@@ -4334,7 +4347,7 @@
         1.0
       ],
       "is_multi_version": false,
-      "last_updated": "2025-05-29T00:21:48.968984"
+      "last_updated": "2025-06-06T11:00:51.752342"
     }
   },
   "Slack": {
@@ -4349,7 +4362,7 @@
         2.3
       ],
       "is_multi_version": true,
-      "last_updated": "2025-05-29T00:21:49.797552"
+      "last_updated": "2025-06-06T11:00:52.573207"
     }
   },
   "sms77": {
@@ -4361,7 +4374,7 @@
         1.0
       ],
       "is_multi_version": false,
-      "last_updated": "2025-05-29T00:21:50.234891"
+      "last_updated": "2025-06-06T11:00:52.938099"
     }
   },
   "snowflake": {
@@ -4373,7 +4386,7 @@
         1.0
       ],
       "is_multi_version": false,
-      "last_updated": "2025-05-29T00:21:50.602627"
+      "last_updated": "2025-06-06T11:00:53.285062"
     }
   },
   "splitInBatches": {
@@ -4385,7 +4398,7 @@
         3.0
       ],
       "is_multi_version": false,
-      "last_updated": "2025-05-29T00:21:52.148349"
+      "last_updated": "2025-06-06T11:00:54.797621"
     }
   },
   "splunk": {
@@ -4397,7 +4410,7 @@
         1.0
       ],
       "is_multi_version": false,
-      "last_updated": "2025-05-29T00:21:52.906121"
+      "last_updated": "2025-06-06T11:00:55.566337"
     }
   },
   "spontit": {
@@ -4409,7 +4422,7 @@
         1.0
       ],
       "is_multi_version": false,
-      "last_updated": "2025-05-29T00:21:53.618442"
+      "last_updated": "2025-06-06T11:00:56.304828"
     }
   },
   "spotify": {
@@ -4421,7 +4434,7 @@
         1.0
       ],
       "is_multi_version": false,
-      "last_updated": "2025-05-29T00:21:54.072055"
+      "last_updated": "2025-06-06T11:00:56.748560"
     }
   },
   "spreadsheetFile": {
@@ -4433,7 +4446,7 @@
         2.0
       ],
       "is_multi_version": false,
-      "last_updated": "2025-05-29T00:21:54.430695"
+      "last_updated": "2025-06-06T11:00:57.107566"
     }
   },
   "Spreadsheet File": {
@@ -4445,7 +4458,7 @@
         2.0
       ],
       "is_multi_version": false,
-      "last_updated": "2025-05-29T00:21:55.205839"
+      "last_updated": "2025-06-06T11:00:57.875663"
     }
   },
   "sseTrigger": {
@@ -4457,7 +4470,7 @@
         1.0
       ],
       "is_multi_version": false,
-      "last_updated": "2025-05-29T00:21:55.563697"
+      "last_updated": "2025-06-06T11:00:58.250898"
     }
   },
   "ssh": {
@@ -4469,7 +4482,7 @@
         1.0
       ],
       "is_multi_version": false,
-      "last_updated": "2025-05-29T00:21:55.935744"
+      "last_updated": "2025-06-06T11:00:58.633232"
     }
   },
   "stackby": {
@@ -4481,7 +4494,7 @@
         1.0
       ],
       "is_multi_version": false,
-      "last_updated": "2025-05-29T00:21:56.312173"
+      "last_updated": "2025-06-06T11:00:59.061407"
     }
   },
   "start": {
@@ -4493,7 +4506,7 @@
         1.0
       ],
       "is_multi_version": false,
-      "last_updated": "2025-05-29T00:21:56.674635"
+      "last_updated": "2025-06-06T11:00:59.447040"
     }
   },
   "stickyNote": {
@@ -4505,7 +4518,7 @@
         1.0
       ],
       "is_multi_version": false,
-      "last_updated": "2025-05-29T00:21:57.086140"
+      "last_updated": "2025-06-06T11:00:59.824319"
     }
   },
   "stopAndError": {
@@ -4517,7 +4530,7 @@
         1.0
       ],
       "is_multi_version": false,
-      "last_updated": "2025-05-29T00:21:57.439010"
+      "last_updated": "2025-06-06T11:01:00.197335"
     }
   },
   "storyblok": {
@@ -4529,7 +4542,7 @@
         1.0
       ],
       "is_multi_version": false,
-      "last_updated": "2025-05-29T00:21:57.856553"
+      "last_updated": "2025-06-06T11:01:00.570183"
     }
   },
   "strapi": {
@@ -4541,7 +4554,7 @@
         1.0
       ],
       "is_multi_version": false,
-      "last_updated": "2025-05-29T00:21:58.268720"
+      "last_updated": "2025-06-06T11:01:00.959736"
     }
   },
   "strava": {
@@ -4554,7 +4567,7 @@
         1.1
       ],
       "is_multi_version": true,
-      "last_updated": "2025-05-29T00:21:58.639637"
+      "last_updated": "2025-06-06T11:01:01.510973"
     }
   },
   "stravaTrigger": {
@@ -4566,7 +4579,7 @@
         1.0
       ],
       "is_multi_version": false,
-      "last_updated": "2025-05-29T00:21:59.024865"
+      "last_updated": "2025-06-06T11:01:01.876140"
     }
   },
   "stripe": {
@@ -4578,7 +4591,7 @@
         1.0
       ],
       "is_multi_version": false,
-      "last_updated": "2025-05-29T00:21:59.436885"
+      "last_updated": "2025-06-06T11:01:02.251266"
     }
   },
   "stripeTrigger": {
@@ -4590,7 +4603,7 @@
         1.0
       ],
       "is_multi_version": false,
-      "last_updated": "2025-05-29T00:21:59.894703"
+      "last_updated": "2025-06-06T11:01:02.677787"
     }
   },
   "supabase": {
@@ -4602,7 +4615,7 @@
         1.0
       ],
       "is_multi_version": false,
-      "last_updated": "2025-05-29T00:22:00.306780"
+      "last_updated": "2025-06-06T11:01:03.032741"
     }
   },
   "surveyMonkeyTrigger": {
@@ -4614,7 +4627,7 @@
         1.0
       ],
       "is_multi_version": false,
-      "last_updated": "2025-05-29T00:22:00.710373"
+      "last_updated": "2025-06-06T11:01:03.423479"
     }
   },
   "switch": {
@@ -4626,7 +4639,7 @@
         3.2
       ],
       "is_multi_version": false,
-      "last_updated": "2025-05-29T00:22:01.116290"
+      "last_updated": "2025-06-06T11:01:03.761213"
     }
   },
   "Switch": {
@@ -4640,7 +4653,7 @@
         3.2
       ],
       "is_multi_version": true,
-      "last_updated": "2025-05-29T00:22:02.247336"
+      "last_updated": "2025-06-06T11:01:04.941476"
     }
   },
   "syncroMsp": {
@@ -4652,7 +4665,7 @@
         1.0
       ],
       "is_multi_version": false,
-      "last_updated": "2025-05-29T00:22:02.614878"
+      "last_updated": "2025-06-06T11:01:05.391500"
     }
   },
   "taiga": {
@@ -4664,7 +4677,7 @@
         1.0
       ],
       "is_multi_version": false,
-      "last_updated": "2025-05-29T00:22:03.395086"
+      "last_updated": "2025-06-06T11:01:06.153390"
     }
   },
   "taigaTrigger": {
@@ -4676,7 +4689,7 @@
         1.0
       ],
       "is_multi_version": false,
-      "last_updated": "2025-05-29T00:22:03.764970"
+      "last_updated": "2025-06-06T11:01:06.557590"
     }
   },
   "tapfiliate": {
@@ -4688,7 +4701,7 @@
         1.0
       ],
       "is_multi_version": false,
-      "last_updated": "2025-05-29T00:22:04.108973"
+      "last_updated": "2025-06-06T11:01:06.909636"
     }
   },
   "telegram": {
@@ -4702,7 +4715,7 @@
         1.2
       ],
       "is_multi_version": true,
-      "last_updated": "2025-05-29T00:22:04.499558"
+      "last_updated": "2025-06-06T11:01:07.347523"
     }
   },
   "telegramTrigger": {
@@ -4714,7 +4727,7 @@
         1.2
       ],
       "is_multi_version": false,
-      "last_updated": "2025-05-29T00:22:04.917320"
+      "last_updated": "2025-06-06T11:01:07.811162"
     }
   },
   "theHive": {
@@ -4726,7 +4739,7 @@
         1.0
       ],
       "is_multi_version": false,
-      "last_updated": "2025-05-29T00:22:05.310208"
+      "last_updated": "2025-06-06T11:01:08.234553"
     }
   },
   "theHiveTrigger": {
@@ -4739,7 +4752,7 @@
         2.0
       ],
       "is_multi_version": true,
-      "last_updated": "2025-05-29T00:22:05.701290"
+      "last_updated": "2025-06-06T11:01:08.588859"
     }
   },
   "theHiveProjectTrigger": {
@@ -4751,7 +4764,7 @@
         1.0
       ],
       "is_multi_version": false,
-      "last_updated": "2025-05-29T00:22:06.535379"
+      "last_updated": "2025-06-06T11:01:09.464699"
     }
   },
   "timescaleDb": {
@@ -4763,7 +4776,7 @@
         1.0
       ],
       "is_multi_version": false,
-      "last_updated": "2025-05-29T00:22:06.953262"
+      "last_updated": "2025-06-06T11:01:09.845288"
     }
   },
   "todoist": {
@@ -4776,7 +4789,7 @@
         2.1
       ],
       "is_multi_version": true,
-      "last_updated": "2025-05-29T00:22:08.068708"
+      "last_updated": "2025-06-06T11:01:11.017432"
     }
   },
   "togglTrigger": {
@@ -4788,7 +4801,7 @@
         1.0
       ],
       "is_multi_version": false,
-      "last_updated": "2025-05-29T00:22:08.420673"
+      "last_updated": "2025-06-06T11:01:11.387826"
     }
   },
   "totp": {
@@ -4800,7 +4813,7 @@
         1.0
       ],
       "is_multi_version": false,
-      "last_updated": "2025-05-29T00:22:08.820227"
+      "last_updated": "2025-06-06T11:01:11.775367"
     }
   },
   "aggregate": {
@@ -4812,7 +4825,7 @@
         1.0
       ],
       "is_multi_version": false,
-      "last_updated": "2025-05-29T00:22:09.253617"
+      "last_updated": "2025-06-06T11:01:12.164214"
     }
   },
   "limit": {
@@ -4824,7 +4837,7 @@
         1.0
       ],
       "is_multi_version": false,
-      "last_updated": "2025-05-29T00:22:09.609166"
+      "last_updated": "2025-06-06T11:01:12.548233"
     }
   },
   "removeDuplicates": {
@@ -4836,7 +4849,7 @@
         2.0
       ],
       "is_multi_version": true,
-      "last_updated": "2025-05-29T00:22:10.786801"
+      "last_updated": "2025-06-06T11:01:13.837286"
     }
   },
   "sort": {
@@ -4848,7 +4861,7 @@
         1.0
       ],
       "is_multi_version": false,
-      "last_updated": "2025-05-29T00:22:11.151304"
+      "last_updated": "2025-06-06T11:01:14.243366"
     }
   },
   "splitOut": {
@@ -4860,7 +4873,7 @@
         1.0
       ],
       "is_multi_version": false,
-      "last_updated": "2025-05-29T00:22:11.524669"
+      "last_updated": "2025-06-06T11:01:14.647671"
     }
   },
   "summarize": {
@@ -4873,7 +4886,7 @@
         1.1
       ],
       "is_multi_version": true,
-      "last_updated": "2025-05-29T00:22:11.904671"
+      "last_updated": "2025-06-06T11:01:15.041847"
     }
   },
   "travisCi": {
@@ -4885,7 +4898,7 @@
         1.0
       ],
       "is_multi_version": false,
-      "last_updated": "2025-05-29T00:22:12.292324"
+      "last_updated": "2025-06-06T11:01:15.392157"
     }
   },
   "trello": {
@@ -4897,7 +4910,7 @@
         1.0
       ],
       "is_multi_version": false,
-      "last_updated": "2025-05-29T00:22:12.656918"
+      "last_updated": "2025-06-06T11:01:15.755736"
     }
   },
   "trelloTrigger": {
@@ -4909,7 +4922,7 @@
         1.0
       ],
       "is_multi_version": false,
-      "last_updated": "2025-05-29T00:22:13.014048"
+      "last_updated": "2025-06-06T11:01:16.138083"
     }
   },
   "twake": {
@@ -4921,7 +4934,7 @@
         1.0
       ],
       "is_multi_version": false,
-      "last_updated": "2025-05-29T00:22:13.471786"
+      "last_updated": "2025-06-06T11:01:16.502405"
     }
   },
   "twilio": {
@@ -4933,7 +4946,7 @@
         1.0
       ],
       "is_multi_version": false,
-      "last_updated": "2025-05-29T00:22:13.839172"
+      "last_updated": "2025-06-06T11:01:16.874189"
     }
   },
   "twilioTrigger": {
@@ -4945,7 +4958,7 @@
         1.0
       ],
       "is_multi_version": false,
-      "last_updated": "2025-05-29T00:22:14.247360"
+      "last_updated": "2025-06-06T11:01:17.262178"
     }
   },
   "twist": {
@@ -4957,7 +4970,7 @@
         1.0
       ],
       "is_multi_version": false,
-      "last_updated": "2025-05-29T00:22:14.643282"
+      "last_updated": "2025-06-06T11:01:17.640830"
     }
   },
   "twitter": {
@@ -4969,7 +4982,7 @@
         2.0
       ],
       "is_multi_version": false,
-      "last_updated": "2025-05-29T00:22:15.072700"
+      "last_updated": "2025-06-06T11:01:18.041689"
     }
   },
   "Twitter": {
@@ -4981,7 +4994,7 @@
         1.0
       ],
       "is_multi_version": false,
-      "last_updated": "2025-05-29T00:22:15.489425"
+      "last_updated": "2025-06-06T11:01:18.412648"
     }
   },
   "X": {
@@ -4993,7 +5006,7 @@
         2.0
       ],
       "is_multi_version": false,
-      "last_updated": "2025-05-29T00:22:15.853680"
+      "last_updated": "2025-06-06T11:01:18.799309"
     }
   },
   "typeformTrigger": {
@@ -5006,7 +5019,7 @@
         1.1
       ],
       "is_multi_version": true,
-      "last_updated": "2025-05-29T00:22:16.323122"
+      "last_updated": "2025-06-06T11:01:19.214175"
     }
   },
   "uproc": {
@@ -5018,7 +5031,7 @@
         1.0
       ],
       "is_multi_version": false,
-      "last_updated": "2025-05-29T00:22:16.709170"
+      "last_updated": "2025-06-06T11:01:19.583451"
     }
   },
   "unleashedSoftware": {
@@ -5030,7 +5043,7 @@
         1.0
       ],
       "is_multi_version": false,
-      "last_updated": "2025-05-29T00:22:17.117792"
+      "last_updated": "2025-06-06T11:01:19.934216"
     }
   },
   "uplead": {
@@ -5042,7 +5055,7 @@
         1.0
       ],
       "is_multi_version": false,
-      "last_updated": "2025-05-29T00:22:17.523366"
+      "last_updated": "2025-06-06T11:01:20.308274"
     }
   },
   "uptimeRobot": {
@@ -5054,7 +5067,7 @@
         1.0
       ],
       "is_multi_version": false,
-      "last_updated": "2025-05-29T00:22:17.923119"
+      "last_updated": "2025-06-06T11:01:20.697612"
     }
   },
   "urlScanIo": {
@@ -5066,7 +5079,7 @@
         1.0
       ],
       "is_multi_version": false,
-      "last_updated": "2025-05-29T00:22:18.280190"
+      "last_updated": "2025-06-06T11:01:21.064463"
     }
   },
   "venafiTlsProtectDatacenter": {
@@ -5078,7 +5091,7 @@
         1.0
       ],
       "is_multi_version": false,
-      "last_updated": "2025-05-29T00:22:18.664929"
+      "last_updated": "2025-06-06T11:01:21.458123"
     }
   },
   "venafiTlsProtectDatacenterTrigger": {
@@ -5090,7 +5103,7 @@
         1.0
       ],
       "is_multi_version": false,
-      "last_updated": "2025-05-29T00:22:19.031742"
+      "last_updated": "2025-06-06T11:01:21.833856"
     }
   },
   "venafiTlsProtectCloud": {
@@ -5102,7 +5115,7 @@
         1.0
       ],
       "is_multi_version": false,
-      "last_updated": "2025-05-29T00:22:19.418456"
+      "last_updated": "2025-06-06T11:01:22.184380"
     }
   },
   "venafiTlsProtectCloudTrigger": {
@@ -5114,7 +5127,7 @@
         1.0
       ],
       "is_multi_version": false,
-      "last_updated": "2025-05-29T00:22:19.779761"
+      "last_updated": "2025-06-06T11:01:22.580314"
     }
   },
   "vero": {
@@ -5126,7 +5139,7 @@
         1.0
       ],
       "is_multi_version": false,
-      "last_updated": "2025-05-29T00:22:20.236881"
+      "last_updated": "2025-06-06T11:01:23.012341"
     }
   },
   "vonage": {
@@ -5138,7 +5151,7 @@
         1.0
       ],
       "is_multi_version": false,
-      "last_updated": "2025-05-29T00:22:20.636395"
+      "last_updated": "2025-06-06T11:01:23.354105"
     }
   },
   "amount": {
@@ -5151,7 +5164,7 @@
         1.1
       ],
       "is_multi_version": true,
-      "last_updated": "2025-05-29T00:22:21.005800"
+      "last_updated": "2025-06-06T11:01:23.720021"
     }
   },
   "webflowTrigger": {
@@ -5163,7 +5176,7 @@
         2.0
       ],
       "is_multi_version": false,
-      "last_updated": "2025-05-29T00:22:23.334065"
+      "last_updated": "2025-06-06T11:01:26.041189"
     }
   },
   "Webflow": {
@@ -5175,7 +5188,7 @@
         1.0
       ],
       "is_multi_version": false,
-      "last_updated": "2025-05-29T00:22:21.762031"
+      "last_updated": "2025-06-06T11:01:24.475400"
     }
   },
   "webflow": {
@@ -5187,7 +5200,7 @@
         2.0
       ],
       "is_multi_version": false,
-      "last_updated": "2025-05-29T00:22:22.941238"
+      "last_updated": "2025-06-06T11:01:25.684890"
     }
   },
   "webhook": {
@@ -5201,7 +5214,7 @@
         2.0
       ],
       "is_multi_version": true,
-      "last_updated": "2025-05-29T00:22:23.721675"
+      "last_updated": "2025-06-06T11:01:26.424887"
     }
   },
   "wekan": {
@@ -5213,7 +5226,7 @@
         1.0
       ],
       "is_multi_version": false,
-      "last_updated": "2025-05-29T00:22:24.114179"
+      "last_updated": "2025-06-06T11:01:26.804283"
     }
   },
   "whatsApp": {
@@ -5225,7 +5238,7 @@
         1.0
       ],
       "is_multi_version": false,
-      "last_updated": "2025-05-29T00:22:24.466997"
+      "last_updated": "2025-06-06T11:01:27.183741"
     }
   },
   "whatsAppTrigger": {
@@ -5237,7 +5250,7 @@
         1.0
       ],
       "is_multi_version": false,
-      "last_updated": "2025-05-29T00:22:24.917679"
+      "last_updated": "2025-06-06T11:01:27.569612"
     }
   },
   "wise": {
@@ -5249,7 +5262,7 @@
         1.0
       ],
       "is_multi_version": false,
-      "last_updated": "2025-05-29T00:22:25.340460"
+      "last_updated": "2025-06-06T11:01:27.911112"
     }
   },
   "wiseTrigger": {
@@ -5261,7 +5274,7 @@
         1.0
       ],
       "is_multi_version": false,
-      "last_updated": "2025-05-29T00:22:25.706590"
+      "last_updated": "2025-06-06T11:01:28.287969"
     }
   },
   "wooCommerce": {
@@ -5273,7 +5286,7 @@
         1.0
       ],
       "is_multi_version": false,
-      "last_updated": "2025-05-29T00:22:26.075221"
+      "last_updated": "2025-06-06T11:01:28.649942"
     }
   },
   "wooCommerceTrigger": {
@@ -5285,7 +5298,7 @@
         1.0
       ],
       "is_multi_version": false,
-      "last_updated": "2025-05-29T00:22:26.480665"
+      "last_updated": "2025-06-06T11:01:29.066750"
     }
   },
   "wordpress": {
@@ -5297,7 +5310,7 @@
         1.0
       ],
       "is_multi_version": false,
-      "last_updated": "2025-05-29T00:22:26.868274"
+      "last_updated": "2025-06-06T11:01:29.410759"
     }
   },
   "workableTrigger": {
@@ -5309,7 +5322,7 @@
         1.0
       ],
       "is_multi_version": false,
-      "last_updated": "2025-05-29T00:22:27.218801"
+      "last_updated": "2025-06-06T11:01:29.779897"
     }
   },
   "workflowTrigger": {
@@ -5321,7 +5334,7 @@
         1.0
       ],
       "is_multi_version": false,
-      "last_updated": "2025-05-29T00:22:27.593088"
+      "last_updated": "2025-06-06T11:01:30.177883"
     }
   },
   "writeBinaryFile": {
@@ -5333,7 +5346,7 @@
         1.0
       ],
       "is_multi_version": false,
-      "last_updated": "2025-05-29T00:22:27.993867"
+      "last_updated": "2025-06-06T11:01:30.579535"
     }
   },
   "wufooTrigger": {
@@ -5345,7 +5358,7 @@
         1.0
       ],
       "is_multi_version": false,
-      "last_updated": "2025-05-29T00:22:28.434917"
+      "last_updated": "2025-06-06T11:01:30.932353"
     }
   },
   "xero": {
@@ -5357,7 +5370,7 @@
         1.0
       ],
       "is_multi_version": false,
-      "last_updated": "2025-05-29T00:22:28.789577"
+      "last_updated": "2025-06-06T11:01:31.296817"
     }
   },
   "xml": {
@@ -5369,7 +5382,7 @@
         1.0
       ],
       "is_multi_version": false,
-      "last_updated": "2025-05-29T00:22:29.246356"
+      "last_updated": "2025-06-06T11:01:31.647952"
     }
   },
   "yourls": {
@@ -5381,7 +5394,7 @@
         1.0
       ],
       "is_multi_version": false,
-      "last_updated": "2025-05-29T00:22:29.658355"
+      "last_updated": "2025-06-06T11:01:32.011410"
     }
   },
   "zammad": {
@@ -5393,7 +5406,7 @@
         1.0
       ],
       "is_multi_version": false,
-      "last_updated": "2025-05-29T00:22:30.064418"
+      "last_updated": "2025-06-06T11:01:32.416659"
     }
   },
   "zendesk": {
@@ -5405,7 +5418,7 @@
         1.0
       ],
       "is_multi_version": false,
-      "last_updated": "2025-05-29T00:22:30.469750"
+      "last_updated": "2025-06-06T11:01:32.791949"
     }
   },
   "zendeskTrigger": {
@@ -5417,7 +5430,7 @@
         1.0
       ],
       "is_multi_version": false,
-      "last_updated": "2025-05-29T00:22:30.862415"
+      "last_updated": "2025-06-06T11:01:33.183739"
     }
   },
   "zohoCrm": {
@@ -5429,7 +5442,7 @@
         1.0
       ],
       "is_multi_version": false,
-      "last_updated": "2025-05-29T00:22:31.289549"
+      "last_updated": "2025-06-06T11:01:33.904584"
     }
   },
   "zoom": {
@@ -5441,7 +5454,7 @@
         1.0
       ],
       "is_multi_version": false,
-      "last_updated": "2025-05-29T00:22:31.638655"
+      "last_updated": "2025-06-06T11:01:34.264339"
     }
   },
   "zulip": {
@@ -5453,7 +5466,7 @@
         1.0
       ],
       "is_multi_version": false,
-      "last_updated": "2025-05-29T00:22:32.065202"
+      "last_updated": "2025-06-06T11:01:34.632325"
     }
   },
   "toolExecutor": {
@@ -5465,7 +5478,7 @@
         1.0
       ],
       "is_multi_version": false,
-      "last_updated": "2025-05-29T00:22:32.549980"
+      "last_updated": "2025-06-06T11:01:34.992063"
     }
   },
   "agent": {
@@ -5486,7 +5499,7 @@
         1.9
       ],
       "is_multi_version": true,
-      "last_updated": "2025-05-29T00:22:33.294507"
+      "last_updated": "2025-06-06T11:01:35.791814"
     }
   },
   "AI Agent": {
@@ -5498,7 +5511,7 @@
         2.0
       ],
       "is_multi_version": false,
-      "last_updated": "2025-05-29T00:22:33.656863"
+      "last_updated": "2025-06-06T11:01:36.212459"
     }
   },
   "openAiAssistant": {
@@ -5511,7 +5524,7 @@
         1.1
       ],
       "is_multi_version": true,
-      "last_updated": "2025-05-29T00:22:34.031719"
+      "last_updated": "2025-06-06T11:01:36.576428"
     }
   },
   "chainLlm": {
@@ -5530,7 +5543,7 @@
         1.7
       ],
       "is_multi_version": true,
-      "last_updated": "2025-05-29T00:22:34.391262"
+      "last_updated": "2025-06-06T11:01:36.964360"
     }
   },
   "chainRetrievalQa": {
@@ -5548,7 +5561,7 @@
         1.6
       ],
       "is_multi_version": true,
-      "last_updated": "2025-05-29T00:22:34.758070"
+      "last_updated": "2025-06-06T11:01:37.357155"
     }
   },
   "chainSummarization": {
@@ -5560,7 +5573,7 @@
         2.1
       ],
       "is_multi_version": false,
-      "last_updated": "2025-05-29T00:22:35.127330"
+      "last_updated": "2025-06-06T11:01:37.725857"
     }
   },
   "Summarization Chain": {
@@ -5573,20 +5586,19 @@
         2.1
       ],
       "is_multi_version": true,
-      "last_updated": "2025-05-29T00:22:35.873197"
+      "last_updated": "2025-06-06T11:01:38.439234"
     }
   },
   "informationExtractor": {
     "path": "packages/@n8n/nodes-langchain/nodes/chains/InformationExtractor/InformationExtractor.node.ts",
     "name": "InformationExtractor",
     "version_info": {
-      "latest_version": 1.1,
+      "latest_version": 1.2,
       "all_versions": [
-        1.0,
-        1.1
+        1.2
       ],
-      "is_multi_version": true,
-      "last_updated": "2025-05-29T00:22:36.246404"
+      "is_multi_version": false,
+      "last_updated": "2025-06-06T11:01:38.864716"
     }
   },
   "sentimentAnalysis": {
@@ -5599,7 +5611,7 @@
         1.1
       ],
       "is_multi_version": true,
-      "last_updated": "2025-05-29T00:22:36.629935"
+      "last_updated": "2025-06-06T11:01:39.245786"
     }
   },
   "textClassifier": {
@@ -5612,7 +5624,7 @@
         1.1
       ],
       "is_multi_version": true,
-      "last_updated": "2025-05-29T00:22:37.057718"
+      "last_updated": "2025-06-06T11:01:39.692898"
     }
   },
   "documentBinaryInputLoader": {
@@ -5624,31 +5636,31 @@
         1.0
       ],
       "is_multi_version": false,
-      "last_updated": "2025-05-29T00:22:38.079519"
+      "last_updated": "2025-06-06T11:01:40.428586"
     }
   },
   "documentDefaultDataLoader": {
     "path": "packages/@n8n/nodes-langchain/nodes/document_loaders/DocumentDefaultDataLoader/DocumentDefaultDataLoader.node.ts",
     "name": "DocumentDefaultDataLoader",
     "version_info": {
-      "latest_version": 1.0,
+      "latest_version": 1.1,
       "all_versions": [
-        1.0
+        1.1
       ],
       "is_multi_version": false,
-      "last_updated": "2025-05-29T00:22:38.538274"
+      "last_updated": "2025-06-06T11:01:40.777742"
     }
   },
   "documentGithubLoader": {
     "path": "packages/@n8n/nodes-langchain/nodes/document_loaders/DocumentGithubLoader/DocumentGithubLoader.node.ts",
     "name": "DocumentGithubLoader",
     "version_info": {
-      "latest_version": 1.0,
+      "latest_version": 1.1,
       "all_versions": [
-        1.0
+        1.1
       ],
       "is_multi_version": false,
-      "last_updated": "2025-05-29T00:22:38.884348"
+      "last_updated": "2025-06-06T11:01:41.142398"
     }
   },
   "documentJsonInputLoader": {
@@ -5660,7 +5672,7 @@
         1.0
       ],
       "is_multi_version": false,
-      "last_updated": "2025-05-29T00:22:39.287605"
+      "last_updated": "2025-06-06T11:01:41.524324"
     }
   },
   "embeddingsAwsBedrock": {
@@ -5672,7 +5684,7 @@
         1.0
       ],
       "is_multi_version": false,
-      "last_updated": "2025-05-29T00:22:39.696191"
+      "last_updated": "2025-06-06T11:01:41.921082"
     }
   },
   "embeddingsAzureOpenAi": {
@@ -5684,7 +5696,7 @@
         1.0
       ],
       "is_multi_version": false,
-      "last_updated": "2025-05-29T00:22:40.056454"
+      "last_updated": "2025-06-06T11:01:42.311570"
     }
   },
   "embeddingsCohere": {
@@ -5696,7 +5708,7 @@
         1.0
       ],
       "is_multi_version": false,
-      "last_updated": "2025-05-29T00:22:40.440841"
+      "last_updated": "2025-06-06T11:01:42.707536"
     }
   },
   "embeddingsGoogleGemini": {
@@ -5708,7 +5720,7 @@
         1.0
       ],
       "is_multi_version": false,
-      "last_updated": "2025-05-29T00:22:40.871166"
+      "last_updated": "2025-06-06T11:01:43.101523"
     }
   },
   "embeddingsGoogleVertex": {
@@ -5720,7 +5732,7 @@
         1.0
       ],
       "is_multi_version": false,
-      "last_updated": "2025-05-29T00:22:41.304235"
+      "last_updated": "2025-06-06T11:01:43.476395"
     }
   },
   "embeddingsHuggingFaceInference": {
@@ -5732,7 +5744,7 @@
         1.0
       ],
       "is_multi_version": false,
-      "last_updated": "2025-05-29T00:22:41.737769"
+      "last_updated": "2025-06-06T11:01:43.823243"
     }
   },
   "embeddingsMistralCloud": {
@@ -5744,7 +5756,7 @@
         1.0
       ],
       "is_multi_version": false,
-      "last_updated": "2025-05-29T00:22:42.260710"
+      "last_updated": "2025-06-06T11:01:44.184474"
     }
   },
   "embeddingsOllama": {
@@ -5756,7 +5768,7 @@
         1.0
       ],
       "is_multi_version": false,
-      "last_updated": "2025-05-29T00:22:42.648529"
+      "last_updated": "2025-06-06T11:01:44.545548"
     }
   },
   "model": {
@@ -5768,7 +5780,7 @@
         1.3
       ],
       "is_multi_version": false,
-      "last_updated": "2025-05-29T00:22:43.457130"
+      "last_updated": "2025-06-06T11:01:45.325802"
     }
   },
   "lmChatOllama": {
@@ -5780,7 +5792,7 @@
         1.0
       ],
       "is_multi_version": false,
-      "last_updated": "2025-05-29T00:22:43.803236"
+      "last_updated": "2025-06-06T11:01:45.692101"
     }
   },
   "lmChatOpenAi": {
@@ -5794,7 +5806,7 @@
         1.2
       ],
       "is_multi_version": true,
-      "last_updated": "2025-05-29T00:22:44.179237"
+      "last_updated": "2025-06-06T11:01:46.066443"
     }
   },
   "lmCohere": {
@@ -5806,7 +5818,7 @@
         1.0
       ],
       "is_multi_version": false,
-      "last_updated": "2025-05-29T00:22:44.588968"
+      "last_updated": "2025-06-06T11:01:46.487131"
     }
   },
   "lmOllama": {
@@ -5818,7 +5830,7 @@
         1.0
       ],
       "is_multi_version": false,
-      "last_updated": "2025-05-29T00:22:44.929956"
+      "last_updated": "2025-06-06T11:01:46.880457"
     }
   },
   "lmOpenAi": {
@@ -5830,7 +5842,7 @@
         1.0
       ],
       "is_multi_version": false,
-      "last_updated": "2025-05-29T00:22:45.322379"
+      "last_updated": "2025-06-06T11:01:47.231162"
     }
   },
   "lmOpenHuggingFaceInference": {
@@ -5842,7 +5854,7 @@
         1.0
       ],
       "is_multi_version": false,
-      "last_updated": "2025-05-29T00:22:45.687010"
+      "last_updated": "2025-06-06T11:01:47.626277"
     }
   },
   "lmChatAwsBedrock": {
@@ -5854,7 +5866,7 @@
         1.0
       ],
       "is_multi_version": false,
-      "last_updated": "2025-05-29T00:22:46.077019"
+      "last_updated": "2025-06-06T11:01:47.987470"
     }
   },
   "lmChatAzureOpenAi": {
@@ -5866,7 +5878,7 @@
         1.0
       ],
       "is_multi_version": false,
-      "last_updated": "2025-05-29T00:22:46.464274"
+      "last_updated": "2025-06-06T11:01:48.351225"
     }
   },
   "lmChatDeepSeek": {
@@ -5878,7 +5890,7 @@
         1.0
       ],
       "is_multi_version": true,
-      "last_updated": "2025-05-29T00:22:46.829868"
+      "last_updated": "2025-06-06T11:01:48.722817"
     }
   },
   "lmChatGoogleGemini": {
@@ -5890,7 +5902,7 @@
         1.0
       ],
       "is_multi_version": false,
-      "last_updated": "2025-05-29T00:22:47.239480"
+      "last_updated": "2025-06-06T11:01:49.088071"
     }
   },
   "lmChatGoogleVertex": {
@@ -5902,7 +5914,7 @@
         1.0
       ],
       "is_multi_version": false,
-      "last_updated": "2025-05-29T00:22:47.710829"
+      "last_updated": "2025-06-06T11:01:49.514374"
     }
   },
   "lmChatGroq": {
@@ -5914,7 +5926,7 @@
         1.0
       ],
       "is_multi_version": false,
-      "last_updated": "2025-05-29T00:22:48.071799"
+      "last_updated": "2025-06-06T11:01:49.925854"
     }
   },
   "lmChatMistralCloud": {
@@ -5926,7 +5938,7 @@
         1.0
       ],
       "is_multi_version": false,
-      "last_updated": "2025-05-29T00:22:48.442901"
+      "last_updated": "2025-06-06T11:01:50.347097"
     }
   },
   "lmChatOpenRouter": {
@@ -5938,7 +5950,7 @@
         1.0
       ],
       "is_multi_version": true,
-      "last_updated": "2025-05-29T00:22:48.821617"
+      "last_updated": "2025-06-06T11:01:50.730125"
     }
   },
   "lmChatXAiGrok": {
@@ -5950,7 +5962,7 @@
         1.0
       ],
       "is_multi_version": true,
-      "last_updated": "2025-05-29T00:22:49.179181"
+      "last_updated": "2025-06-06T11:01:51.112849"
     }
   },
   "mcpClientTool": {
@@ -5962,19 +5974,20 @@
         1.0
       ],
       "is_multi_version": false,
-      "last_updated": "2025-05-29T00:22:49.610243"
+      "last_updated": "2025-06-06T11:01:51.470621"
     }
   },
   "mcpTrigger": {
     "path": "packages/@n8n/nodes-langchain/nodes/mcp/McpTrigger/McpTrigger.node.ts",
     "name": "McpTrigger",
     "version_info": {
-      "latest_version": 1.0,
+      "latest_version": 1.1,
       "all_versions": [
-        1.0
+        1.0,
+        1.1
       ],
-      "is_multi_version": false,
-      "last_updated": "2025-05-29T00:22:49.999638"
+      "is_multi_version": true,
+      "last_updated": "2025-06-06T11:01:51.856316"
     }
   },
   "memoryBufferWindow": {
@@ -5989,7 +6002,7 @@
         1.3
       ],
       "is_multi_version": true,
-      "last_updated": "2025-05-29T00:22:50.379222"
+      "last_updated": "2025-06-06T11:01:52.245891"
     }
   },
   "memoryChatRetriever": {
@@ -6001,7 +6014,7 @@
         1.0
       ],
       "is_multi_version": false,
-      "last_updated": "2025-05-29T00:22:50.740778"
+      "last_updated": "2025-06-06T11:01:52.600674"
     }
   },
   "memoryManager": {
@@ -6014,7 +6027,7 @@
         1.1
       ],
       "is_multi_version": true,
-      "last_updated": "2025-05-29T00:22:51.090490"
+      "last_updated": "2025-06-06T11:01:52.977691"
     }
   },
   "memoryMongoDbChat": {
@@ -6026,7 +6039,7 @@
         1.0
       ],
       "is_multi_version": true,
-      "last_updated": "2025-05-29T00:22:51.507044"
+      "last_updated": "2025-06-06T11:01:53.422072"
     }
   },
   "memoryMotorhead": {
@@ -6041,7 +6054,7 @@
         1.3
       ],
       "is_multi_version": true,
-      "last_updated": "2025-05-29T00:22:51.913865"
+      "last_updated": "2025-06-06T11:01:53.762413"
     }
   },
   "memoryPostgresChat": {
@@ -6056,7 +6069,7 @@
         1.3
       ],
       "is_multi_version": true,
-      "last_updated": "2025-05-29T00:22:52.322111"
+      "last_updated": "2025-06-06T11:01:54.109342"
     }
   },
   "memoryRedisChat": {
@@ -6073,7 +6086,7 @@
         1.5
       ],
       "is_multi_version": true,
-      "last_updated": "2025-05-29T00:22:52.715796"
+      "last_updated": "2025-06-06T11:01:54.492586"
     }
   },
   "memoryXata": {
@@ -6089,7 +6102,7 @@
         1.4
       ],
       "is_multi_version": true,
-      "last_updated": "2025-05-29T00:22:53.107821"
+      "last_updated": "2025-06-06T11:01:54.882294"
     }
   },
   "memoryZep": {
@@ -6104,7 +6117,7 @@
         1.3
       ],
       "is_multi_version": true,
-      "last_updated": "2025-05-29T00:22:53.498154"
+      "last_updated": "2025-06-06T11:01:55.262405"
     }
   },
   "outputParserAutofixing": {
@@ -6116,7 +6129,7 @@
         1.0
       ],
       "is_multi_version": false,
-      "last_updated": "2025-05-29T00:22:53.895537"
+      "last_updated": "2025-06-06T11:01:55.687179"
     }
   },
   "outputParserItemList": {
@@ -6128,19 +6141,31 @@
         1.0
       ],
       "is_multi_version": false,
-      "last_updated": "2025-05-29T00:22:54.264352"
+      "last_updated": "2025-06-06T11:01:56.025136"
     }
   },
   "outputParserStructured": {
     "path": "packages/@n8n/nodes-langchain/nodes/output_parser/OutputParserStructured/OutputParserStructured.node.ts",
     "name": "OutputParserStructured",
     "version_info": {
-      "latest_version": 1.2,
+      "latest_version": 1.3,
       "all_versions": [
-        1.2
+        1.3
       ],
       "is_multi_version": false,
-      "last_updated": "2025-05-29T00:22:54.632766"
+      "last_updated": "2025-06-06T11:01:56.416436"
+    }
+  },
+  "rerankerCohere": {
+    "path": "packages/@n8n/nodes-langchain/nodes/rerankers/RerankerCohere/RerankerCohere.node.ts",
+    "name": "RerankerCohere",
+    "version_info": {
+      "latest_version": 1.0,
+      "all_versions": [
+        1.0
+      ],
+      "is_multi_version": false,
+      "last_updated": "2025-06-06T11:01:56.769848"
     }
   },
   "retrieverContextualCompression": {
@@ -6152,7 +6177,7 @@
         1.0
       ],
       "is_multi_version": false,
-      "last_updated": "2025-05-29T00:22:55.007371"
+      "last_updated": "2025-06-06T11:01:57.191652"
     }
   },
   "retrieverMultiQuery": {
@@ -6164,7 +6189,7 @@
         1.0
       ],
       "is_multi_version": false,
-      "last_updated": "2025-05-29T00:22:55.348274"
+      "last_updated": "2025-06-06T11:01:57.550859"
     }
   },
   "retrieverVectorStore": {
@@ -6176,7 +6201,7 @@
         1.0
       ],
       "is_multi_version": false,
-      "last_updated": "2025-05-29T00:22:55.709086"
+      "last_updated": "2025-06-06T11:01:57.963990"
     }
   },
   "retrieverWorkflow": {
@@ -6189,7 +6214,7 @@
         1.1
       ],
       "is_multi_version": true,
-      "last_updated": "2025-05-29T00:22:56.124233"
+      "last_updated": "2025-06-06T11:01:58.324275"
     }
   },
   "textSplitterCharacterTextSplitter": {
@@ -6201,7 +6226,7 @@
         1.0
       ],
       "is_multi_version": false,
-      "last_updated": "2025-05-29T00:22:56.598705"
+      "last_updated": "2025-06-06T11:01:58.731211"
     }
   },
   "textSplitterRecursiveCharacterTextSplitter": {
@@ -6213,7 +6238,7 @@
         1.0
       ],
       "is_multi_version": false,
-      "last_updated": "2025-05-29T00:22:56.992453"
+      "last_updated": "2025-06-06T11:01:59.097802"
     }
   },
   "textSplitterTokenSplitter": {
@@ -6225,7 +6250,7 @@
         1.0
       ],
       "is_multi_version": false,
-      "last_updated": "2025-05-29T00:22:57.329430"
+      "last_updated": "2025-06-06T11:01:59.486063"
     }
   },
   "toolCalculator": {
@@ -6237,21 +6262,22 @@
         1.0
       ],
       "is_multi_version": false,
-      "last_updated": "2025-05-29T00:22:57.734583"
+      "last_updated": "2025-06-06T11:01:59.860766"
     }
   },
   "toolCode": {
     "path": "packages/@n8n/nodes-langchain/nodes/tools/ToolCode/ToolCode.node.ts",
     "name": "ToolCode",
     "version_info": {
-      "latest_version": 1.2,
+      "latest_version": 1.3,
       "all_versions": [
         1.0,
         1.1,
-        1.2
+        1.2,
+        1.3
       ],
       "is_multi_version": true,
-      "last_updated": "2025-05-29T00:22:58.098421"
+      "last_updated": "2025-06-06T11:02:00.257014"
     }
   },
   "toolHttpRequest": {
@@ -6264,7 +6290,7 @@
         1.1
       ],
       "is_multi_version": true,
-      "last_updated": "2025-05-29T00:22:58.452575"
+      "last_updated": "2025-06-06T11:02:00.608113"
     }
   },
   "toolSearXng": {
@@ -6276,7 +6302,7 @@
         1.0
       ],
       "is_multi_version": false,
-      "last_updated": "2025-05-29T00:22:58.896920"
+      "last_updated": "2025-06-06T11:02:00.981311"
     }
   },
   "toolSerpApi": {
@@ -6288,7 +6314,7 @@
         1.0
       ],
       "is_multi_version": false,
-      "last_updated": "2025-05-29T00:22:59.243947"
+      "last_updated": "2025-06-06T11:02:01.355111"
     }
   },
   "toolThink": {
@@ -6300,7 +6326,7 @@
         1.0
       ],
       "is_multi_version": false,
-      "last_updated": "2025-05-29T00:22:59.633299"
+      "last_updated": "2025-06-06T11:02:01.705951"
     }
   },
   "toolVectorStore": {
@@ -6313,7 +6339,7 @@
         1.1
       ],
       "is_multi_version": true,
-      "last_updated": "2025-05-29T00:23:00.013484"
+      "last_updated": "2025-06-06T11:02:02.067538"
     }
   },
   "toolWikipedia": {
@@ -6325,7 +6351,7 @@
         1.0
       ],
       "is_multi_version": false,
-      "last_updated": "2025-05-29T00:23:00.358898"
+      "last_updated": "2025-06-06T11:02:02.408269"
     }
   },
   "toolWolframAlpha": {
@@ -6337,7 +6363,7 @@
         1.0
       ],
       "is_multi_version": false,
-      "last_updated": "2025-05-29T00:23:00.755847"
+      "last_updated": "2025-06-06T11:02:02.785617"
     }
   },
   "toolWorkflow": {
@@ -6349,7 +6375,7 @@
         2.2
       ],
       "is_multi_version": false,
-      "last_updated": "2025-05-29T00:23:01.178483"
+      "last_updated": "2025-06-06T11:02:03.127909"
     }
   },
   "allowFileUploads": {
@@ -6362,7 +6388,7 @@
         1.1
       ],
       "is_multi_version": true,
-      "last_updated": "2025-05-29T00:23:02.321353"
+      "last_updated": "2025-06-06T11:02:04.256280"
     }
   },
   "manualChatTrigger": {
@@ -6375,7 +6401,7 @@
         1.1
       ],
       "is_multi_version": true,
-      "last_updated": "2025-05-29T00:23:02.674981"
+      "last_updated": "2025-06-06T11:02:04.653737"
     }
   },
   "vectorStoreInMemoryInsert": {
@@ -6387,7 +6413,7 @@
         1.0
       ],
       "is_multi_version": false,
-      "last_updated": "2025-05-29T00:23:03.483647"
+      "last_updated": "2025-06-06T11:02:05.427130"
     }
   },
   "vectorStoreInMemoryLoad": {
@@ -6399,7 +6425,7 @@
         1.0
       ],
       "is_multi_version": false,
-      "last_updated": "2025-05-29T00:23:03.855340"
+      "last_updated": "2025-06-06T11:02:05.832383"
     }
   },
   "vectorStorePineconeInsert": {
@@ -6411,7 +6437,7 @@
         1.0
       ],
       "is_multi_version": false,
-      "last_updated": "2025-05-29T00:23:05.915785"
+      "last_updated": "2025-06-06T11:02:07.760037"
     }
   },
   "vectorStorePineconeLoad": {
@@ -6423,7 +6449,7 @@
         1.0
       ],
       "is_multi_version": false,
-      "last_updated": "2025-05-29T00:23:06.314880"
+      "last_updated": "2025-06-06T11:02:08.129748"
     }
   },
   "vectorStoreSupabaseInsert": {
@@ -6435,7 +6461,7 @@
         1.0
       ],
       "is_multi_version": false,
-      "last_updated": "2025-05-29T00:23:07.424251"
+      "last_updated": "2025-06-06T11:02:09.301775"
     }
   },
   "vectorStoreSupabaseLoad": {
@@ -6447,7 +6473,7 @@
         1.0
       ],
       "is_multi_version": false,
-      "last_updated": "2025-05-29T00:23:07.831679"
+      "last_updated": "2025-06-06T11:02:09.674834"
     }
   },
   "vectorStoreZepInsert": {
@@ -6459,7 +6485,7 @@
         1.0
       ],
       "is_multi_version": false,
-      "last_updated": "2025-05-29T00:23:08.701937"
+      "last_updated": "2025-06-06T11:02:10.434073"
     }
   },
   "vectorStoreZepLoad": {
@@ -6471,7 +6497,7 @@
         1.0
       ],
       "is_multi_version": false,
-      "last_updated": "2025-05-29T00:23:09.118308"
+      "last_updated": "2025-06-06T11:02:10.829442"
     }
   }
 }
